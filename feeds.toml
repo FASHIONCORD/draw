@@ -1,9 +1,0 @@
-[luck-d]
-title = "LUCKY DRAW"
-url = "https://www.luck-d.com/home/"
-entrySelector = "div.gallery div.gallery_cell_layer"
-titleSelector = "h5 a"
-linkSelector = "h5 a"
-contentSelector = "div.agent_site_info p"
-imageSelector = "div.product_thumb_layer a img"
-waitUntil = "networkidle"
