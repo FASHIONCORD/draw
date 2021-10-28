@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>ABC마트 그랜드스테이지 온라인몰</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:09:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[W NIKE DUNK LOW]]></title>
-            <link>https://grandstage.a-rt.com/product?prdtNo=1020081789</link>
-            <guid>https://grandstage.a-rt.com/product?prdtNo=1020081789</guid>
-            <pubDate>Thu, 28 Oct 2021 13:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 ~ 2021.10.28]]></content:encoded>
-            <enclosure url="https://image.a-rt.com/art/product/2021/01/97790_1609923069297.jpg?shrink=376:376" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[W NIKE DUNK LOW]]></title>
-            <link>https://grandstage.a-rt.com/product?prdtNo=1020087250</link>
-            <guid>https://grandstage.a-rt.com/product?prdtNo=1020087250</guid>
-            <pubDate>Thu, 28 Oct 2021 13:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 ~ 2021.10.28]]></content:encoded>
-            <enclosure url="https://image.a-rt.com/art/product/2021/10/08128_1635224496965.jpg?shrink=376:376" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[W NIKE DUNK LOW]]></title>
-            <link>https://grandstage.a-rt.com/product?prdtNo=1020087251</link>
-            <guid>https://grandstage.a-rt.com/product?prdtNo=1020087251</guid>
-            <pubDate>Thu, 28 Oct 2021 13:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 ~ 2021.10.28]]></content:encoded>
-            <enclosure url="https://image.a-rt.com/art/product/2021/10/83166_1635151881287.jpg?shrink=376:376" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://grandstage.a-rt.com/display/calendar</id>
+    <title>ABC마트 그랜드스테이지 온라인몰</title>
+    <updated>2021-10-28T15:10:15.330Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://grandstage.a-rt.com/static/images/favicon/favicon_128x128.png</icon>
+</feed>
