@@ -6,7 +6,7 @@ titleSelector = "div[class='launch-caption ta-sm-c']"
 linkSelector = "a[class='card-link d-sm-b comingsoon']"
 contentSelector = "div[class='copy-container ta-sm-c bg-white pt6-sm pb7-sm pb7-lg']"
 imageSelector = "img[class='img-component image-component mod-image-component u-full-width']"
-waitForSelector = "li[class='launch-list-item item-imgwrap pb2-sm va-sm-t ncss-col-sm-12 ncss-col-md-6 ncss-col-lg-4 pb4-md prl0-sm prl2-md ncss-col-sm-6 ncss-col-lg-3 pb4-md prl2-md pl0-md pr1-md d-sm-h d-md-ib  upcomingItem complete']"
+waitForSelector = "div.pt4-md.pt6-lg.feed-container"
 
 [luck-d]
 title = "LUCKY DRAW"
