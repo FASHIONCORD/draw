@@ -1,3 +1,13 @@
+[nike_launch_upcoming]
+title = "NIKE ─ SNKRS ─ Upcoming"
+url = "https://www.nike.com/kr/launch/?type=upcoming"
+entrySelector = "ul[class='item-list-wrap upcoming-section bg-white ncss-row prl2-md prl5-lg pb4-md pb6-lg  gallery'] li[class^='launch-list-item item-imgwrap']"
+titleSelector = "div[class='launch-caption ta-sm-c']"
+linkSelector = "a[class='card-link d-sm-b comingsoon']"
+contentSelector = "div[class='copy-container ta-sm-c bg-white pt6-sm pb7-sm pb7-lg']"
+imageSelector = "img[class='img-component image-component mod-image-component u-full-width']"
+waitUntil = "networkidle"
+
 [luck-d]
 title = "LUCKY DRAW"
 url = "https://www.luck-d.com/home/"
