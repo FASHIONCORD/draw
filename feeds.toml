@@ -6,7 +6,8 @@ titleSelector = "div[class='launch-caption ta-sm-c']"
 linkSelector = "a[class='card-link d-sm-b comingsoon']"
 contentSelector = "div[class='copy-container ta-sm-c bg-white pt6-sm pb7-sm pb7-lg']"
 imageSelector = "img[class='img-component image-component mod-image-component u-full-width']"
-waitUntil = "networkidle"
+waitForSelector = "li[class^='launch-list-item item-imgwrap']"
+onFail = "stale"
 
 [luck-d]
 title = "LUCKY DRAW"
