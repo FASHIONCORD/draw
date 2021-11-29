@@ -29,7 +29,7 @@ linkSelector = "div.img_area a"
 contentSelector = "div.text_area"
 waitUntil = "networkidle"
 
-[musinsa_raffle]
+[musinsa]
 title = "무신사 ─ Raffle"
 url = "https://store.musinsa.com/app/raffle/lists"
 entrySelector = "ul.raffle-list li"
