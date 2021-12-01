@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -955,19 +955,6 @@
             <enclosure url="https://dxqp67px8ll3g.cloudfront.net/BOARD/1636273750_92a5f122a0a5a31620db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈프림 X 나이키 SB 덩크 로우 블랙 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/512</link>
-            <guid>https://www.shoeprize.com/raffles/512</guid>
-            <pubDate>Tue, 30 Nov 2021 17:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        무신사
-      </div>
-      <div class="name">슈프림 X 나이키 SB 덩크 로우 블랙</div>
-      <div class="delivery">한국 /
-        국내 배송 /
-        당첨 알림 발송</div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[에어 조던 1 로우 브레드 토 GS (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/77603</link>
             <guid>https://www.shoeprize.com/raffles/77603</guid>
@@ -1281,6 +1268,19 @@
       <div class="name">에어 조던 1 하이 엘리먼트 고어 텍스 세일</div>
       <div class="delivery">한국 /
         매장 수령</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슈프림 X 나이키 SB 덩크 로우 블랙 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/512</link>
+            <guid>https://www.shoeprize.com/raffles/512</guid>
+            <pubDate>Tue, 30 Nov 2021 17:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        무신사
+      </div>
+      <div class="name">슈프림 X 나이키 SB 덩크 로우 블랙</div>
+      <div class="delivery">한국 /
+        국내 배송 /
+        당첨 알림 발송</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아디다스 이지 퀀텀 앰버 틴트 (슈프라이즈)]]></title>
@@ -1602,11 +1602,24 @@
         배대지</div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덩크 로우 SB 슈프림 스타 블랙 (무신사 ─ Raffle)]]></title>
-            <link>https://store.musinsa.com/app/raffle/views/333</link>
-            <guid>https://store.musinsa.com/app/raffle/views/333</guid>
+            <title><![CDATA[피스마이너스원 X 나이키 퀀도1 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/64542</link>
+            <guid>https://www.shoeprize.com/raffles/64542</guid>
+            <pubDate>Tue, 30 Nov 2021 17:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        ARCHITECTURE AND SNEAKERS
+      </div>
+      <div class="name">피스마이너스원 X 나이키 퀀도1</div>
+      <div class="delivery">일본 /
+        배대지 /
+        당첨 알림 방송</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공용 모노그램 모티프 아이콘 스트라이프 코튼 야구 모자 - 아카이브 베이지 / 8026924 (무신사 ─ Raffle)]]></title>
+            <link>https://store.musinsa.com/app/raffle/views/334</link>
+            <guid>https://store.musinsa.com/app/raffle/views/334</guid>
             <pubDate>Mon, 29 Nov 2021 10:05:12 GMT</pubDate>
-            <enclosure url="https://image.msscdn.net/images/raffle/pc_list_img/2021111816042000000010622.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/images/raffle/pc_list_img/2021111816080700000023220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상탈 33 오드퍼퓸 100ml (무신사 ─ Raffle)]]></title>
@@ -1621,13 +1634,6 @@
             <guid>https://store.musinsa.com/app/raffle/views/335</guid>
             <pubDate>Mon, 29 Nov 2021 10:05:12 GMT</pubDate>
             <enclosure url="https://image.msscdn.net/images/raffle/pc_list_img/2021111816094300000091948.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공용 모노그램 모티프 아이콘 스트라이프 코튼 야구 모자 - 아카이브 베이지 / 8026924 (무신사 ─ Raffle)]]></title>
-            <link>https://store.musinsa.com/app/raffle/views/334</link>
-            <guid>https://store.musinsa.com/app/raffle/views/334</guid>
-            <pubDate>Mon, 29 Nov 2021 10:05:12 GMT</pubDate>
-            <enclosure url="https://image.msscdn.net/images/raffle/pc_list_img/2021111816080700000023220.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
