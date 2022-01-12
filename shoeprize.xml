@@ -2,61 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2022-01-11T23:11:07.534Z</updated>
+    <updated>2022-01-12T00:35:41.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 550 화이트 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/36380</id>
-        <link href="https://www.shoeprize.com/raffles/36380"/>
-        <updated>2022-01-11T04:12:43.004Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        STRESS95
-      </div>
-      <div class="name">뉴발란스 550 화이트 그레이</div>
-      <div class="delivery">노르웨이 /
-        직배 /
-        당첨 메일 발송</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 하베스트 문]]></title>
-        <id>https://www.shoeprize.com/raffles/78073</id>
-        <link href="https://www.shoeprize.com/raffles/78073"/>
-        <updated>2022-01-10T05:12:03.743Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        STRESS95
-      </div>
-      <div class="name">나이키 덩크 로우 우먼스 하베스트 문</div>
-      <div class="delivery">노르웨이 /
-        직배 /
-        당첨 메일 발송</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 페이턴트 브레드]]></title>
-        <id>https://www.shoeprize.com/raffles/57367</id>
-        <link href="https://www.shoeprize.com/raffles/57367"/>
-        <updated>2022-01-11T08:12:26.410Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        UNION TOKYO
-      </div>
-      <div class="name">에어 조던 1 하이 OG 페이턴트 브레드</div>
-      <div class="delivery">일본 /
-        배대지 /
-        당첨 메일 발송</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 하이 우먼스 핑크 프라임]]></title>
-        <id>https://www.shoeprize.com/raffles/78760</id>
-        <link href="https://www.shoeprize.com/raffles/78760"/>
-        <updated>2022-01-10T15:10:35.975Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        NIKE JP
-      </div>
-      <div class="name">나이키 덩크 하이 우먼스 핑크 프라임</div>
-      <div class="delivery">일본 /
-        배대지 /
-        당첨 알림 발송</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 모어 업템포 '96 트레이딩 카드]]></title>
         <id>https://www.shoeprize.com/raffles/79604</id>
@@ -289,6 +237,58 @@
       <div class="delivery">네덜란드 /
         배대지 /
         당첨 메일 발송</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 550 화이트 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/36380</id>
+        <link href="https://www.shoeprize.com/raffles/36380"/>
+        <updated>2022-01-11T04:12:43.004Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        STRESS95
+      </div>
+      <div class="name">뉴발란스 550 화이트 그레이</div>
+      <div class="delivery">노르웨이 /
+        직배 /
+        당첨 메일 발송</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 하베스트 문]]></title>
+        <id>https://www.shoeprize.com/raffles/78073</id>
+        <link href="https://www.shoeprize.com/raffles/78073"/>
+        <updated>2022-01-10T05:12:03.743Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        STRESS95
+      </div>
+      <div class="name">나이키 덩크 로우 우먼스 하베스트 문</div>
+      <div class="delivery">노르웨이 /
+        직배 /
+        당첨 메일 발송</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG 페이턴트 브레드]]></title>
+        <id>https://www.shoeprize.com/raffles/57367</id>
+        <link href="https://www.shoeprize.com/raffles/57367"/>
+        <updated>2022-01-11T08:12:26.410Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        UNION TOKYO
+      </div>
+      <div class="name">에어 조던 1 하이 OG 페이턴트 브레드</div>
+      <div class="delivery">일본 /
+        배대지 /
+        당첨 메일 발송</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 하이 우먼스 핑크 프라임]]></title>
+        <id>https://www.shoeprize.com/raffles/78760</id>
+        <link href="https://www.shoeprize.com/raffles/78760"/>
+        <updated>2022-01-10T15:10:35.975Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        NIKE JP
+      </div>
+      <div class="name">나이키 덩크 하이 우먼스 핑크 프라임</div>
+      <div class="delivery">일본 /
+        배대지 /
+        당첨 알림 발송</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 로우 골프 울프 그레이]]></title>
