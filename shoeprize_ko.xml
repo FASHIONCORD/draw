@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-01-16T05:12:53.577Z</updated>
+    <updated>2022-01-16T06:13:28.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG 페이턴트 브레드]]></title>
+        <id>https://www.shoeprize.com/raffles/57367</id>
+        <link href="https://www.shoeprize.com/raffles/57367"/>
+        <updated>2022-01-16T06:12:12.180Z</updated>
+        <content type="html"><![CDATA[<span class="time" display:="" inline-block;"="" lang="en">17분</span> 후 마감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 4 레드 썬더]]></title>
         <id>https://www.shoeprize.com/raffles/57562</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<span>2시간 전 출시</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에어 조던 4 레드 썬더]]></title>
-        <id>https://www.shoeprize.com/raffles/57562</id>
-        <link href="https://www.shoeprize.com/raffles/57562"/>
-        <updated>2022-01-16T04:12:24.112Z</updated>
-        <content type="html"><![CDATA[<span>1시간 전 출시</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[에어 조던 1 로우 골프 울프 그레이]]></title>
         <id>https://www.shoeprize.com/raffles/80994</id>
         <link href="https://www.shoeprize.com/raffles/80994"/>
         <updated>2022-01-15T15:09:52.879Z</updated>
-        <content type="html"><![CDATA[<span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감]]></content>
+        <content type="html"><![CDATA[<span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 로우 다크 틸]]></title>
@@ -58,6 +58,41 @@
       </div>
 
       <button data-id="18167" type="button" class="btn-markdone btn_check  " aria-label="체크"></button>
+    </div>
+  </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 4 레드 썬더]]></title>
+        <id>https://www.shoeprize.com/raffles/57562</id>
+        <link href="https://www.shoeprize.com/raffles/57562"/>
+        <updated>2022-01-16T04:12:24.112Z</updated>
+        <content type="html"><![CDATA[<div class="img_area">
+    <a href="/raffles/57562">
+      <img class="" src="https://static.shoeprize.kr/Raffle/thumb/CT8527-016-shoeprize-AIR-JORDAN-4-RED-THUNDER-57562-1632533130252.jpg?w=700&amp;f=jpeg&amp;q=90" data-src="https://static.shoeprize.kr/Raffle/thumb/CT8527-016-shoeprize-AIR-JORDAN-4-RED-THUNDER-57562-1632533130252.jpg?w=700&amp;f=jpeg&amp;q=90" alt="">
+    </a>
+  </div>
+  <div class="info_area">
+    <div class="text_area">
+      <div class="brand">
+        나이키 대전 제일점
+      </div>
+      <div class="name">에어 조던 4 레드 썬더</div>
+      <div class="delivery">한국 /
+        매장 수령 /
+        오프라인 선착순</div>
+    </div>
+    <div class="info_btn_area">
+      <div class="btn_area">
+        <!-- [D] 종료시, 완료시 button에 disabled 속성추가 -->
+        <button type="button" class="u_btn border_type btn_apply visit-url
+" data-uuid="5fcb5e89-259a-4326-852b-8feac659a7e8">
+          
+          종료
+          </button>
+        
+      </div>
+
+      <button data-id="18168" type="button" class="btn-markdone btn_check  " aria-label="체크"></button>
     </div>
   </div>]]></content>
     </entry>
