@@ -50,6 +50,16 @@ contentSelector = "span.time_count"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[shoeprize_culture]
+title = "슈프라이즈 - 컬처"
+url = "https://www.shoeprize.com/culture/"
+entrySelector = "ul.culture_list li"
+titleSelector = "div.post_title"
+linkSelector = "a"
+contentSelector = "div.post_content"
+imageSelector = "div.img_area img"
+waitUntil = "networkidle"
+
 [musinsa]
 title = "무신사 ─ Raffle"
 url = "https://store.musinsa.com/app/raffle/lists"
