@@ -62,7 +62,7 @@ waitUntil = "networkidle"
 
 [musinsa]
 title = "무신사 ─ Raffle"
-url = "https://store.musinsa.com/app/raffle/lists"
+url = "https://www.musinsa.com/event/raffles?raffles_include_state=S"
 entrySelector = "a.view"
 titleSelector = "strong.tit"
 linkSelector = "*"
