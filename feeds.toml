@@ -58,13 +58,3 @@ titleSelector = "div.post_title"
 linkSelector = "a"
 contentSelector = "div.post_content"
 waitUntil = "networkidle"
-
-[musinsa]
-title = "무신사 ─ Raffle"
-url = "https://www.musinsa.com/event/raffles?raffles_include_state=S"
-entrySelector = "a.view"
-titleSelector = "strong.tit"
-linkSelector = "*"
-contentSelector = "span.brand"
-imageSelector = "img"
-waitUntil = "networkidle"
