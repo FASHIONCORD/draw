@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-01-27T09:10:11.750Z</updated>
+    <updated>2022-01-27T10:10:16.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -202,13 +202,6 @@
         <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴발란스 550 시 솔트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/8149</id>
-        <link href="https://www.shoeprize.com/raffles/8149"/>
-        <updated>2022-01-26T10:10:22.715Z</updated>
-        <content type="html"><![CDATA[SIZE? *IN APP]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 다크 마리나 블루]]></title>
         <id>https://www.shoeprize.com/raffles/80740</id>
         <link href="https://www.shoeprize.com/raffles/80740"/>
@@ -221,5 +214,47 @@
         <link href="https://www.shoeprize.com/raffles/79023"/>
         <updated>2022-01-26T18:11:20.471Z</updated>
         <content type="html"><![CDATA[SNS *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 하이 판다]]></title>
+        <id>https://www.shoeprize.com/raffles/19888</id>
+        <link href="https://www.shoeprize.com/raffles/19888"/>
+        <updated>2022-01-26T15:10:05.103Z</updated>
+        <content type="html"><![CDATA[BODEGA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 로우 애슬레틱 클럽 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/80963</id>
+        <link href="https://www.shoeprize.com/raffles/80963"/>
+        <updated>2022-01-27T10:10:07.601Z</updated>
+        <content type="html"><![CDATA[NAKED]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG  TD 앳머스피어]]></title>
+        <id>https://www.shoeprize.com/raffles/80842</id>
+        <link href="https://www.shoeprize.com/raffles/80842"/>
+        <updated>2022-01-26T15:10:05.094Z</updated>
+        <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG  PS 앳머스피어]]></title>
+        <id>https://www.shoeprize.com/raffles/80841</id>
+        <link href="https://www.shoeprize.com/raffles/80841"/>
+        <updated>2022-01-26T15:10:05.092Z</updated>
+        <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 550 코트 바스켓 시라큐스]]></title>
+        <id>https://www.shoeprize.com/raffles/77126</id>
+        <link href="https://www.shoeprize.com/raffles/77126"/>
+        <updated>2022-01-27T10:10:07.603Z</updated>
+        <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 550 코트 바스켓 UNC 화이트 유니버시티]]></title>
+        <id>https://www.shoeprize.com/raffles/64417</id>
+        <link href="https://www.shoeprize.com/raffles/64417"/>
+        <updated>2022-01-27T10:10:07.605Z</updated>
+        <content type="html"><![CDATA[AFEW-STORE]]></content>
     </entry>
 </feed>
