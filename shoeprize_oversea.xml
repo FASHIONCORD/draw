@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-01-28T15:10:33.473Z</updated>
+    <updated>2022-01-28T16:12:57.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -160,13 +160,6 @@
         <content type="html"><![CDATA[STARCOW PARIS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나이키 덩크 하이 베얼리 그린 PS]]></title>
-        <id>https://www.shoeprize.com/raffles/8331</id>
-        <link href="https://www.shoeprize.com/raffles/8331"/>
-        <updated>2022-01-27T16:14:32.394Z</updated>
-        <content type="html"><![CDATA[NIKE US]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나이키 덩크 하이 레트로 토스티 샌드]]></title>
         <id>https://www.shoeprize.com/raffles/78706</id>
         <link href="https://www.shoeprize.com/raffles/78706"/>
@@ -249,5 +242,26 @@
         <link href="https://www.shoeprize.com/raffles/56573"/>
         <updated>2022-01-28T14:09:17.756Z</updated>
         <content type="html"><![CDATA[SVD *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 디스럽트 2 우먼스 팬텀 앤드 유니버시티 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/81035</id>
+        <link href="https://www.shoeprize.com/raffles/81035"/>
+        <updated>2022-01-28T16:12:44.940Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 디스럽트 2 우먼스 페일 아이보리]]></title>
+        <id>https://www.shoeprize.com/raffles/81034</id>
+        <link href="https://www.shoeprize.com/raffles/81034"/>
+        <updated>2022-01-28T16:12:44.941Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 디스럽트 2 디저트 브론즈]]></title>
+        <id>https://www.shoeprize.com/raffles/81178</id>
+        <link href="https://www.shoeprize.com/raffles/81178"/>
+        <updated>2022-01-28T16:12:44.942Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
     </entry>
 </feed>
