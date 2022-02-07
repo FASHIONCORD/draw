@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-02-07T04:12:19.588Z</updated>
+    <updated>2022-02-07T05:09:36.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[새들러 하우스 x 아이앱 스튜디오]]></title>
-        <id>https://www.shoeprize.com/raffles/81320</id>
-        <link href="https://www.shoeprize.com/raffles/81320"/>
-        <updated>2022-02-07T01:52:53.571Z</updated>
-        <content type="html"><![CDATA[새들러 하우스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/385</id>
@@ -102,5 +95,26 @@
         <link href="https://www.shoeprize.com/raffles/80832"/>
         <updated>2022-02-07T02:24:29.827Z</updated>
         <content type="html"><![CDATA[나이키 익산 영등동점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새들러 하우스 x 아이앱 스튜디오]]></title>
+        <id>https://www.shoeprize.com/raffles/81320</id>
+        <link href="https://www.shoeprize.com/raffles/81320"/>
+        <updated>2022-02-07T01:52:53.571Z</updated>
+        <content type="html"><![CDATA[새들러 하우스 본점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새들러 하우스 x 아이앱 스튜디오]]></title>
+        <id>https://www.shoeprize.com/raffles/81320</id>
+        <link href="https://www.shoeprize.com/raffles/81320"/>
+        <updated>2022-02-07T01:52:53.571Z</updated>
+        <content type="html"><![CDATA[새들러 하우스 성수점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새들러 하우스 x 아이앱 스튜디오]]></title>
+        <id>https://www.shoeprize.com/raffles/81320</id>
+        <link href="https://www.shoeprize.com/raffles/81320"/>
+        <updated>2022-02-07T01:52:53.571Z</updated>
+        <content type="html"><![CDATA[새들러 하우스 제주애월점]]></content>
     </entry>
 </feed>
