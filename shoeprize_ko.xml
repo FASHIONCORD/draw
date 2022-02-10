@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-02-10T05:10:39.422Z</updated>
+    <updated>2022-02-10T06:11:44.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.shoeprize.com/raffles/63923"/>
         <updated>2022-02-09T15:10:03.821Z</updated>
         <content type="html"><![CDATA[크림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 우먼스 쉐르파 플리스]]></title>
+        <id>https://www.shoeprize.com/raffles/64158</id>
+        <link href="https://www.shoeprize.com/raffles/64158"/>
+        <updated>2022-02-10T06:11:24.462Z</updated>
+        <content type="html"><![CDATA[나이키 인천 신포점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 PRM 할로윈]]></title>
@@ -67,6 +74,13 @@
         <link href="https://www.shoeprize.com/raffles/81035"/>
         <updated>2022-02-10T01:53:45.013Z</updated>
         <content type="html"><![CDATA[W컨셉]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 로우 우먼스 에어 스프렁 페일 아이보리]]></title>
+        <id>https://www.shoeprize.com/raffles/81198</id>
+        <link href="https://www.shoeprize.com/raffles/81198"/>
+        <updated>2022-02-10T06:11:24.471Z</updated>
+        <content type="html"><![CDATA[나이키 홍대점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 SB 덩크 로우 클로러필]]></title>
@@ -279,10 +293,24 @@
         <content type="html"><![CDATA[나이키 서면 제일점]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 GS 화이트 핑크]]></title>
+        <id>https://www.shoeprize.com/raffles/80643</id>
+        <link href="https://www.shoeprize.com/raffles/80643"/>
+        <updated>2022-02-10T03:10:37.511Z</updated>
+        <content type="html"><![CDATA[나이키 전주제일점]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[강혁 X 리복 클래식 레더 K]]></title>
         <id>https://www.shoeprize.com/raffles/81341</id>
         <link href="https://www.shoeprize.com/raffles/81341"/>
         <updated>2022-02-09T08:14:32.428Z</updated>
         <content type="html"><![CDATA[리복 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 미드 우먼스 라이트 멀베리]]></title>
+        <id>https://www.shoeprize.com/raffles/80683</id>
+        <link href="https://www.shoeprize.com/raffles/80683"/>
+        <updated>2022-02-10T06:11:24.504Z</updated>
+        <content type="html"><![CDATA[훕시티]]></content>
     </entry>
 </feed>
