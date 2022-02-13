@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-02-13T06:18:32.531Z</updated>
+    <updated>2022-02-13T07:09:36.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[charlie]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG  우먼스 앳머스피어]]></title>
+        <id>https://www.shoeprize.com/raffles/63680</id>
+        <link href="https://www.shoeprize.com/raffles/63680"/>
+        <updated>2022-02-13T07:09:27.480Z</updated>
+        <content type="html"><![CDATA[SVD *IN APP]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 우먼스 핑크 프라임]]></title>
         <id>https://www.shoeprize.com/raffles/80453</id>
         <link href="https://www.shoeprize.com/raffles/80453"/>
@@ -45,48 +52,6 @@
         <id>https://www.shoeprize.com/raffles/78676</id>
         <link href="https://www.shoeprize.com/raffles/78676"/>
         <updated>2022-02-07T15:09:52.679Z</updated>
-        <content type="html"><![CDATA[NIKE US]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 미드 PS 크림 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/81435</id>
-        <link href="https://www.shoeprize.com/raffles/81435"/>
-        <updated>2022-02-12T06:10:48.137Z</updated>
-        <content type="html"><![CDATA[NIKE US]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 베니스]]></title>
-        <id>https://www.shoeprize.com/raffles/78156</id>
-        <link href="https://www.shoeprize.com/raffles/78156"/>
-        <updated>2022-02-11T17:09:49.730Z</updated>
-        <content type="html"><![CDATA[A MA MANIERE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 하베스트 문]]></title>
-        <id>https://www.shoeprize.com/raffles/78073</id>
-        <link href="https://www.shoeprize.com/raffles/78073"/>
-        <updated>2022-02-11T17:09:49.730Z</updated>
-        <content type="html"><![CDATA[A MA MANIERE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 울프 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/80832</id>
-        <link href="https://www.shoeprize.com/raffles/80832"/>
-        <updated>2022-02-12T08:13:24.102Z</updated>
-        <content type="html"><![CDATA[ARCHITECTURE AND SNEAKERS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 유니버시티 골드 앤 라이트 보르도]]></title>
-        <id>https://www.shoeprize.com/raffles/80837</id>
-        <link href="https://www.shoeprize.com/raffles/80837"/>
-        <updated>2022-02-12T08:13:24.102Z</updated>
-        <content type="html"><![CDATA[NIKE US]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 허라치 우먼스 WM]]></title>
-        <id>https://www.shoeprize.com/raffles/81437</id>
-        <link href="https://www.shoeprize.com/raffles/81437"/>
-        <updated>2022-02-12T08:13:24.102Z</updated>
         <content type="html"><![CDATA[NIKE US]]></content>
     </entry>
     <entry>
@@ -249,5 +214,12 @@
         <link href="https://www.shoeprize.com/raffles/77903"/>
         <updated>2022-02-13T05:08:45.608Z</updated>
         <content type="html"><![CDATA[UNDEFEATED JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 우먼스 로우 원 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/78196</id>
+        <link href="https://www.shoeprize.com/raffles/78196"/>
+        <updated>2022-02-13T07:09:27.503Z</updated>
+        <content type="html"><![CDATA[URBANSTAROMA]]></content>
     </entry>
 </feed>
