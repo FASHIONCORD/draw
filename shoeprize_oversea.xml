@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-02-13T08:11:33.209Z</updated>
+    <updated>2022-02-13T09:12:27.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 포스 1 미드 애슬레틱 클럽 옐로우]]></title>
-        <id>https://www.shoeprize.com/raffles/80628</id>
-        <link href="https://www.shoeprize.com/raffles/80628"/>
-        <updated>2022-02-13T05:08:45.564Z</updated>
-        <content type="html"><![CDATA[NIKE US]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강혁 X 리복 클래식 레더 K]]></title>
-        <id>https://www.shoeprize.com/raffles/81341</id>
-        <link href="https://www.shoeprize.com/raffles/81341"/>
-        <updated>2022-02-13T05:08:45.565Z</updated>
-        <content type="html"><![CDATA[REEBOK US]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 포스 1 '07 SE 우먼스 라이트 본]]></title>
         <id>https://www.shoeprize.com/raffles/17790</id>
@@ -53,6 +39,20 @@
         <link href="https://www.shoeprize.com/raffles/78676"/>
         <updated>2022-02-07T15:09:52.679Z</updated>
         <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 미드 애슬레틱 클럽 옐로우]]></title>
+        <id>https://www.shoeprize.com/raffles/80628</id>
+        <link href="https://www.shoeprize.com/raffles/80628"/>
+        <updated>2022-02-13T05:08:45.564Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강혁 X 리복 클래식 레더 K]]></title>
+        <id>https://www.shoeprize.com/raffles/81341</id>
+        <link href="https://www.shoeprize.com/raffles/81341"/>
+        <updated>2022-02-13T05:08:45.565Z</updated>
+        <content type="html"><![CDATA[REEBOK US]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 포스 1 로우 애슬레틱 클럽 블랙]]></title>
