@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-02-16T22:10:18.117Z</updated>
+    <updated>2022-02-16T23:11:42.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[아디다스 이지 부스트 350 v2 CMPCT 슬레이트 레드]]></title>
-        <id>https://www.shoeprize.com/raffles/78228</id>
-        <link href="https://www.shoeprize.com/raffles/78228"/>
-        <updated>2022-02-16T07:09:44.694Z</updated>
-        <content type="html"><![CDATA[아디다스 코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 로우 SE 캔바스 앤 스웨이드]]></title>
         <id>https://www.shoeprize.com/raffles/79557</id>
@@ -144,6 +137,13 @@
         <link href="https://www.shoeprize.com/raffles/80975"/>
         <updated>2022-02-16T15:10:25.274Z</updated>
         <content type="html"><![CDATA[펄핏]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 이지 부스트 350 v2 CMPCT 슬레이트 레드]]></title>
+        <id>https://www.shoeprize.com/raffles/78228</id>
+        <link href="https://www.shoeprize.com/raffles/78228"/>
+        <updated>2022-02-16T07:09:44.694Z</updated>
+        <content type="html"><![CDATA[아디다스 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 화이트 블랙 GS]]></title>
