@@ -2,34 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2022-02-18T16:13:46.983Z</updated>
+    <updated>2022-02-18T17:11:17.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.kr/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[팔라스 2022 봄 컬렉션 3주 차]]></title>
-        <id>https://www.shoeprize.com/raffles/81532</id>
-        <link href="https://www.shoeprize.com/raffles/81532"/>
-        <updated>2022-02-18T07:10:26.213Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        PALACE US
-      </div>
-      <div class="name">팔라스 2022 봄 컬렉션 3주 차</div>
-      <div class="delivery">미국 /
-        배대지</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 이지 500 블러쉬]]></title>
-        <id>https://www.shoeprize.com/raffles/12750</id>
-        <link href="https://www.shoeprize.com/raffles/12750"/>
-        <updated>2022-02-14T05:09:33.308Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        SNEAKER POLITICS
-      </div>
-      <div class="name">아디다스 이지 500 블러쉬</div>
-      <div class="delivery">미국 /
-        배대지 /
-        당첨 메일 발송</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 이지 500 블러쉬]]></title>
         <id>https://www.shoeprize.com/raffles/12750</id>
@@ -366,6 +341,31 @@
       <div class="delivery">미국 /
         배대지 /
         당첨 알림 발송</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔라스 2022 봄 컬렉션 3주 차]]></title>
+        <id>https://www.shoeprize.com/raffles/81532</id>
+        <link href="https://www.shoeprize.com/raffles/81532"/>
+        <updated>2022-02-18T07:10:26.213Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        PALACE US
+      </div>
+      <div class="name">팔라스 2022 봄 컬렉션 3주 차</div>
+      <div class="delivery">미국 /
+        배대지</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 이지 500 블러쉬]]></title>
+        <id>https://www.shoeprize.com/raffles/12750</id>
+        <link href="https://www.shoeprize.com/raffles/12750"/>
+        <updated>2022-02-14T05:09:33.308Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        SNEAKER POLITICS
+      </div>
+      <div class="name">아디다스 이지 500 블러쉬</div>
+      <div class="delivery">미국 /
+        배대지 /
+        당첨 메일 발송</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 85 맨즈 티 화이트]]></title>
