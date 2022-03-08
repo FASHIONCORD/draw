@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-03-08T02:05:52.125Z</updated>
+    <updated>2022-03-08T03:12:46.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[NIKE JP]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오스키 X 나이키 SB 덩크 하이]]></title>
+        <id>https://www.shoeprize.com/raffles/81480</id>
+        <link href="https://www.shoeprize.com/raffles/81480"/>
+        <updated>2022-03-08T03:12:34.279Z</updated>
+        <content type="html"><![CDATA[FTC SKATE]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[살레헤 벰버리 X 뉴발란스 유르트 574 팀 포레스트 그린]]></title>
         <id>https://www.shoeprize.com/raffles/78167</id>
         <link href="https://www.shoeprize.com/raffles/78167"/>
@@ -340,5 +347,12 @@
         <link href="https://www.shoeprize.com/raffles/55050"/>
         <updated>2022-03-07T18:12:23.938Z</updated>
         <content type="html"><![CDATA[SLAMJAM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 레트로 하이 OG 리벨리오네어]]></title>
+        <id>https://www.shoeprize.com/raffles/78114</id>
+        <link href="https://www.shoeprize.com/raffles/78114"/>
+        <updated>2022-03-08T03:12:34.286Z</updated>
+        <content type="html"><![CDATA[TITOLO]]></content>
     </entry>
 </feed>
