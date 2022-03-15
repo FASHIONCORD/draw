@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-03-15T22:12:23.619Z</updated>
+    <updated>2022-03-15T23:11:27.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -223,13 +223,6 @@
         <content type="html"><![CDATA[슈프라이즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아디다스 이지 부스트 350 V2 본]]></title>
-        <id>https://www.shoeprize.com/raffles/81014</id>
-        <link href="https://www.shoeprize.com/raffles/81014"/>
-        <updated>2022-03-15T00:41:29.833Z</updated>
-        <content type="html"><![CDATA[아디다스 코리아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 빈티지 그린]]></title>
         <id>https://www.shoeprize.com/raffles/80887</id>
         <link href="https://www.shoeprize.com/raffles/80887"/>
@@ -249,5 +242,12 @@
         <link href="https://www.shoeprize.com/raffles/78210"/>
         <updated>2022-03-15T04:13:43.516Z</updated>
         <content type="html"><![CDATA[카키스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 이지 부스트 700 웨이브 러너 솔리드 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/13209</id>
+        <link href="https://www.shoeprize.com/raffles/13209"/>
+        <updated>2022-03-15T23:11:09.195Z</updated>
+        <content type="html"><![CDATA[아디다스 코리아]]></content>
     </entry>
 </feed>
