@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-03-25T06:14:47.068Z</updated>
+    <updated>2022-03-25T07:11:37.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 엘리먼트 고어텍스 라이트 커리]]></title>
-        <id>https://www.shoeprize.com/raffles/81419</id>
-        <link href="https://www.shoeprize.com/raffles/81419"/>
-        <updated>2022-03-23T15:11:43.113Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 엘레먼트 고어텍스 라이트 베리]]></title>
-        <id>https://www.shoeprize.com/raffles/81462</id>
-        <link href="https://www.shoeprize.com/raffles/81462"/>
-        <updated>2022-03-24T15:13:21.124Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[메종 마르지엘라 X 리복 프로젝트 0 클래식 레더 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/82528</id>
@@ -566,10 +552,17 @@
         <content type="html"><![CDATA[FINISHLINE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에어 조던 7 레트로 사파이어]]></title>
-        <id>https://www.shoeprize.com/raffles/82534</id>
-        <link href="https://www.shoeprize.com/raffles/82534"/>
-        <updated>2022-03-24T07:11:07.086Z</updated>
+        <title type="html"><![CDATA[에어 조던 1 하이 엘리먼트 고어텍스 라이트 커리]]></title>
+        <id>https://www.shoeprize.com/raffles/81419</id>
+        <link href="https://www.shoeprize.com/raffles/81419"/>
+        <updated>2022-03-23T15:11:43.113Z</updated>
+        <content type="html"><![CDATA[SVD *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 엘레먼트 고어텍스 라이트 베리]]></title>
+        <id>https://www.shoeprize.com/raffles/81462</id>
+        <link href="https://www.shoeprize.com/raffles/81462"/>
+        <updated>2022-03-24T15:13:21.124Z</updated>
         <content type="html"><![CDATA[SVD *IN APP]]></content>
     </entry>
     <entry>
@@ -809,5 +802,12 @@
         <link href="https://www.shoeprize.com/raffles/81332"/>
         <updated>2022-03-25T03:17:55.773Z</updated>
         <content type="html"><![CDATA[FORGET ME NOTS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니온 X 나이키 덩크 로우 퍼플]]></title>
+        <id>https://www.shoeprize.com/raffles/80762</id>
+        <link href="https://www.shoeprize.com/raffles/80762"/>
+        <updated>2022-03-25T03:17:55.771Z</updated>
+        <content type="html"><![CDATA[UNION LA]]></content>
     </entry>
 </feed>
