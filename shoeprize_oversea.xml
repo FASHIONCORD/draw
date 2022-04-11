@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-04-11T03:38:44.215Z</updated>
+    <updated>2022-04-11T04:14:55.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -216,20 +216,6 @@
         <content type="html"><![CDATA[4ELEMENTOS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아식스 UB3-S 젤 님버스 9 블루]]></title>
-        <id>https://www.shoeprize.com/raffles/89210</id>
-        <link href="https://www.shoeprize.com/raffles/89210"/>
-        <updated>2022-04-09T17:11:47.168Z</updated>
-        <content type="html"><![CDATA[SLAMJAM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아식스 UB3-S 젤 님버스 9 럼 레이진]]></title>
-        <id>https://www.shoeprize.com/raffles/89200</id>
-        <link href="https://www.shoeprize.com/raffles/89200"/>
-        <updated>2022-04-09T17:11:47.168Z</updated>
-        <content type="html"><![CDATA[SLAMJAM]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[카와사키 닌자 x 아디다스 ZX 8000]]></title>
         <id>https://www.shoeprize.com/raffles/78464</id>
         <link href="https://www.shoeprize.com/raffles/78464"/>
@@ -277,5 +263,12 @@
         <link href="https://www.shoeprize.com/raffles/87879"/>
         <updated>2022-04-11T03:38:32.195Z</updated>
         <content type="html"><![CDATA[NEW BALANCE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 프리미엄 파슬 로즈]]></title>
+        <id>https://www.shoeprize.com/raffles/81270</id>
+        <link href="https://www.shoeprize.com/raffles/81270"/>
+        <updated>2022-04-10T12:16:20.297Z</updated>
+        <content type="html"><![CDATA[FORGET ME NOTS]]></content>
     </entry>
 </feed>
