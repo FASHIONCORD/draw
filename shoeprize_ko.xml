@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-04-14T08:15:48.290Z</updated>
+    <updated>2022-04-14T09:12:52.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/413</id>
-        <link href="https://www.shoeprize.com/raffles/413"/>
-        <updated>2022-04-13T07:11:30.017Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 울프 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/80832</id>
-        <link href="https://www.shoeprize.com/raffles/80832"/>
-        <updated>2022-04-14T02:42:01.355Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 포스 1 하이 훕스 팩]]></title>
         <id>https://www.shoeprize.com/raffles/82340</id>
@@ -641,6 +627,20 @@
         <link href="https://www.shoeprize.com/raffles/80736"/>
         <updated>2022-04-13T16:14:56.741Z</updated>
         <content type="html"><![CDATA[크림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-04-13T07:11:30.017Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/80832</id>
+        <link href="https://www.shoeprize.com/raffles/80832"/>
+        <updated>2022-04-14T02:42:01.355Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레고® 호그와트™: 76402 덤블도어의 집무실 | 해리포터]]></title>
