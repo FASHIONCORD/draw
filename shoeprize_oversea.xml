@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-04-21T09:12:18.319Z</updated>
+    <updated>2022-04-21T10:13:41.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[유니온 X 에어 조던 2 그레이 포그]]></title>
-        <id>https://www.shoeprize.com/raffles/79587</id>
-        <link href="https://www.shoeprize.com/raffles/79587"/>
-        <updated>2022-04-19T11:10:31.778Z</updated>
-        <content type="html"><![CDATA[SNS UK]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 이지 폼 러너 스톤 세이지]]></title>
         <id>https://www.shoeprize.com/raffles/82105</id>
@@ -305,6 +298,13 @@
         <link href="https://www.shoeprize.com/raffles/79587"/>
         <updated>2022-04-19T11:10:31.778Z</updated>
         <content type="html"><![CDATA[SLAMJAM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니온 X 에어 조던 2 그레이 포그]]></title>
+        <id>https://www.shoeprize.com/raffles/79587</id>
+        <link href="https://www.shoeprize.com/raffles/79587"/>
+        <updated>2022-04-19T11:10:31.778Z</updated>
+        <content type="html"><![CDATA[SNS UK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 이지 폼 러너 스톤 세이지]]></title>
@@ -667,21 +667,21 @@
         <title type="html"><![CDATA[슈프림 2022 봄, 여름 컬렉션 9주 차]]></title>
         <id>https://www.shoeprize.com/raffles/89878</id>
         <link href="https://www.shoeprize.com/raffles/89878"/>
-        <updated>2022-04-21T09:12:07.671Z</updated>
+        <updated>2022-04-21T09:12:07.560Z</updated>
         <content type="html"><![CDATA[SUPREME JP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈프림 2022 봄, 여름 컬렉션 9주 차]]></title>
         <id>https://www.shoeprize.com/raffles/89878</id>
         <link href="https://www.shoeprize.com/raffles/89878"/>
-        <updated>2022-04-21T09:12:07.672Z</updated>
+        <updated>2022-04-21T09:12:07.560Z</updated>
         <content type="html"><![CDATA[SUPREME US]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈프림 2022 봄, 여름 컬렉션 9주 차]]></title>
         <id>https://www.shoeprize.com/raffles/89878</id>
         <link href="https://www.shoeprize.com/raffles/89878"/>
-        <updated>2022-04-21T09:12:07.673Z</updated>
+        <updated>2022-04-21T09:12:07.560Z</updated>
         <content type="html"><![CDATA[SUPREME UK]]></content>
     </entry>
 </feed>
