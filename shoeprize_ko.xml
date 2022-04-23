@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-04-23T10:12:11.438Z</updated>
+    <updated>2022-04-23T11:10:37.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[오프화이트 X 에어 조던 1 레트로 하이 유니버시티 블루]]></title>
-        <id>https://www.shoeprize.com/raffles/19060</id>
-        <link href="https://www.shoeprize.com/raffles/19060"/>
-        <updated>2022-04-22T15:11:40.010Z</updated>
-        <content type="html"><![CDATA[슈프라이즈]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 맥스 1 라이트 매더 루트]]></title>
         <id>https://www.shoeprize.com/raffles/82925</id>
@@ -102,6 +95,13 @@
         <link href="https://www.shoeprize.com/raffles/80819"/>
         <updated>2022-04-23T07:11:01.506Z</updated>
         <content type="html"><![CDATA[나이키 이태원점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 X 에어 조던 1 레트로 하이 유니버시티 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/19060</id>
+        <link href="https://www.shoeprize.com/raffles/19060"/>
+        <updated>2022-04-22T15:11:40.010Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[살레헤 벰버리 x 뉴발란스 574 유르트 블랙]]></title>
