@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-05-02T03:20:55.690Z</updated>
+    <updated>2022-05-02T06:14:48.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 LX 우먼스 바나나]]></title>
-        <id>https://www.shoeprize.com/raffles/82775</id>
-        <link href="https://www.shoeprize.com/raffles/82775"/>
-        <updated>2022-04-26T09:12:26.537Z</updated>
-        <content type="html"><![CDATA[43EINHALB]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 블레이저 미드 77 EMB 우먼스 WNBA]]></title>
         <id>https://www.shoeprize.com/raffles/80872</id>
@@ -132,6 +125,13 @@
         <content type="html"><![CDATA[NIKE JP]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 LX 우먼스 바나나]]></title>
+        <id>https://www.shoeprize.com/raffles/82775</id>
+        <link href="https://www.shoeprize.com/raffles/82775"/>
+        <updated>2022-04-26T09:12:26.537Z</updated>
+        <content type="html"><![CDATA[43EINHALB]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이키 SB 덩크 하이 미네랄 슬레이트 스웨이드]]></title>
         <id>https://www.shoeprize.com/raffles/81183</id>
         <link href="https://www.shoeprize.com/raffles/81183"/>
@@ -142,7 +142,7 @@
         <title type="html"><![CDATA[유니온 X 에어 조던 2 그레이 포그]]></title>
         <id>https://www.shoeprize.com/raffles/79587</id>
         <link href="https://www.shoeprize.com/raffles/79587"/>
-        <updated>2022-05-02T03:20:42.949Z</updated>
+        <updated>2022-05-02T03:20:42.939Z</updated>
         <content type="html"><![CDATA[FOOTPATROL *IN APP]]></content>
     </entry>
     <entry>
@@ -195,7 +195,7 @@
         <content type="html"><![CDATA[END]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제레미 스캇 x 아디다스 포럼 하이 윙스 4.0]]></title>
+        <title type="html"><![CDATA[제레미 스캇 x 아디다스 포럼 하이 윙스 4.0 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/80824</id>
         <link href="https://www.shoeprize.com/raffles/80824"/>
         <updated>2022-05-02T03:20:42.963Z</updated>
@@ -205,14 +205,14 @@
         <title type="html"><![CDATA[제레미 스캇 x 아디다스 포럼 하이 윙스 4.0 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/81023</id>
         <link href="https://www.shoeprize.com/raffles/81023"/>
-        <updated>2022-05-02T03:20:42.964Z</updated>
+        <updated>2022-05-02T03:20:42.962Z</updated>
         <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제레미 스캇 x 아디다스 포럼 하이 윙스 4.0]]></title>
+        <title type="html"><![CDATA[제레미 스캇 x 아디다스 포럼 하이 윙스 4.0 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/80824</id>
         <link href="https://www.shoeprize.com/raffles/80824"/>
-        <updated>2022-05-02T03:20:42.965Z</updated>
+        <updated>2022-05-02T03:20:42.963Z</updated>
         <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
     </entry>
 </feed>
