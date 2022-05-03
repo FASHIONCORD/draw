@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-05-03T10:15:52.032Z</updated>
+    <updated>2022-05-03T11:11:37.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 로우 GS 워시드 데님]]></title>
-        <id>https://www.shoeprize.com/raffles/81192</id>
-        <link href="https://www.shoeprize.com/raffles/81192"/>
-        <updated>2022-05-03T10:15:34.730Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 11 레트로 2021 쿨 그레이]]></title>
         <id>https://www.shoeprize.com/raffles/57694</id>
@@ -347,6 +340,13 @@
         <link href="https://www.shoeprize.com/raffles/434"/>
         <updated>2022-05-03T06:14:09.292Z</updated>
         <content type="html"><![CDATA[나이키 동탄점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 GS 워시드 데님]]></title>
+        <id>https://www.shoeprize.com/raffles/81192</id>
+        <link href="https://www.shoeprize.com/raffles/81192"/>
+        <updated>2022-05-03T10:15:34.730Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 550 코트 바스켓 버건디]]></title>
