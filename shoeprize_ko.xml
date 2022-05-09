@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-05-09T07:12:07.402Z</updated>
+    <updated>2022-05-09T08:15:16.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 6 미드나잇 네이비]]></title>
-        <id>https://www.shoeprize.com/raffles/79077</id>
-        <link href="https://www.shoeprize.com/raffles/79077"/>
-        <updated>2022-05-09T07:11:51.657Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/413</id>
@@ -83,6 +76,20 @@
         <content type="html"><![CDATA[조던 홍대]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에어 조던 6 미드나잇 네이비]]></title>
+        <id>https://www.shoeprize.com/raffles/79077</id>
+        <link href="https://www.shoeprize.com/raffles/79077"/>
+        <updated>2022-05-09T07:11:51.657Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 KO 시라큐스]]></title>
+        <id>https://www.shoeprize.com/raffles/82535</id>
+        <link href="https://www.shoeprize.com/raffles/82535"/>
+        <updated>2022-05-09T08:15:00.078Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에어 조던 1 미드 우먼스 코코넛 밀크]]></title>
         <id>https://www.shoeprize.com/raffles/78298</id>
         <link href="https://www.shoeprize.com/raffles/78298"/>
@@ -95,5 +102,33 @@
         <link href="https://www.shoeprize.com/raffles/89025"/>
         <updated>2022-05-09T04:24:06.580Z</updated>
         <content type="html"><![CDATA[아디다스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 PRM 바스트 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/80492</id>
+        <link href="https://www.shoeprize.com/raffles/80492"/>
+        <updated>2022-05-09T08:15:00.086Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 디스럽트 2 미네랄 클레이]]></title>
+        <id>https://www.shoeprize.com/raffles/89202</id>
+        <link href="https://www.shoeprize.com/raffles/89202"/>
+        <updated>2022-05-09T08:15:00.087Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 트레이너 1 클로러필]]></title>
+        <id>https://www.shoeprize.com/raffles/82505</id>
+        <link href="https://www.shoeprize.com/raffles/82505"/>
+        <updated>2022-05-09T08:15:00.088Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 KD15 에임봇]]></title>
+        <id>https://www.shoeprize.com/raffles/90234</id>
+        <link href="https://www.shoeprize.com/raffles/90234"/>
+        <updated>2022-05-09T08:15:00.089Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
 </feed>
