@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 11:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -138,16 +138,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1140/thumb_1651803220591.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-force-1-high-07-white-and-light-chocolate/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-force-1-high-07-white-and-light-chocolate/</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 선착순<br>
-                                            
-                                                06월 05일 10:00 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1754/thumb_1654171636402.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[아디다스 코리아 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-boost-350-v2-cmpct-slate-carbon/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-boost-350-v2-cmpct-slate-carbon/</guid>
@@ -203,17 +193,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1754/thumb_1654171636402.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[HANON (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-boost-350-v2-cmpct-slate-carbon/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-boost-350-v2-cmpct-slate-carbon/</guid>
-            <pubDate>Wed, 01 Jun 2022 05:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 03일 21:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1639/thumb_1653042580901.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[SVD (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-6-red-oreo/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-6-red-oreo/</guid>
@@ -226,17 +205,6 @@
         </item>
         <item>
             <title><![CDATA[UP THERE (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-protection-pack-vintage-orange/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-protection-pack-vintage-orange/</guid>
-            <pubDate>Mon, 30 May 2022 13:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 04일 06:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1217/thumb_1647007950453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UP THERE (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-protection-pack-mirage-grey/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-protection-pack-mirage-grey/</guid>
             <pubDate>Mon, 30 May 2022 13:39:15 GMT</pubDate>
@@ -245,6 +213,17 @@
                                         
                                             06월 04일 06:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1216/thumb_1647007889565.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UP THERE (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-protection-pack-vintage-orange/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-protection-pack-vintage-orange/</guid>
+            <pubDate>Mon, 30 May 2022 13:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 04일 06:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1217/thumb_1647007950453.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
@@ -269,15 +248,15 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1427/thumb_1649778860305.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</guid>
-            <pubDate>Sun, 29 May 2022 10:11:39 GMT</pubDate>
+            <title><![CDATA[SIZE? (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</guid>
+            <pubDate>Sun, 29 May 2022 15:11:15 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
                                             06월 04일 16:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1173/thumb_1646321184580.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1389/thumb_1649167942770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AFEW STORE (LUCKY DRAW)]]></title>
@@ -291,15 +270,15 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1157/thumb_1645884562323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SIZE? (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</guid>
-            <pubDate>Sun, 29 May 2022 15:11:15 GMT</pubDate>
+            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</guid>
+            <pubDate>Sun, 29 May 2022 10:11:39 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
                                             06월 04일 16:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1389/thumb_1649167942770.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1173/thumb_1646321184580.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SOCIAL STATUS (LUCKY DRAW)]]></title>
@@ -347,17 +326,6 @@
         </item>
         <item>
             <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-high-white-and-green/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-high-white-and-green/</guid>
-            <pubDate>Tue, 31 May 2022 07:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 06일 10:30 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1383/thumb_1649126934097.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-high-light-bone-grey/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-high-light-bone-grey/</guid>
             <pubDate>Thu, 02 Jun 2022 09:11:22 GMT</pubDate>
@@ -366,6 +334,17 @@
                                         
                                             06월 06일 10:30 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1489/thumb_1650636059275.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-high-white-and-green/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-high-white-and-green/</guid>
+            <pubDate>Tue, 31 May 2022 07:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 06일 10:30 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1383/thumb_1649126934097.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나이키 골프 서울 (LUCKY DRAW)]]></title>
@@ -380,17 +359,6 @@
         </item>
         <item>
             <title><![CDATA[나이키 골프 서울 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-golf-unc/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-golf-unc/</guid>
-            <pubDate>Fri, 03 Jun 2022 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 06일 14:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1137/thumb_1645230640402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 골프 서울 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-golf-triple-white/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-golf-triple-white/</guid>
             <pubDate>Fri, 03 Jun 2022 09:11:54 GMT</pubDate>
@@ -399,6 +367,17 @@
                                         
                                             06월 06일 14:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1006/thumb_1641255132150.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 골프 서울 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-golf-unc/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-golf-unc/</guid>
+            <pubDate>Fri, 03 Jun 2022 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 06일 14:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1137/thumb_1645230640402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SLAM JAM (LUCKY DRAW)]]></title>
@@ -467,17 +446,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1598/thumb_1652254271556.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SNS EU (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</guid>
-            <pubDate>Sun, 29 May 2022 15:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 07일 15:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1389/thumb_1649167942770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SNS US (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-high-stage-haze/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-high-stage-haze/</guid>
@@ -489,14 +457,14 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/991/thumb_1651366471320.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[SVD (LUCKY DRAW)]]></title>
+            <title><![CDATA[SNS EU (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</guid>
             <pubDate>Sun, 29 May 2022 15:11:15 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
-                                            06월 07일 마감]]></content:encoded>
+                                            06월 07일 15:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1389/thumb_1649167942770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -511,15 +479,15 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1276/thumb_1647511499981.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/kasina-x-nike-air-max-1-won-ang/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/kasina-x-nike-air-max-1-won-ang/</guid>
-            <pubDate>Wed, 01 Jun 2022 15:13:17 GMT</pubDate>
+            <title><![CDATA[SVD (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-lemon-twist/</guid>
+            <pubDate>Sun, 29 May 2022 15:11:15 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
-                                            06월 08일 10:30 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1581/thumb_1653269070884.jpg" length="0" type="image/jpg"/>
+                                            06월 07일 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1389/thumb_1649167942770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
@@ -533,6 +501,17 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1657/thumb_1653269062442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/kasina-x-nike-air-max-1-won-ang/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/kasina-x-nike-air-max-1-won-ang/</guid>
+            <pubDate>Wed, 01 Jun 2022 15:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 08일 10:30 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1581/thumb_1653269070884.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SNS EU (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</guid>
@@ -542,17 +521,6 @@
                                         
                                             06월 08일 15:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1719/thumb_1653648351537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-3-atmosphere-wmns/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-3-atmosphere-wmns/</guid>
-            <pubDate>Wed, 01 Jun 2022 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 08일 16:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1349/thumb_1650636603456.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ONE BLOCK DOWN (LUCKY DRAW)]]></title>
@@ -566,15 +534,26 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1349/thumb_1650636603456.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-3-atmosphere-wmns/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-3-atmosphere-wmns/</guid>
+            <pubDate>Wed, 01 Jun 2022 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 08일 16:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1349/thumb_1650636603456.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[BSTN (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</guid>
-            <pubDate>Thu, 02 Jun 2022 09:11:22 GMT</pubDate>
+            <link>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-light-crean-purple/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-light-crean-purple/</guid>
+            <pubDate>Wed, 01 Jun 2022 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
                                             06월 08일 22:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1719/thumb_1653648351537.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1744/thumb_1654072985747.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BSTN (LUCKY DRAW)]]></title>
@@ -589,25 +568,14 @@
         </item>
         <item>
             <title><![CDATA[BSTN (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-light-crean-purple/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/new-balance-2002r-light-crean-purple/</guid>
-            <pubDate>Wed, 01 Jun 2022 09:13:27 GMT</pubDate>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</guid>
+            <pubDate>Thu, 02 Jun 2022 09:11:22 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
                                             06월 08일 22:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1744/thumb_1654072985747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SVD (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-another-bulls-colorway/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-another-bulls-colorway/</guid>
-            <pubDate>Wed, 01 Jun 2022 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 08일 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1315/thumb_1648092639364.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1719/thumb_1653648351537.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVD (LUCKY DRAW)]]></title>
@@ -621,6 +589,17 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1349/thumb_1650636603456.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[SVD (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-another-bulls-colorway/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-another-bulls-colorway/</guid>
+            <pubDate>Wed, 01 Jun 2022 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 08일 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1315/thumb_1648092639364.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[FOOT DISTRICT (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</guid>
@@ -629,6 +608,17 @@
                                         
                                         
                                             06월 09일 08:45 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1719/thumb_1653648351537.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</link>
+            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</guid>
+            <pubDate>Thu, 02 Jun 2022 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                        
+                                            06월 09일 10:30 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1719/thumb_1653648351537.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -652,17 +642,6 @@
                                         
                                             06월 09일 10:30 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1404/thumb_1649295290697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-4-zen-master/</guid>
-            <pubDate>Thu, 02 Jun 2022 09:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                        
-                                            06월 09일 10:30 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1719/thumb_1653648351537.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVD (LUCKY DRAW)]]></title>
@@ -834,122 +813,6 @@
             <pubDate>Thu, 07 Apr 2022 04:13:04 GMT</pubDate>
             <content:encoded><![CDATA[농구를 위한 모든것 문화로 즐긴다. HOOPCITY제품 코드 :&nbsp;555088-063가격 :&nbsp;￦199,000응모 기간 :&nbsp;12월 28일(화) 15:00 ~ 12월 29일(수) 09:00공지 방법 :&nbsp;당첨 문자 발송결제 방법 :&nbsp;온라인 구매수령 방법 :&nbsp;국내 배송구매 기간 :&nbsp;12월 30일(목) 10:00 ~ 12월 30일(목) 12:00]]></content:encoded>
             <enclosure url="https://dxqp67px8ll3g.cloudfront.net/BOARD/1640674840_276f9774297e52eeef4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 맥스 97 OG 아틀란틱 블루 앤드 볼트에이지 옐로우 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/89994</link>
-            <guid>https://www.shoeprize.com/raffles/89994</guid>
-            <pubDate>Wed, 01 Jun 2022 11:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        HANON
-      </div>
-      <div class="name">
-        <a href="/raffles/89994">나이키 에어 맥스 97 OG 아틀란틱 블루 앤드 볼트에이지 옐로우</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_29099" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654257600000"><span class="time" display:="" inline-block;"="" lang="en">50분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_29099'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/92468</link>
-            <guid>https://www.shoeprize.com/raffles/92468</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        HANON
-      </div>
-      <div class="name">
-        <a href="/raffles/92468">웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_29129" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654257600000"><span class="time" display:="" inline-block;"="" lang="en">50분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_29129'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/92485</link>
-            <guid>https://www.shoeprize.com/raffles/92485</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        HANON
-      </div>
-      <div class="name">
-        <a href="/raffles/92485">웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_29206" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654257600000"><span class="time" display:="" inline-block;"="" lang="en">50분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_29206'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 이지 부스트 350 v2 CMPCT 슬레이트 카본 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/90563</link>
-            <guid>https://www.shoeprize.com/raffles/90563</guid>
-            <pubDate>Wed, 01 Jun 2022 01:00:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        HANON
-      </div>
-      <div class="name">
-        <a href="/raffles/90563">아디다스 이지 부스트 350 v2 CMPCT 슬레이트 카본</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_29290" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654257600000"><span class="time" display:="" inline-block;"="" lang="en">50분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_29290'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조 프레쉬굿즈 x 뉴발란스 카와이 2 컨버세이션 어몽스트 어스 (슈프라이즈)]]></title>
@@ -1341,7 +1204,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29473" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654218000000" data-end-time="1654268340000"><span>10시간 전 출시</span></span>
+        <span id="time_count_29473" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654218000000" data-end-time="1654268340000"><span>11시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1370,7 +1233,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29475" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654218000000" data-end-time="1654268340000"><span>10시간 전 출시</span></span>
+        <span id="time_count_29475" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654218000000" data-end-time="1654268340000"><span>11시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1399,7 +1262,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29486" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654221600000" data-end-time="1654268340000"><span>9시간 전 출시</span></span>
+        <span id="time_count_29486" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654221600000" data-end-time="1654268340000"><span>10시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1428,7 +1291,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29519" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654221600000" data-end-time="1654268340000"><span>9시간 전 출시</span></span>
+        <span id="time_count_29519" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654221600000" data-end-time="1654268340000"><span>10시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1457,7 +1320,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29514" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654228800000" data-end-time="1654268340000"><span>7시간 전 출시</span></span>
+        <span id="time_count_29514" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654228800000" data-end-time="1654268340000"><span>8시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1486,7 +1349,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29515" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654228800000" data-end-time="1654268340000"><span>7시간 전 출시</span></span>
+        <span id="time_count_29515" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654228800000" data-end-time="1654268340000"><span>8시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1515,7 +1378,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29545" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654239600000" data-end-time="1654268340000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29545" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654239600000" data-end-time="1654268340000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1544,7 +1407,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29367" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29367" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1573,7 +1436,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29432" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29432" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1602,7 +1465,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29433" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29433" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3517,6 +3380,86 @@
       </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나이키 에어 맥스 97 OG 아틀란틱 블루 앤드 볼트에이지 옐로우 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/89994</link>
+            <guid>https://www.shoeprize.com/raffles/89994</guid>
+            <pubDate>Wed, 01 Jun 2022 11:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        HANON
+      </div>
+      <div class="name">
+        <a href="/raffles/89994">나이키 에어 맥스 97 OG 아틀란틱 블루 앤드 볼트에이지 옐로우</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/92468</link>
+            <guid>https://www.shoeprize.com/raffles/92468</guid>
+            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        HANON
+      </div>
+      <div class="name">
+        <a href="/raffles/92468">웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/92485</link>
+            <guid>https://www.shoeprize.com/raffles/92485</guid>
+            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        HANON
+      </div>
+      <div class="name">
+        <a href="/raffles/92485">웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아디다스 이지 부스트 350 v2 CMPCT 슬레이트 카본 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/90563</link>
+            <guid>https://www.shoeprize.com/raffles/90563</guid>
+            <pubDate>Wed, 01 Jun 2022 01:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        HANON
+      </div>
+      <div class="name">
+        <a href="/raffles/90563">아디다스 이지 부스트 350 v2 CMPCT 슬레이트 카본</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나이키 코르테즈 PS 비 트루 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/92500</link>
             <guid>https://www.shoeprize.com/raffles/92500</guid>
@@ -3836,64 +3779,6 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에어 조던 1 줌 CMFT 우먼스 메탈릭 실버 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/90004</link>
-            <guid>https://www.shoeprize.com/raffles/90004</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        END
-      </div>
-      <div class="name">
-        <a href="/raffles/90004">에어 조던 1 줌 CMFT 우먼스 메탈릭 실버</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_29426" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654585200000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_29426'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/92485</link>
-            <guid>https://www.shoeprize.com/raffles/92485</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        BODEGA
-      </div>
-      <div class="name">
-        <a href="/raffles/92485">웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_29427" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654351200000" data-end-time="1654353000000"><span>6월 4일 14:00 시작</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_29427'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">직배</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/92468</link>
             <guid>https://www.shoeprize.com/raffles/92468</guid>
@@ -3993,7 +3878,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29432" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29432" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -4022,7 +3907,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29433" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29433" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654268400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -5017,34 +4902,6 @@
             <content:encoded><![CDATA[나이키 골프 서울]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나이키 에어 맥스 97 OG 아틀란틱 블루 앤드 볼트에이지 옐로우 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/89994</link>
-            <guid>https://www.shoeprize.com/raffles/89994</guid>
-            <pubDate>Wed, 01 Jun 2022 11:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[HANON]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/92468</link>
-            <guid>https://www.shoeprize.com/raffles/92468</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[HANON]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/92485</link>
-            <guid>https://www.shoeprize.com/raffles/92485</guid>
-            <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[HANON]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 이지 부스트 350 v2 CMPCT 슬레이트 카본 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/90563</link>
-            <guid>https://www.shoeprize.com/raffles/90563</guid>
-            <pubDate>Wed, 01 Jun 2022 01:00:21 GMT</pubDate>
-            <content:encoded><![CDATA[HANON]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[조 프레쉬굿즈 x 뉴발란스 카와이 2 컨버세이션 어몽스트 어스 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/92580</link>
             <guid>https://www.shoeprize.com/raffles/92580</guid>
@@ -5167,7 +5024,7 @@
             <title><![CDATA[마크 곤잘레스 X 아디다스 울트라 부스트 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/92589</link>
             <guid>https://www.shoeprize.com/raffles/92589</guid>
-            <pubDate>Fri, 03 Jun 2022 11:09:55 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 11:09:35 GMT</pubDate>
             <content:encoded><![CDATA[FOOTPATROL *IN APP]]></content:encoded>
         </item>
         <item>
@@ -5514,18 +5371,32 @@
             <content:encoded><![CDATA[WELLGOSH]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에어 조던 1 줌 CMFT 우먼스 메탈릭 실버 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/90004</link>
-            <guid>https://www.shoeprize.com/raffles/90004</guid>
+            <title><![CDATA[나이키 에어 맥스 97 OG 아틀란틱 블루 앤드 볼트에이지 옐로우 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/89994</link>
+            <guid>https://www.shoeprize.com/raffles/89994</guid>
+            <pubDate>Wed, 01 Jun 2022 11:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[HANON]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/92468</link>
+            <guid>https://www.shoeprize.com/raffles/92468</guid>
             <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[END]]></content:encoded>
+            <content:encoded><![CDATA[HANON]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 블랙 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/92485</link>
             <guid>https://www.shoeprize.com/raffles/92485</guid>
             <pubDate>Thu, 02 Jun 2022 12:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[BODEGA]]></content:encoded>
+            <content:encoded><![CDATA[HANON]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아디다스 이지 부스트 350 v2 CMPCT 슬레이트 카본 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/90563</link>
+            <guid>https://www.shoeprize.com/raffles/90563</guid>
+            <pubDate>Wed, 01 Jun 2022 01:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[HANON]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웨일스 보너 x 아디다스 컨소시엄 컨트리 브라운 (슈프라이즈 ─ 해외)]]></title>
