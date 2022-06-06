@@ -4,29 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 10:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나이키 강남 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-brown/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-brown/</guid>
-            <pubDate>Mon, 06 Jun 2022 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                            
-                                                06월 06일 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1329/thumb_1648308049618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 강남 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</guid>
-            <pubDate>Mon, 06 Jun 2022 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                            
-                                                06월 06일 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1173/thumb_1646321184580.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/nike-air-jordan-1-low-og-mystic-navy/</link>
@@ -36,28 +16,6 @@
                                             
                                                 06월 07일 10:30 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1562/thumb_1654390264899.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 강남 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-brown/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-brown/</guid>
-            <pubDate>Mon, 06 Jun 2022 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                        
-                                            06월 06일 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1329/thumb_1648308049618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 강남 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/nike-dunk-low-sun-club-sail/</guid>
-            <pubDate>Mon, 06 Jun 2022 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                        
-                                            06월 06일 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1173/thumb_1646321184580.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럭키드로우 (LUCKY DRAW)]]></title>
@@ -881,7 +839,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29858" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654506195000" data-end-time="1654513200000"><span>7분 전 출시</span></span>
+        <span id="time_count_29858" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654506195000" data-end-time="1654513200000"><span>1시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -910,7 +868,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29859" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654506195000" data-end-time="1654513200000"><span>7분 전 출시</span></span>
+        <span id="time_count_29859" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654506195000" data-end-time="1654513200000"><span>1시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -939,7 +897,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29544" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654426800000" data-end-time="1654513200000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_29544" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654426800000" data-end-time="1654513200000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -968,7 +926,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29292" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654520400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_29292" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654520400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -997,7 +955,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29693" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654524000000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_29693" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654524000000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1026,7 +984,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29856" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654494099000" data-end-time="1654527540000"><span>3시간 전 출시</span></span>
+        <span id="time_count_29856" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654494099000" data-end-time="1654527540000"><span>4시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1833,7 +1791,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29767" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654588800000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+        <span id="time_count_29767" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654588800000"><span class="time" display:="" inline-block;"="" lang="en">21시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1920,7 +1878,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_29770" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654592400000"><span class="time" display:="" inline-block;"="" lang="en">23시간</span> 후 마감</span>
+        <span id="time_count_29770" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1654592400000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2201,14 +2159,14 @@
             <title><![CDATA[나이키 덩크 로우 SE 선 클럽 세일 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/82103</link>
             <guid>https://www.shoeprize.com/raffles/82103</guid>
-            <pubDate>Mon, 06 Jun 2022 09:11:00 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2022 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[나이키 강남점]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 선 클럽 오렌지 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/82763</link>
             <guid>https://www.shoeprize.com/raffles/82763</guid>
-            <pubDate>Mon, 06 Jun 2022 09:11:00 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2022 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[나이키 강남점]]></content:encoded>
         </item>
         <item>
