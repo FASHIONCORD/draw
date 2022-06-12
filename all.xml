@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 03:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 03:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,7 +444,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_30600" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654961400000" data-end-time="1655006400000"><span>11시간 전 출시</span></span>
+        <span id="time_count_30600" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654961400000" data-end-time="1655006400000"><span>12시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -457,6 +457,35 @@
         <span class="info">미국</span>
         <span class="info">직배</span>
         <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에어 조던 4 레트로 SE 애메티스트 웨이브 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/88647</link>
+            <guid>https://www.shoeprize.com/raffles/88647</guid>
+            <pubDate>Sun, 12 Jun 2022 03:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        나이키 AK플라자 수원점
+      </div>
+      <div class="name">
+        <a href="/raffles/88647">에어 조던 4 레트로 SE 애메티스트 웨이브</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_30614" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1654999200000" data-end-time="1655013600000"><span>1시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_30614'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
         
       </div>]]></content:encoded>
         </item>
@@ -846,35 +875,6 @@
         <span class="info">일본</span>
         <span class="info">배대지</span>
         <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에어 조던 1 로우 쉐도우 토 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/81180</link>
-            <guid>https://www.shoeprize.com/raffles/81180</guid>
-            <pubDate>Sat, 11 Jun 2022 03:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        NIKE US
-      </div>
-      <div class="name">
-        <a href="/raffles/81180">에어 조던 1 로우 쉐도우 토</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_30554" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655388000000" data-end-time="1655388600000"><span>6월 16일 14:00 시작</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_30554'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">배대지</span>
-        <span class="info">온라인 선착순</span>
         
       </div>]]></content:encoded>
         </item>
@@ -1894,6 +1894,13 @@
       </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에어 조던 4 레트로 SE 애메티스트 웨이브 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/88647</link>
+            <guid>https://www.shoeprize.com/raffles/88647</guid>
+            <pubDate>Sun, 12 Jun 2022 03:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[나이키 AK플라자 수원점]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나이키 덩크 로우 우먼스 오션 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/81619</link>
             <guid>https://www.shoeprize.com/raffles/81619</guid>
@@ -1997,13 +2004,6 @@
             <guid>https://www.shoeprize.com/raffles/78043</guid>
             <pubDate>Thu, 09 Jun 2022 08:15:36 GMT</pubDate>
             <content:encoded><![CDATA[UNION TOKYO]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에어 조던 1 로우 쉐도우 토 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/81180</link>
-            <guid>https://www.shoeprize.com/raffles/81180</guid>
-            <pubDate>Sat, 11 Jun 2022 03:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[NIKE US]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 에어 포스 1 하이 빈티지 화이트 초콜렛 (슈프라이즈 ─ 해외)]]></title>
