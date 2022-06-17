@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-06-17T07:11:13.923Z</updated>
+    <updated>2022-06-17T08:19:12.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 로우 블리치드 코랄]]></title>
-        <id>https://www.shoeprize.com/raffles/90631</id>
-        <link href="https://www.shoeprize.com/raffles/90631"/>
-        <updated>2022-06-14T14:10:22.373Z</updated>
-        <content type="html"><![CDATA[NAKED]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 로우 블리치드 코랄]]></title>
-        <id>https://www.shoeprize.com/raffles/90631</id>
-        <link href="https://www.shoeprize.com/raffles/90631"/>
-        <updated>2022-06-14T14:10:22.373Z</updated>
-        <content type="html"><![CDATA[TITOLO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지 부스트 700 하이레스 레드]]></title>
-        <id>https://www.shoeprize.com/raffles/93090</id>
-        <link href="https://www.shoeprize.com/raffles/93090"/>
-        <updated>2022-06-13T08:13:58.968Z</updated>
-        <content type="html"><![CDATA[18MONTROSE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 4 레트로 우먼스 세일]]></title>
-        <id>https://www.shoeprize.com/raffles/81609</id>
-        <link href="https://www.shoeprize.com/raffles/81609"/>
-        <updated>2022-06-13T16:13:47.781Z</updated>
-        <content type="html"><![CDATA[KICKZ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 NH 카카오 와우]]></title>
-        <id>https://www.shoeprize.com/raffles/82507</id>
-        <link href="https://www.shoeprize.com/raffles/82507"/>
-        <updated>2022-06-13T10:12:47.870Z</updated>
-        <content type="html"><![CDATA[SLAMJAM]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 맥스 1 사파리 카블스톤]]></title>
         <id>https://www.shoeprize.com/raffles/82771</id>
@@ -137,6 +102,13 @@
         <link href="https://www.shoeprize.com/raffles/82832"/>
         <updated>2022-06-16T15:11:27.746Z</updated>
         <content type="html"><![CDATA[SLAMJAM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피어 오브 갓 에센셜 2022 코어 컬렉션]]></title>
+        <id>https://www.shoeprize.com/raffles/93269</id>
+        <link href="https://www.shoeprize.com/raffles/93269"/>
+        <updated>2022-06-17T08:19:02.838Z</updated>
+        <content type="html"><![CDATA[PACSUN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팔라스 2022 여름 컬렉션 7주 차]]></title>
@@ -466,6 +438,41 @@
         <link href="https://www.shoeprize.com/raffles/82507"/>
         <updated>2022-06-13T10:12:47.870Z</updated>
         <content type="html"><![CDATA[SIZE? *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 블리치드 코랄]]></title>
+        <id>https://www.shoeprize.com/raffles/90631</id>
+        <link href="https://www.shoeprize.com/raffles/90631"/>
+        <updated>2022-06-14T14:10:22.373Z</updated>
+        <content type="html"><![CDATA[NAKED]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 블리치드 코랄]]></title>
+        <id>https://www.shoeprize.com/raffles/90631</id>
+        <link href="https://www.shoeprize.com/raffles/90631"/>
+        <updated>2022-06-14T14:10:22.373Z</updated>
+        <content type="html"><![CDATA[TITOLO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지 부스트 700 하이레스 레드]]></title>
+        <id>https://www.shoeprize.com/raffles/93090</id>
+        <link href="https://www.shoeprize.com/raffles/93090"/>
+        <updated>2022-06-13T08:13:58.968Z</updated>
+        <content type="html"><![CDATA[18MONTROSE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 4 레트로 우먼스 세일]]></title>
+        <id>https://www.shoeprize.com/raffles/81609</id>
+        <link href="https://www.shoeprize.com/raffles/81609"/>
+        <updated>2022-06-13T16:13:47.781Z</updated>
+        <content type="html"><![CDATA[KICKZ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 NH 카카오 와우]]></title>
+        <id>https://www.shoeprize.com/raffles/82507</id>
+        <link href="https://www.shoeprize.com/raffles/82507"/>
+        <updated>2022-06-13T10:12:47.870Z</updated>
+        <content type="html"><![CDATA[SLAMJAM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 990v2 메이드 인 USA 그레이 테디 산티스]]></title>
