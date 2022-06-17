@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-06-17T09:11:41.634Z</updated>
+    <updated>2022-06-17T10:12:19.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -88,6 +88,20 @@
         <link href="https://www.shoeprize.com/raffles/93269"/>
         <updated>2022-06-17T08:19:02.838Z</updated>
         <content type="html"><![CDATA[PACSUN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피어 오브 갓 에센셜 2022 코어 컬렉션]]></title>
+        <id>https://www.shoeprize.com/raffles/93269</id>
+        <link href="https://www.shoeprize.com/raffles/93269"/>
+        <updated>2022-06-17T08:19:02.838Z</updated>
+        <content type="html"><![CDATA[SSENSE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로니 피그 x 뉴발란스 990v3 키클라데스]]></title>
+        <id>https://www.shoeprize.com/raffles/93637</id>
+        <link href="https://www.shoeprize.com/raffles/93637"/>
+        <updated>2022-06-17T10:12:06.952Z</updated>
+        <content type="html"><![CDATA[KITH]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팔라스 2022 여름 컬렉션 7주 차]]></title>
@@ -475,20 +489,6 @@
         <content type="html"><![CDATA[SHINZO]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나이키 ISPA 링크 블랙 앤드 미디엄 올리브]]></title>
-        <id>https://www.shoeprize.com/raffles/93198</id>
-        <link href="https://www.shoeprize.com/raffles/93198"/>
-        <updated>2022-06-16T10:11:38.710Z</updated>
-        <content type="html"><![CDATA[ONE BLOCK DOWN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 ISPA 링크 발리 앤드 데저트 모스]]></title>
-        <id>https://www.shoeprize.com/raffles/93199</id>
-        <link href="https://www.shoeprize.com/raffles/93199"/>
-        <updated>2022-06-16T10:11:38.711Z</updated>
-        <content type="html"><![CDATA[ONE BLOCK DOWN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[팔라스 2022 여름 컬렉션 7주 차]]></title>
         <id>https://www.shoeprize.com/raffles/93614</id>
         <link href="https://www.shoeprize.com/raffles/93614"/>
@@ -753,5 +753,12 @@
         <link href="https://www.shoeprize.com/raffles/92618"/>
         <updated>2022-06-16T10:11:38.707Z</updated>
         <content type="html"><![CDATA[HANON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로니 피그 x 뉴발란스 990v3 키클라데스]]></title>
+        <id>https://www.shoeprize.com/raffles/93637</id>
+        <link href="https://www.shoeprize.com/raffles/93637"/>
+        <updated>2022-06-17T10:12:07.138Z</updated>
+        <content type="html"><![CDATA[KITH]]></content>
     </entry>
 </feed>
