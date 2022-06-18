@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 04:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,16 +126,6 @@
                                             
                                                 06월 20일 10:30 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1057/thumb_1643122692832.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[JD스포츠 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-boost-350-v2-bone/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-boost-350-v2-bone/</guid>
-            <pubDate>Wed, 15 Jun 2022 00:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 선착순<br>
-                                            
-                                                06월 20일 08:00 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1219/thumb_1655249024829.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[무신사 (LUCKY DRAW)]]></title>
@@ -1112,64 +1102,6 @@
             <enclosure url="https://dxqp67px8ll3g.cloudfront.net/BOARD/1640674840_276f9774297e52eeef4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나이키 덩크 로우 그린 화이트 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/82740</link>
-            <guid>https://www.shoeprize.com/raffles/82740</guid>
-            <pubDate>Sat, 18 Jun 2022 02:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        카시나
-      </div>
-      <div class="name">
-        <a href="/raffles/82740">나이키 덩크 로우 그린 화이트</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_31240" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655518500000" data-end-time="1655528400000"><span>2시간 전 출시</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_31240'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">국내 배송</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 맥스 1 사파리 카블스톤 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/82771</link>
-            <guid>https://www.shoeprize.com/raffles/82771</guid>
-            <pubDate>Tue, 14 Jun 2022 14:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        FOOTDISTRICT
-      </div>
-      <div class="name">
-        <a href="/raffles/82771">나이키 에어 맥스 1 사파리 카블스톤</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_30187" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655528400000"><span class="time" display:="" inline-block;"="" lang="en">42분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_30187'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">스페인</span>
-        <span class="info">배대지</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나이키 덩크 로우 NH 카카오 와우 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/82507</link>
             <guid>https://www.shoeprize.com/raffles/82507</guid>
@@ -1182,7 +1114,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_30827" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655532000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_30827" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655532000000"><span class="time" display:="" inline-block;"="" lang="en">49분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1211,7 +1143,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_30828" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655532000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_30828" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655532000000"><span class="time" display:="" inline-block;"="" lang="en">49분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1240,7 +1172,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_31242" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655525546000" data-end-time="1655535600000"><span>5분 전 출시</span></span>
+        <span id="time_count_31242" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655525546000" data-end-time="1655535600000"><span>57분 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1269,7 +1201,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_31243" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655525546000" data-end-time="1655535600000"><span>5분 전 출시</span></span>
+        <span id="time_count_31243" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655525546000" data-end-time="1655535600000"><span>57분 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1298,7 +1230,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_30587" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655535600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_30587" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655535600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1327,7 +1259,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_30589" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655535600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_30589" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655535600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1356,7 +1288,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_30950" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655535600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_30950" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1655535600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1460,6 +1392,93 @@
       </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나이키 덩크 로우 블랙 앤 텀블드 그레이 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/82871</link>
+            <guid>https://www.shoeprize.com/raffles/82871</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        온더스팟
+      </div>
+      <div class="name">
+        <a href="/raffles/82871">나이키 덩크 로우 블랙 앤 텀블드 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_31246" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655514000000" data-end-time="1655564340000"><span>4시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_31246'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내 배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 레트로 PRM 옵시디언 그래피티 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/90354</link>
+            <guid>https://www.shoeprize.com/raffles/90354</guid>
+            <pubDate>Fri, 17 Jun 2022 15:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        온더스팟
+      </div>
+      <div class="name">
+        <a href="/raffles/90354">나이키 덩크 로우 레트로 PRM 옵시디언 그래피티</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_31247" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655514000000" data-end-time="1655564340000"><span>4시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_31247'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내 배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 우먼스 아보카도 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/82857</link>
+            <guid>https://www.shoeprize.com/raffles/82857</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        온더스팟
+      </div>
+      <div class="name">
+        <a href="/raffles/82857">나이키 덩크 로우 우먼스 아보카도</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_31248" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655514000000" data-end-time="1655564340000"><span>4시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_31248'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내 배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나이키 에어 트레이너 SC 하이 오번 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/93073</link>
             <guid>https://www.shoeprize.com/raffles/93073</guid>
@@ -1472,7 +1491,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_31222" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655478600000" data-end-time="1655564340000"><span>13시간 전 출시</span></span>
+        <span id="time_count_31222" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655478600000" data-end-time="1655564340000"><span>14시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -1501,7 +1520,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_31040" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655512200000" data-end-time="1655564340000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
+        <span id="time_count_31040" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655512200000" data-end-time="1655564340000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1543,6 +1562,64 @@
         <span class="info">독일</span>
         <span class="info">배대지</span>
         <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 미드 QS 올리브 그린 앤드 토탈 오렌지 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/89908</link>
+            <guid>https://www.shoeprize.com/raffles/89908</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        카시나
+      </div>
+      <div class="name">
+        <a href="/raffles/89908">나이키 에어 포스 1 미드 QS 올리브 그린 앤드 토탈 오렌지</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_31244" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655518500000" data-end-time="1655679600000"><span>2시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_31244'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내 배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 미드 QS 에일 브라운 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/81141</link>
+            <guid>https://www.shoeprize.com/raffles/81141</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        카시나
+      </div>
+      <div class="name">
+        <a href="/raffles/81141">나이키 에어 포스 1 미드 QS 에일 브라운</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_31245" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655518500000" data-end-time="1655679600000"><span>2시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_31245'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내 배송</span>
+        <span class="info">온라인 선착순</span>
         
       </div>]]></content:encoded>
         </item>
@@ -1847,24 +1924,15 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아디다스 이지 부스트 350 V2 본 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/81014</link>
-            <guid>https://www.shoeprize.com/raffles/81014</guid>
-            <pubDate>Wed, 15 Jun 2022 03:07:19 GMT</pubDate>
+            <title><![CDATA[나이키 덩크 로우 그린 화이트 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/82740</link>
+            <guid>https://www.shoeprize.com/raffles/82740</guid>
+            <pubDate>Sat, 18 Jun 2022 02:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="brand">
-        JD스포츠 코리아
+        카시나
       </div>
       <div class="name">
-        <a href="/raffles/81014">아디다스 이지 부스트 350 V2 본</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_31132" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1655679600000" data-end-time="1655680200000"><span>6월 19일 23:00 시작</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_31132'), now);
-        </script>
+        <a href="/raffles/82740">나이키 덩크 로우 그린 화이트</a>
       </div>
       
 
@@ -1872,6 +1940,26 @@
         <span class="info">한국</span>
         <span class="info">국내 배송</span>
         <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 1 사파리 카블스톤 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/82771</link>
+            <guid>https://www.shoeprize.com/raffles/82771</guid>
+            <pubDate>Tue, 14 Jun 2022 14:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        FOOTDISTRICT
+      </div>
+      <div class="name">
+        <a href="/raffles/82771">나이키 에어 맥스 1 사파리 카블스톤</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">스페인</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
         
       </div>]]></content:encoded>
         </item>
@@ -2688,13 +2776,6 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나이키 덩크 로우 그린 화이트 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/82740</link>
-            <guid>https://www.shoeprize.com/raffles/82740</guid>
-            <pubDate>Sat, 18 Jun 2022 02:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[카시나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[에어 조던 1 줌 에어 컴포트 다크 아이리스 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/82832</link>
             <guid>https://www.shoeprize.com/raffles/82832</guid>
@@ -2705,8 +2786,29 @@
             <title><![CDATA[에어 조던 1 줌 컴포트 포실 스톤 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/82831</link>
             <guid>https://www.shoeprize.com/raffles/82831</guid>
-            <pubDate>Sat, 18 Jun 2022 04:17:50 GMT</pubDate>
+            <pubDate>Sat, 18 Jun 2022 04:17:42 GMT</pubDate>
             <content:encoded><![CDATA[나이키 강남점]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 블랙 앤 텀블드 그레이 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/82871</link>
+            <guid>https://www.shoeprize.com/raffles/82871</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[온더스팟]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 레트로 PRM 옵시디언 그래피티 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/90354</link>
+            <guid>https://www.shoeprize.com/raffles/90354</guid>
+            <pubDate>Fri, 17 Jun 2022 15:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[온더스팟]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 우먼스 아보카도 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/82857</link>
+            <guid>https://www.shoeprize.com/raffles/82857</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[온더스팟]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아디다스 이지 부스트 350 V2 본 (슈프라이즈 ─ 국내)]]></title>
@@ -2714,6 +2816,20 @@
             <guid>https://www.shoeprize.com/raffles/81014</guid>
             <pubDate>Wed, 15 Jun 2022 03:07:19 GMT</pubDate>
             <content:encoded><![CDATA[현대백화점]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 미드 QS 올리브 그린 앤드 토탈 오렌지 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/89908</link>
+            <guid>https://www.shoeprize.com/raffles/89908</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[카시나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 미드 QS 에일 브라운 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/81141</link>
+            <guid>https://www.shoeprize.com/raffles/81141</guid>
+            <pubDate>Sat, 18 Jun 2022 05:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[카시나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 레트로 PRM 옵시디언 그래피티 (슈프라이즈 ─ 국내)]]></title>
@@ -2772,11 +2888,11 @@
             <content:encoded><![CDATA[카시나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아디다스 이지 부스트 350 V2 본 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/81014</link>
-            <guid>https://www.shoeprize.com/raffles/81014</guid>
-            <pubDate>Wed, 15 Jun 2022 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[JD스포츠 코리아]]></content:encoded>
+            <title><![CDATA[나이키 덩크 로우 그린 화이트 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/82740</link>
+            <guid>https://www.shoeprize.com/raffles/82740</guid>
+            <pubDate>Sat, 18 Jun 2022 02:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[카시나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 우먼스 오렌지 페이즐리 (슈프라이즈 ─ 국내)]]></title>
@@ -2812,13 +2928,6 @@
             <guid>https://www.shoeprize.com/raffles/93636</guid>
             <pubDate>Sat, 18 Jun 2022 02:56:26 GMT</pubDate>
             <content:encoded><![CDATA[오뚜기몰]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 맥스 1 사파리 카블스톤 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/82771</link>
-            <guid>https://www.shoeprize.com/raffles/82771</guid>
-            <pubDate>Tue, 14 Jun 2022 14:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[FOOTDISTRICT]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 NH 카카오 와우 (슈프라이즈 ─ 해외)]]></title>
@@ -2938,6 +3047,13 @@
             <guid>https://www.shoeprize.com/raffles/93607</guid>
             <pubDate>Fri, 17 Jun 2022 15:10:53 GMT</pubDate>
             <content:encoded><![CDATA[SUPREME JP]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 1 사파리 카블스톤 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/82771</link>
+            <guid>https://www.shoeprize.com/raffles/82771</guid>
+            <pubDate>Tue, 14 Jun 2022 14:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[FOOTDISTRICT]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어 콜드 월 x 컨버스 스폰지 크레이터 다크 그레이 앤 텐저린 (슈프라이즈 ─ 해외)]]></title>
