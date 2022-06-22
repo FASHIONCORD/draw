@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-06-22T13:34:55.043Z</updated>
+    <updated>2022-06-22T14:11:05.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -319,5 +319,26 @@
         <link href="https://www.shoeprize.com/raffles/90631"/>
         <updated>2022-06-22T09:11:18.826Z</updated>
         <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태극당 x 아디다스 슈퍼스타 아딜리셔스]]></title>
+        <id>https://www.shoeprize.com/raffles/93308</id>
+        <link href="https://www.shoeprize.com/raffles/93308"/>
+        <updated>2022-06-22T14:10:43.078Z</updated>
+        <content type="html"><![CDATA[아디다스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태극당 x 아디다스 슈퍼스타 아딜리셔스]]></title>
+        <id>https://www.shoeprize.com/raffles/93308</id>
+        <link href="https://www.shoeprize.com/raffles/93308"/>
+        <updated>2022-06-22T14:10:43.078Z</updated>
+        <content type="html"><![CDATA[아디다스 홍대 브랜드센터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태극당 x 아디다스 슈퍼스타 아딜리셔스]]></title>
+        <id>https://www.shoeprize.com/raffles/93308</id>
+        <link href="https://www.shoeprize.com/raffles/93308"/>
+        <updated>2022-06-22T14:10:43.079Z</updated>
+        <content type="html"><![CDATA[아디다스 강남 브랜드센터]]></content>
     </entry>
 </feed>
