@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-06-23T07:10:54.631Z</updated>
+    <updated>2022-06-23T08:16:10.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 아딜렛 슬라이드 22 매직 라임]]></title>
+        <id>https://www.shoeprize.com/raffles/92612</id>
+        <link href="https://www.shoeprize.com/raffles/92612"/>
+        <updated>2022-06-23T08:15:52.423Z</updated>
+        <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 로우 우먼스 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/82934</id>
+        <link href="https://www.shoeprize.com/raffles/82934"/>
+        <updated>2022-06-23T08:15:52.424Z</updated>
+        <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 4 레트로 우먼스 세일]]></title>
+        <id>https://www.shoeprize.com/raffles/81609</id>
+        <link href="https://www.shoeprize.com/raffles/81609"/>
+        <updated>2022-06-23T04:29:05.258Z</updated>
+        <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 하이]]></title>
         <id>https://www.shoeprize.com/raffles/80796</id>
@@ -452,5 +473,26 @@
         <link href="https://www.shoeprize.com/raffles/80728"/>
         <updated>2022-06-23T03:05:27.850Z</updated>
         <content type="html"><![CDATA[나이키 인천 신포점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-06-23T03:05:27.772Z</updated>
+        <content type="html"><![CDATA[나이키 메세나폴리스 합정점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-06-23T03:05:27.772Z</updated>
+        <content type="html"><![CDATA[나이키 수유점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-06-23T03:05:27.772Z</updated>
+        <content type="html"><![CDATA[롯데 일산 나이키]]></content>
     </entry>
 </feed>
