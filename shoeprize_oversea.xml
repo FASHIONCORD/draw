@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-06-27T06:16:17.230Z</updated>
+    <updated>2022-06-27T07:12:14.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 하이 우먼스 뉴트럴 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/80833</id>
-        <link href="https://www.shoeprize.com/raffles/80833"/>
-        <updated>2022-06-26T15:10:32.311Z</updated>
-        <content type="html"><![CDATA[AFEW-STORE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 BB550 LWT 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/81530</id>
-        <link href="https://www.shoeprize.com/raffles/81530"/>
-        <updated>2022-06-26T15:10:32.313Z</updated>
-        <content type="html"><![CDATA[BACKDOOR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 로우 OG 미스틱 네이비]]></title>
-        <id>https://www.shoeprize.com/raffles/92279</id>
-        <link href="https://www.shoeprize.com/raffles/92279"/>
-        <updated>2022-06-26T15:10:32.318Z</updated>
-        <content type="html"><![CDATA[FOOTPATROL *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 미드 GS 얼터네이트 브레드 토]]></title>
-        <id>https://www.shoeprize.com/raffles/93341</id>
-        <link href="https://www.shoeprize.com/raffles/93341"/>
-        <updated>2022-06-26T15:10:32.301Z</updated>
-        <content type="html"><![CDATA[SIZE? *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 로우 우먼스 미스틱 네이비]]></title>
-        <id>https://www.shoeprize.com/raffles/93879</id>
-        <link href="https://www.shoeprize.com/raffles/93879"/>
-        <updated>2022-06-26T15:10:32.323Z</updated>
-        <content type="html"><![CDATA[SIZE? *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 2002R 라이트 크림 퍼플]]></title>
         <id>https://www.shoeprize.com/raffles/90076</id>
@@ -144,6 +109,41 @@
         <link href="https://www.shoeprize.com/raffles/82857"/>
         <updated>2022-06-26T15:10:32.310Z</updated>
         <content type="html"><![CDATA[SNS *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 하이 우먼스 뉴트럴 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/80833</id>
+        <link href="https://www.shoeprize.com/raffles/80833"/>
+        <updated>2022-06-26T15:10:32.311Z</updated>
+        <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 BB550 LWT 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/81530</id>
+        <link href="https://www.shoeprize.com/raffles/81530"/>
+        <updated>2022-06-26T15:10:32.313Z</updated>
+        <content type="html"><![CDATA[BACKDOOR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 OG 미스틱 네이비]]></title>
+        <id>https://www.shoeprize.com/raffles/92279</id>
+        <link href="https://www.shoeprize.com/raffles/92279"/>
+        <updated>2022-06-26T15:10:32.318Z</updated>
+        <content type="html"><![CDATA[FOOTPATROL *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 미드 GS 얼터네이트 브레드 토]]></title>
+        <id>https://www.shoeprize.com/raffles/93341</id>
+        <link href="https://www.shoeprize.com/raffles/93341"/>
+        <updated>2022-06-26T15:10:32.301Z</updated>
+        <content type="html"><![CDATA[SIZE? *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 우먼스 미스틱 네이비]]></title>
+        <id>https://www.shoeprize.com/raffles/93879</id>
+        <link href="https://www.shoeprize.com/raffles/93879"/>
+        <updated>2022-06-26T15:10:32.323Z</updated>
+        <content type="html"><![CDATA[SIZE? *IN APP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 미드 블랙 파이어 레드]]></title>
