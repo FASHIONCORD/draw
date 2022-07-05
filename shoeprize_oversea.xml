@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-07-05T09:11:29.246Z</updated>
+    <updated>2022-07-05T10:22:43.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/raffles/81556"/>
         <updated>2022-07-04T15:11:42.769Z</updated>
         <content type="html"><![CDATA[JIMMY JAZZ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 하이 초콜릿]]></title>
+        <id>https://www.shoeprize.com/raffles/81433</id>
+        <link href="https://www.shoeprize.com/raffles/81433"/>
+        <updated>2022-07-03T15:10:35.627Z</updated>
+        <content type="html"><![CDATA[JD SPORTS UK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 BB550LBW 블랙]]></title>
