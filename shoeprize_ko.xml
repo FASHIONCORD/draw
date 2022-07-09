@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-07-09T12:18:33.726Z</updated>
+    <updated>2022-07-09T13:22:06.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -13,11 +13,39 @@
         <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 '07 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/17829</id>
+        <link href="https://www.shoeprize.com/raffles/17829"/>
+        <updated>2022-07-09T02:53:11.135Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 95 펄 그레이 앤 다크 비트루트]]></title>
+        <id>https://www.shoeprize.com/raffles/82735</id>
+        <link href="https://www.shoeprize.com/raffles/82735"/>
+        <updated>2022-07-09T02:53:11.136Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에어 조던 3 레트로 다크 아이리스]]></title>
         <id>https://www.shoeprize.com/raffles/90128</id>
         <link href="https://www.shoeprize.com/raffles/90128"/>
         <updated>2022-07-08T15:20:48.841Z</updated>
         <content type="html"><![CDATA[카시나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 레트로 GS 다크 아이리스]]></title>
+        <id>https://www.shoeprize.com/raffles/92578</id>
+        <link href="https://www.shoeprize.com/raffles/92578"/>
+        <updated>2022-07-08T15:20:48.840Z</updated>
+        <content type="html"><![CDATA[훕시티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 레트로 다크 아이리스]]></title>
+        <id>https://www.shoeprize.com/raffles/90128</id>
+        <link href="https://www.shoeprize.com/raffles/90128"/>
+        <updated>2022-07-08T15:20:48.841Z</updated>
+        <content type="html"><![CDATA[훕시티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 KD 14 올스타 위크엔드]]></title>
@@ -59,20 +87,6 @@
         <id>https://www.shoeprize.com/raffles/90223</id>
         <link href="https://www.shoeprize.com/raffles/90223"/>
         <updated>2022-07-09T02:53:11.133Z</updated>
-        <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 포스 1 '07 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/17829</id>
-        <link href="https://www.shoeprize.com/raffles/17829"/>
-        <updated>2022-07-09T02:53:11.135Z</updated>
-        <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 95 펄 그레이 앤 다크 비트루트]]></title>
-        <id>https://www.shoeprize.com/raffles/82735</id>
-        <link href="https://www.shoeprize.com/raffles/82735"/>
-        <updated>2022-07-09T02:53:11.136Z</updated>
         <content type="html"><![CDATA[아트모스 서울]]></content>
     </entry>
     <entry>
@@ -172,5 +186,12 @@
         <link href="https://www.shoeprize.com/raffles/90128"/>
         <updated>2022-07-08T15:20:48.841Z</updated>
         <content type="html"><![CDATA[나이키 타임스퀘어점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 X 나이키 에어 포스 1 로우 V2 블랙 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/19021</id>
+        <link href="https://www.shoeprize.com/raffles/19021"/>
+        <updated>2022-07-09T13:21:46.972Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
     </entry>
 </feed>
