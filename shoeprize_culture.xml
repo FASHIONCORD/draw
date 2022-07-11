@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2022-07-11T07:11:01.422Z</updated>
+    <updated>2022-07-11T08:16:01.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파타 x 나이키 에어 맥스 1 '화이트'의 오피셜 이미지가 베일을 벗었다]]></title>
+        <id>https://www.shoeprize.com/culture/2592</id>
+        <link href="https://www.shoeprize.com/culture/2592"/>
+        <updated>2022-07-11T08:16:01.205Z</updated>
+        <content type="html"><![CDATA['The Waves' 컬렉션의 다섯 번째 컬러웨이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어김없이 독보적인 비주얼, 사카이 x 나이키 코르테즈 4.0 오피셜 이미지]]></title>
         <id>https://www.shoeprize.com/culture/2591</id>
@@ -42,7 +49,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">5,409</span>
+                    <span class="count">5,416</span>
                   </div>
                 <div class="info date">
                   2022.07.10
@@ -100,31 +107,5 @@
         <link href="https://www.shoeprize.com/culture/2567"/>
         <updated>2022-07-09T08:13:26.676Z</updated>
         <content type="html"><![CDATA[제주도 탑동사우나에서 펼쳐진다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미하라 야스히로' 공식 온라인 스토어 구매 팁]]></title>
-        <id>https://www.shoeprize.com/culture/2580</id>
-        <link href="https://www.shoeprize.com/culture/2580"/>
-        <updated>2022-07-09T02:53:27.507Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/2580">
-        <div class="img_area">
-            <img src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b5803a1e-fee8-11ec-a21c-021b959476ae.jpg" alt="">
-        </div>
-        <div class="info_area">
-            <div class="category">TIP</div>
-            <div class="post_title">'미하라 야스히로' 공식 온라인 스토어 구매 팁</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">12,163</span>
-                  </div>
-                <div class="info date">
-                  2022.07.08
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
