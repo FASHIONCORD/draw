@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-07-12T01:00:09.116Z</updated>
+    <updated>2022-07-12T03:29:59.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -515,5 +515,19 @@
         <link href="https://www.shoeprize.com/raffles/92611"/>
         <updated>2022-07-11T09:11:44.254Z</updated>
         <content type="html"><![CDATA[SNS *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 9060 시 솔트]]></title>
+        <id>https://www.shoeprize.com/raffles/94619</id>
+        <link href="https://www.shoeprize.com/raffles/94619"/>
+        <updated>2022-07-09T11:09:16.445Z</updated>
+        <content type="html"><![CDATA[4ELEMENTOS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 9060 시 솔트]]></title>
+        <id>https://www.shoeprize.com/raffles/94619</id>
+        <link href="https://www.shoeprize.com/raffles/94619"/>
+        <updated>2022-07-09T11:09:16.445Z</updated>
+        <content type="html"><![CDATA[SNS US]]></content>
     </entry>
 </feed>
