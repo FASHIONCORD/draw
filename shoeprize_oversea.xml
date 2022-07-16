@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-07-16T03:02:21.976Z</updated>
+    <updated>2022-07-16T04:22:58.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[우포스 X 타카히로미야시타 더 솔로이스트 클로그 웨이 오브 라이프]]></title>
-        <id>https://www.shoeprize.com/raffles/95066</id>
-        <link href="https://www.shoeprize.com/raffles/95066"/>
-        <updated>2022-07-15T07:11:13.044Z</updated>
-        <content type="html"><![CDATA[TAKAHIRO MIYASHITA THE SOLOIST]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우포스 X 타카히로미야시타 더 솔로이스트 플립 플랍 웨이 오브 라이프]]></title>
-        <id>https://www.shoeprize.com/raffles/95067</id>
-        <link href="https://www.shoeprize.com/raffles/95067"/>
-        <updated>2022-07-15T07:11:13.045Z</updated>
-        <content type="html"><![CDATA[TAKAHIRO MIYASHITA THE SOLOIST]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔라스 2022 여름 컬렉션 11주 차]]></title>
-        <id>https://www.shoeprize.com/raffles/94987</id>
-        <link href="https://www.shoeprize.com/raffles/94987"/>
-        <updated>2022-07-14T15:13:34.672Z</updated>
-        <content type="html"><![CDATA[PALACE JP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[조던 1 KO 화이트 앤 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/94184</id>
@@ -270,6 +249,27 @@
         <link href="https://www.shoeprize.com/raffles/86283"/>
         <updated>2022-07-15T15:12:44.688Z</updated>
         <content type="html"><![CDATA[UPTOWN Deluxe]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우포스 X 타카히로미야시타 더 솔로이스트 클로그 웨이 오브 라이프]]></title>
+        <id>https://www.shoeprize.com/raffles/95066</id>
+        <link href="https://www.shoeprize.com/raffles/95066"/>
+        <updated>2022-07-15T07:11:13.044Z</updated>
+        <content type="html"><![CDATA[TAKAHIRO MIYASHITA THE SOLOIST]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우포스 X 타카히로미야시타 더 솔로이스트 플립 플랍 웨이 오브 라이프]]></title>
+        <id>https://www.shoeprize.com/raffles/95067</id>
+        <link href="https://www.shoeprize.com/raffles/95067"/>
+        <updated>2022-07-15T07:11:13.045Z</updated>
+        <content type="html"><![CDATA[TAKAHIRO MIYASHITA THE SOLOIST]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔라스 2022 여름 컬렉션 11주 차]]></title>
+        <id>https://www.shoeprize.com/raffles/94987</id>
+        <link href="https://www.shoeprize.com/raffles/94987"/>
+        <updated>2022-07-14T15:13:34.672Z</updated>
+        <content type="html"><![CDATA[PALACE JP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유니온 X 나이키 코르테즈 SP 블루 퓨리]]></title>
