@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-07-18T10:17:55.805Z</updated>
+    <updated>2022-07-18T11:15:26.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[메종 미하라 야스히로 블레이키 VL OG 솔 캔버스 로우 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/94646</id>
-        <link href="https://www.shoeprize.com/raffles/94646"/>
-        <updated>2022-07-17T10:11:22.900Z</updated>
-        <content type="html"><![CDATA[슈프라이즈]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 오리지널스 아딜렛 슬라이드 22 카본]]></title>
         <id>https://www.shoeprize.com/raffles/93542</id>
@@ -424,6 +417,13 @@
         <link href="https://www.shoeprize.com/raffles/82493"/>
         <updated>2022-07-18T08:16:19.897Z</updated>
         <content type="html"><![CDATA[나이키 강남점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메종 미하라 야스히로 블레이키 VL OG 솔 캔버스 로우 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/94646</id>
+        <link href="https://www.shoeprize.com/raffles/94646"/>
+        <updated>2022-07-17T10:11:22.900Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 로우 OG 블랙 앤드 다크 파우더 블루]]></title>
