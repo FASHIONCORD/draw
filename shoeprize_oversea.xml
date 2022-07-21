@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-07-21T21:12:34.251Z</updated>
+    <updated>2022-07-21T22:12:05.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[헬로 키티 X 나이키 에어 프레스토 유니버시티 블루]]></title>
-        <id>https://www.shoeprize.com/raffles/89995</id>
-        <link href="https://www.shoeprize.com/raffles/89995"/>
-        <updated>2022-07-21T15:14:03.351Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[리암 갤러거 x 아디다스 LG 스페지알 II]]></title>
         <id>https://www.shoeprize.com/raffles/94731</id>
@@ -452,6 +445,13 @@
         <link href="https://www.shoeprize.com/raffles/80361"/>
         <updated>2022-07-16T13:21:01.617Z</updated>
         <content type="html"><![CDATA[BODEGA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로 키티 X 나이키 에어 프레스토 유니버시티 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/89995</id>
+        <link href="https://www.shoeprize.com/raffles/89995"/>
+        <updated>2022-07-21T15:14:03.351Z</updated>
+        <content type="html"><![CDATA[SVD *IN APP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유니온 X 나이키 코르테즈 SP 레몬 프로스트]]></title>
