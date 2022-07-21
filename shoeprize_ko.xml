@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-07-21T08:15:06.404Z</updated>
+    <updated>2022-07-21T09:12:07.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/413</id>
-        <link href="https://www.shoeprize.com/raffles/413"/>
-        <updated>2022-07-21T08:14:44.719Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스톤 아일랜드 x 뉴발란스 RC 엘리트 네오 플레임]]></title>
         <id>https://www.shoeprize.com/raffles/92218</id>
@@ -202,6 +195,13 @@
         <content type="html"><![CDATA[나이키 압구정]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-07-21T08:14:44.719Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[레고 x 아디다스 스탠 스미스 우먼스 화이트 옐로우]]></title>
         <id>https://www.shoeprize.com/raffles/95217</id>
         <link href="https://www.shoeprize.com/raffles/95217"/>
@@ -249,5 +249,33 @@
         <link href="https://www.shoeprize.com/raffles/95345"/>
         <updated>2022-07-21T06:16:04.618Z</updated>
         <content type="html"><![CDATA[뉴발란스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이다스 이지 슬라이드 본 (2022)]]></title>
+        <id>https://www.shoeprize.com/raffles/94507</id>
+        <link href="https://www.shoeprize.com/raffles/94507"/>
+        <updated>2022-07-20T03:10:53.872Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 이지 슬라이드 오닉스]]></title>
+        <id>https://www.shoeprize.com/raffles/80969</id>
+        <link href="https://www.shoeprize.com/raffles/80969"/>
+        <updated>2022-07-19T22:11:30.700Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라이언트 자일스 x 뉴발란스 2002R 올리브 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/94671</id>
+        <link href="https://www.shoeprize.com/raffles/94671"/>
+        <updated>2022-07-21T09:11:44.387Z</updated>
+        <content type="html"><![CDATA[웍스아웃]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라이언트 자일스 x 뉴발란스 2002R 슬립온]]></title>
+        <id>https://www.shoeprize.com/raffles/94670</id>
+        <link href="https://www.shoeprize.com/raffles/94670"/>
+        <updated>2022-07-21T09:11:44.387Z</updated>
+        <content type="html"><![CDATA[웍스아웃]]></content>
     </entry>
 </feed>
