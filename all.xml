@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 06:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,26 +258,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1884/thumb_1656716133824.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/union-x-nike-cortez-lemon-frost/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/union-x-nike-cortez-lemon-frost/</guid>
-            <pubDate>Thu, 21 Jul 2022 00:58:41 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                            
-                                                07월 28일 10:30 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1885/thumb_1656716187451.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release-raffle/detail/union-x-nike-cortez-light-smoke-grey/</link>
-            <guid>https://www.luck-d.com/release-raffle/detail/union-x-nike-cortez-light-smoke-grey/</guid>
-            <pubDate>Thu, 21 Jul 2022 00:58:41 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                            
-                                                07월 28일 10:30 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1884/thumb_1656716133824.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[ABC GS 명동중앙점 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-slide-bone/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/adidas-yeezy-slide-bone/</guid>
@@ -457,7 +437,7 @@
             <title><![CDATA[나이키 서울 라이즈 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/dunk-low-black-white-td/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/dunk-low-black-white-td/</guid>
-            <pubDate>Sat, 23 Jul 2022 05:13:56 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
@@ -468,7 +448,7 @@
             <title><![CDATA[나이키 서울 라이즈 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release-raffle/detail/dunk-low-black-white-gs/</link>
             <guid>https://www.luck-d.com/release-raffle/detail/dunk-low-black-white-gs/</guid>
-            <pubDate>Sat, 23 Jul 2022 05:13:56 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[온라인 응모<br>
                                         
                                         
@@ -1440,7 +1420,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35873" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658552400000" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35873" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658552400000" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1469,7 +1449,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35874" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658552400000" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35874" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658552400000" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1498,7 +1478,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35875" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658552400000" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35875" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658552400000" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1527,7 +1507,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35408" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35408" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1556,7 +1536,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35054" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35054" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1585,7 +1565,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35082" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35082" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1614,7 +1594,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35269" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_35269" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658559600000"><span class="time" display:="" inline-block;"="" lang="en">46분</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1962,7 +1942,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35489" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35489" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -1991,7 +1971,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35490" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35490" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2020,7 +2000,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35491" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35491" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2049,7 +2029,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35492" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35492" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2078,7 +2058,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35493" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35493" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2107,7 +2087,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35499" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35499" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2136,7 +2116,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35498" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35498" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2165,7 +2145,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35497" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35497" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2194,7 +2174,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35496" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35496" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2223,7 +2203,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35495" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35495" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2252,7 +2232,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35494" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35494" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2281,7 +2261,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35500" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35500" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2310,7 +2290,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35501" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35501" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2339,7 +2319,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35502" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35502" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2368,7 +2348,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35503" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35503" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2397,7 +2377,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35504" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35504" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2426,7 +2406,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35505" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35505" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2455,7 +2435,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35506" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_35506" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658584800000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -2600,7 +2580,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_34603" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658538000000" data-end-time="1658588340000"><span>4시간 전 출시</span></span>
+        <span id="time_count_34603" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658538000000" data-end-time="1658588340000"><span>5시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -2629,7 +2609,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35851" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658503800000" data-end-time="1658588340000"><span>13시간 전 출시</span></span>
+        <span id="time_count_35851" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658503800000" data-end-time="1658588340000"><span>14시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
@@ -2658,11 +2638,69 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35852" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658503800000" data-end-time="1658588340000"><span>13시간 전 출시</span></span>
+        <span id="time_count_35852" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658503800000" data-end-time="1658588340000"><span>14시간 전 출시</span></span>
 
         <script>
           var now = new Date().getTime();
           renderReleaseDateLabel($('#time_count_35852'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 로우 팀 USA (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/93668</link>
+            <guid>https://www.shoeprize.com/raffles/93668</guid>
+            <pubDate>Sat, 23 Jul 2022 06:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        NIKE GB
+      </div>
+      <div class="name">
+        <a href="/raffles/93668">나이키 에어 포스 1 로우 팀 USA</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_35876" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658534400000" data-end-time="1658588340000"><span>6시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_35876'), now);
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 로우 팀 USA 화이트 블루 레드 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/92225</link>
+            <guid>https://www.shoeprize.com/raffles/92225</guid>
+            <pubDate>Sat, 23 Jul 2022 06:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        NIKE GB
+      </div>
+      <div class="name">
+        <a href="/raffles/92225">나이키 에어 포스 1 로우 팀 USA 화이트 블루 레드</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_35877" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658534400000" data-end-time="1658588340000"><span>6시간 전 출시</span></span>
+
+        <script>
+          var now = new Date().getTime();
+          renderReleaseDateLabel($('#time_count_35877'), now);
         </script>
       </div>
       
@@ -2716,7 +2754,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35456" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658588400000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
+        <span id="time_count_35456" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658588400000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3213,64 +3251,6 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유니온 X 나이키 코르테즈 SP 레몬 프로스트 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/94210</link>
-            <guid>https://www.shoeprize.com/raffles/94210</guid>
-            <pubDate>Thu, 21 Jul 2022 00:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        나이키 코리아
-      </div>
-      <div class="name">
-        <a href="/raffles/94210">유니온 X 나이키 코르테즈 SP 레몬 프로스트</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_35773" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658970000000" data-end-time="1658971800000"><span>7월 28일 01:00 시작</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_35773'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">국내 배송</span>
-        <span class="info">당첨 문자 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유니온 X 나이키 코르테즈 SP 라이트 스모크 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/94209</link>
-            <guid>https://www.shoeprize.com/raffles/94209</guid>
-            <pubDate>Thu, 21 Jul 2022 00:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        나이키 코리아
-      </div>
-      <div class="name">
-        <a href="/raffles/94209">유니온 X 나이키 코르테즈 SP 라이트 스모크</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_35774" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1658970000000" data-end-time="1658971800000"><span>7월 28일 01:00 시작</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_35774'), now);
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">국내 배송</span>
-        <span class="info">당첨 문자 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뉴발란스 990 v2 레드 MADE IN USA 테디 산티스 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/95350</link>
             <guid>https://www.shoeprize.com/raffles/95350</guid>
@@ -3660,7 +3640,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35840" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_35840" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3689,7 +3669,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35841" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_35841" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3718,7 +3698,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35842" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_35842" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3747,7 +3727,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35843" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_35843" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3776,7 +3756,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35844" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_35844" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3805,7 +3785,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_35845" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_35845" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1658610000000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
           var now = new Date().getTime();
@@ -3999,21 +3979,21 @@
             <title><![CDATA[나이키 덩크 로우 레트로 화이트 블랙 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/413</link>
             <guid>https://www.shoeprize.com/raffles/413</guid>
-            <pubDate>Sat, 23 Jul 2022 05:14:31 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 05:14:23 GMT</pubDate>
             <content:encoded><![CDATA[나이키 서울]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 GS 화이트 블랙 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/434</link>
             <guid>https://www.shoeprize.com/raffles/434</guid>
-            <pubDate>Sat, 23 Jul 2022 05:14:31 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 05:14:23 GMT</pubDate>
             <content:encoded><![CDATA[나이키 서울]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 화이트 블랙 TD (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/970</link>
             <guid>https://www.shoeprize.com/raffles/970</guid>
-            <pubDate>Sat, 23 Jul 2022 05:14:31 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 05:14:23 GMT</pubDate>
             <content:encoded><![CDATA[나이키 서울]]></content:encoded>
         </item>
         <item>
@@ -4085,20 +4065,6 @@
             <guid>https://www.shoeprize.com/raffles/93627</guid>
             <pubDate>Sat, 23 Jul 2022 03:05:35 GMT</pubDate>
             <content:encoded><![CDATA[나이키 엔터식스 안양점]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유니온 X 나이키 코르테즈 SP 레몬 프로스트 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/94210</link>
-            <guid>https://www.shoeprize.com/raffles/94210</guid>
-            <pubDate>Thu, 21 Jul 2022 00:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[나이키 코리아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유니온 X 나이키 코르테즈 SP 라이트 스모크 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/94209</link>
-            <guid>https://www.shoeprize.com/raffles/94209</guid>
-            <pubDate>Thu, 21 Jul 2022 00:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[나이키 코리아]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에어 조던 1 레트로 하이 OG 우먼스 바시티 레드 (슈프라이즈 ─ 해외)]]></title>
@@ -4364,6 +4330,20 @@
             <link>https://www.shoeprize.com/raffles/95464</link>
             <guid>https://www.shoeprize.com/raffles/95464</guid>
             <pubDate>Fri, 22 Jul 2022 17:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[NIKE GB]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 로우 팀 USA (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/93668</link>
+            <guid>https://www.shoeprize.com/raffles/93668</guid>
+            <pubDate>Sat, 23 Jul 2022 06:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[NIKE GB]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 포스 1 로우 팀 USA 화이트 블루 레드 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/92225</link>
+            <guid>https://www.shoeprize.com/raffles/92225</guid>
+            <pubDate>Sat, 23 Jul 2022 06:13:58 GMT</pubDate>
             <content:encoded><![CDATA[NIKE GB]]></content:encoded>
         </item>
         <item>
