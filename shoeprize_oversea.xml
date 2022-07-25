@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-07-25T09:14:36.436Z</updated>
+    <updated>2022-07-25T10:13:18.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[아디다스 이지 슬라이드 오닉스]]></title>
-        <id>https://www.shoeprize.com/raffles/80969</id>
-        <link href="https://www.shoeprize.com/raffles/80969"/>
-        <updated>2022-07-20T04:33:48.255Z</updated>
-        <content type="html"><![CDATA[SOTF]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 이지 슬라이드 본 (2022)]]></title>
         <id>https://www.shoeprize.com/raffles/94507</id>
@@ -405,6 +398,13 @@
         <content type="html"><![CDATA[THE HIPSTORE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아디다스 이지 슬라이드 오닉스]]></title>
+        <id>https://www.shoeprize.com/raffles/80969</id>
+        <link href="https://www.shoeprize.com/raffles/80969"/>
+        <updated>2022-07-20T04:33:48.255Z</updated>
+        <content type="html"><![CDATA[SOTF]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에어 조던 3 데저트 엘레펀트]]></title>
         <id>https://www.shoeprize.com/raffles/78043</id>
         <link href="https://www.shoeprize.com/raffles/78043"/>
@@ -633,6 +633,27 @@
         <id>https://www.shoeprize.com/raffles/82760</id>
         <link href="https://www.shoeprize.com/raffles/82760"/>
         <updated>2022-07-25T08:16:08.940Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴먼 메이드 X 아디다스 아디매틱 그린 JP]]></title>
+        <id>https://www.shoeprize.com/raffles/95526</id>
+        <link href="https://www.shoeprize.com/raffles/95526"/>
+        <updated>2022-07-25T10:13:09.527Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴먼 메이드 X 아디다스 아디매틱 그레이 JP]]></title>
+        <id>https://www.shoeprize.com/raffles/95525</id>
+        <link href="https://www.shoeprize.com/raffles/95525"/>
+        <updated>2022-07-25T10:13:09.531Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴먼 메이드 X 아디다스 아디매틱 화이트 JP]]></title>
+        <id>https://www.shoeprize.com/raffles/95524</id>
+        <link href="https://www.shoeprize.com/raffles/95524"/>
+        <updated>2022-07-25T10:13:09.531Z</updated>
         <content type="html"><![CDATA[UNDEFEATED JP]]></content>
     </entry>
 </feed>
