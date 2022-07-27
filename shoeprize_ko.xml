@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-07-27T10:12:50.361Z</updated>
+    <updated>2022-07-27T11:10:42.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 로우 OG 우먼스 블랙 앤드 다크 파우더 블루]]></title>
-        <id>https://www.shoeprize.com/raffles/95099</id>
-        <link href="https://www.shoeprize.com/raffles/95099"/>
-        <updated>2022-07-26T03:32:50.812Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 맥스 SC 화이트 고지 그린]]></title>
         <id>https://www.shoeprize.com/raffles/95568</id>
@@ -265,6 +258,13 @@
         <content type="html"><![CDATA[나이키 수유점]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 OG 우먼스 블랙 앤드 다크 파우더 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/95099</id>
+        <link href="https://www.shoeprize.com/raffles/95099"/>
+        <updated>2022-07-26T03:32:50.812Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 넥스트 네이처 GS 블루 칠 옐로우 스트라이크]]></title>
         <id>https://www.shoeprize.com/raffles/89509</id>
         <link href="https://www.shoeprize.com/raffles/89509"/>
@@ -440,7 +440,7 @@
         <content type="html"><![CDATA[카시나]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 넥스트 네이처 우먼스 진저 화이트]]></title>
+        <title type="html"><![CDATA[나이키 덩크 로우 넥스트 네이처 우먼스 팬텀]]></title>
         <id>https://www.shoeprize.com/raffles/93627</id>
         <link href="https://www.shoeprize.com/raffles/93627"/>
         <updated>2022-07-27T09:11:22.365Z</updated>
