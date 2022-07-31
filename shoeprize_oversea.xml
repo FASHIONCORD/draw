@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-07-31T11:10:51.288Z</updated>
+    <updated>2022-07-31T12:20:05.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -102,5 +102,19 @@
         <link href="https://www.shoeprize.com/raffles/81155"/>
         <updated>2022-07-30T19:09:59.868Z</updated>
         <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빔즈 x 페이퍼 보이 x 뉴발란스 M920 메이드 인 UK]]></title>
+        <id>https://www.shoeprize.com/raffles/95796</id>
+        <link href="https://www.shoeprize.com/raffles/95796"/>
+        <updated>2022-07-31T12:19:56.016Z</updated>
+        <content type="html"><![CDATA[END]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빔즈 x 페이퍼 보이 x 뉴발란스 M1500 메이드 인 UK]]></title>
+        <id>https://www.shoeprize.com/raffles/95795</id>
+        <link href="https://www.shoeprize.com/raffles/95795"/>
+        <updated>2022-07-31T12:19:56.017Z</updated>
+        <content type="html"><![CDATA[END]]></content>
     </entry>
 </feed>
