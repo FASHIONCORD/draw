@@ -2,99 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2022-08-18T08:15:06.209Z</updated>
+    <updated>2022-08-18T09:13:02.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 991 메이드 인 UK 고 그린]]></title>
-        <id>https://www.shoeprize.com/raffles/96335</id>
-        <link href="https://www.shoeprize.com/raffles/96335"/>
-        <updated>2022-08-17T15:12:32.382Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        43EINHALB
-      </div>
-      <div class="name">
-        <a href="/raffles/96335">뉴발란스 991 메이드 인 UK 고 그린</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_39035" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660809600000" data-end-time="1660811400000"><span>14분 전 출시</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39035'), now);
-
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">독일</span>
-        <span class="info">직배</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/413</id>
-        <link href="https://www.shoeprize.com/raffles/413"/>
-        <updated>2022-08-18T03:55:38.521Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        나이키 강남점
-      </div>
-      <div class="name">
-        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_39803" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1660813200000"><span class="time" display:="" inline-block;"="" lang="en">45분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39803'), now);
-
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">매장 수령</span>
-        <span class="info">당첨 문자 발송</span>
-        
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/385</id>
-        <link href="https://www.shoeprize.com/raffles/385"/>
-        <updated>2022-08-18T03:55:38.522Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        나이키 강남점
-      </div>
-      <div class="name">
-        <a href="/raffles/385">나이키 덩크 로우 우먼스 화이트 블랙</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_39805" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1660813200000"><span class="time" display:="" inline-block;"="" lang="en">45분</span> 후 마감</span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39805'), now);
-
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">매장 수령</span>
-        <span class="info">당첨 문자 발송</span>
-        
-      </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 줌 CMFT 헤이어]]></title>
         <id>https://www.shoeprize.com/raffles/90329</id>
@@ -108,12 +18,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39662" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660816800000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_39662" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660816800000"><span class="time" display:="" inline-block;"="" lang="en">47분</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39662'), now);
-
+          renderReleaseDateLabel($('#time_count_39662'));
         </script>
       </div>
       
@@ -138,12 +46,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39388" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660816800000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_39388" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660816800000"><span class="time" display:="" inline-block;"="" lang="en">47분</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39388'), now);
-
+          renderReleaseDateLabel($('#time_count_39388'));
         </script>
       </div>
       
@@ -168,12 +74,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39382" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660820400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_39382" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660820400000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39382'), now);
-
+          renderReleaseDateLabel($('#time_count_39382'));
         </script>
       </div>
       
@@ -198,12 +102,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39545" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660824000000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_39545" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660824000000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39545'), now);
-
+          renderReleaseDateLabel($('#time_count_39545'));
         </script>
       </div>
       
@@ -228,12 +130,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39685" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660824000000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_39685" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660824000000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39685'), now);
-
+          renderReleaseDateLabel($('#time_count_39685'));
         </script>
       </div>
       
@@ -258,12 +158,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39762" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660796417000" data-end-time="1660827600000"><span>3시간 전 출시</span></span>
+        <span id="time_count_39762" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660796417000" data-end-time="1660827600000"><span>4시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39762'), now);
-
+          renderReleaseDateLabel($('#time_count_39762'));
         </script>
       </div>
       
@@ -288,12 +186,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39747" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
+        <span id="time_count_39747" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39747'), now);
-
+          renderReleaseDateLabel($('#time_count_39747'));
         </script>
       </div>
       
@@ -318,12 +214,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39748" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
+        <span id="time_count_39748" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39748'), now);
-
+          renderReleaseDateLabel($('#time_count_39748'));
         </script>
       </div>
       
@@ -348,12 +242,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39751" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
+        <span id="time_count_39751" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39751'), now);
-
+          renderReleaseDateLabel($('#time_count_39751'));
         </script>
       </div>
       
@@ -378,12 +270,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39752" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
+        <span id="time_count_39752" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39752'), now);
-
+          renderReleaseDateLabel($('#time_count_39752'));
         </script>
       </div>
       
@@ -408,12 +298,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39749" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
+        <span id="time_count_39749" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39749'), now);
-
+          renderReleaseDateLabel($('#time_count_39749'));
         </script>
       </div>
       
@@ -438,12 +326,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39750" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
+        <span id="time_count_39750" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660831200000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39750'), now);
-
+          renderReleaseDateLabel($('#time_count_39750'));
         </script>
       </div>
       
@@ -471,9 +357,7 @@
         <span id="time_count_39019" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660833000000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39019'), now);
-
+          renderReleaseDateLabel($('#time_count_39019'));
         </script>
       </div>
       
@@ -501,9 +385,7 @@
         <span id="time_count_39020" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660833000000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39020'), now);
-
+          renderReleaseDateLabel($('#time_count_39020'));
         </script>
       </div>
       
@@ -531,9 +413,7 @@
         <span id="time_count_39304" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660833000000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39304'), now);
-
+          renderReleaseDateLabel($('#time_count_39304'));
         </script>
       </div>
       
@@ -561,9 +441,7 @@
         <span id="time_count_39307" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660833000000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39307'), now);
-
+          renderReleaseDateLabel($('#time_count_39307'));
         </script>
       </div>
       
@@ -591,9 +469,7 @@
         <span id="time_count_39310" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660833000000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39310'), now);
-
+          renderReleaseDateLabel($('#time_count_39310'));
         </script>
       </div>
       
@@ -621,9 +497,7 @@
         <span id="time_count_39312" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660833000000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39312'), now);
-
+          renderReleaseDateLabel($('#time_count_39312'));
         </script>
       </div>
       
@@ -648,12 +522,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39461" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660788000000" data-end-time="1660834740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_39461" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660788000000" data-end-time="1660834740000"><span>7시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39461'), now);
-
+          renderReleaseDateLabel($('#time_count_39461'));
         </script>
       </div>
       
@@ -678,12 +550,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39462" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660788000000" data-end-time="1660834740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_39462" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660788000000" data-end-time="1660834740000"><span>7시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39462'), now);
-
+          renderReleaseDateLabel($('#time_count_39462'));
         </script>
       </div>
       
@@ -708,12 +578,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39801" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1660834740000"><span>1시간 전 출시</span></span>
+        <span id="time_count_39801" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1660834740000"><span>2시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39801'), now);
-
+          renderReleaseDateLabel($('#time_count_39801'));
         </script>
       </div>
       
@@ -738,12 +606,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39713" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660752000000" data-end-time="1660834740000"><span>16시간 전 출시</span></span>
+        <span id="time_count_39713" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660752000000" data-end-time="1660834740000"><span>17시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39713'), now);
-
+          renderReleaseDateLabel($('#time_count_39713'));
         </script>
       </div>
       
@@ -771,9 +637,7 @@
         <span id="time_count_36854" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660834740000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_36854'), now);
-
+          renderReleaseDateLabel($('#time_count_36854'));
         </script>
       </div>
       
@@ -801,9 +665,7 @@
         <span id="time_count_36855" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660834740000"><span>8월 18일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_36855'), now);
-
+          renderReleaseDateLabel($('#time_count_36855'));
         </script>
       </div>
       
@@ -828,12 +690,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39821" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1660834740000"><span>1시간 전 출시</span></span>
+        <span id="time_count_39821" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1660834740000"><span>2시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39821'), now);
-
+          renderReleaseDateLabel($('#time_count_39821'));
         </script>
       </div>
       
@@ -841,6 +701,34 @@
       <div class="detail_info">
         <span class="info">영국</span>
         <span class="info">직배</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 엘레베이트 우먼스 옐로우 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/82850</id>
+        <link href="https://www.shoeprize.com/raffles/82850"/>
+        <updated>2022-08-18T09:12:30.356Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        SNIPES
+      </div>
+      <div class="name">
+        <a href="/raffles/82850">에어 조던 1 로우 엘레베이트 우먼스 옐로우 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_39824" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660831200000" data-end-time="1660834740000"><span>8월 18일 14:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_39824'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
         <span class="info">온라인 선착순</span>
         
       </div>]]></content>
@@ -858,12 +746,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39716" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660780800000" data-end-time="1660834740000"><span>8시간 전 출시</span></span>
+        <span id="time_count_39716" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660780800000" data-end-time="1660834740000"><span>9시간 전 출시</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39716'), now);
-
+          renderReleaseDateLabel($('#time_count_39716'));
         </script>
       </div>
       
@@ -888,12 +774,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39445" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660698000000" data-end-time="1660834740000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_39445" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660698000000" data-end-time="1660834740000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39445'), now);
-
+          renderReleaseDateLabel($('#time_count_39445'));
         </script>
       </div>
       
@@ -922,9 +806,7 @@
         </span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39501'), now);
-
+          renderReleaseDateLabel($('#time_count_39501'));
         </script>
       </div>
       
@@ -953,9 +835,7 @@
         </span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39386'), now);
-
+          renderReleaseDateLabel($('#time_count_39386'));
         </script>
       </div>
       
@@ -980,12 +860,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39503" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660834800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_39503" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660834800000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39503'), now);
-
+          renderReleaseDateLabel($('#time_count_39503'));
         </script>
       </div>
       
@@ -1010,12 +888,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39136" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660834800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_39136" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660834800000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39136'), now);
-
+          renderReleaseDateLabel($('#time_count_39136'));
         </script>
       </div>
       
@@ -1040,12 +916,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39137" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660834800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_39137" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660834800000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39137'), now);
-
+          renderReleaseDateLabel($('#time_count_39137'));
         </script>
       </div>
       
@@ -2238,6 +2112,86 @@
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴발란스 991 메이드 인 UK 고 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/96335</id>
+        <link href="https://www.shoeprize.com/raffles/96335"/>
+        <updated>2022-08-17T15:12:32.382Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        43EINHALB
+      </div>
+      <div class="name">
+        <a href="/raffles/96335">뉴발란스 991 메이드 인 UK 고 그린</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">독일</span>
+        <span class="info">직배</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 우먼스 데님]]></title>
+        <id>https://www.shoeprize.com/raffles/81447</id>
+        <link href="https://www.shoeprize.com/raffles/81447"/>
+        <updated>2022-08-17T03:53:30.830Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        나이키 강남점
+      </div>
+      <div class="name">
+        <a href="/raffles/81447">에어 조던 1 하이 우먼스 데님</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-08-18T03:55:38.521Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        나이키 강남점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">당첨 문자 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/385</id>
+        <link href="https://www.shoeprize.com/raffles/385"/>
+        <updated>2022-08-18T03:55:38.522Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        나이키 강남점
+      </div>
+      <div class="name">
+        <a href="/raffles/385">나이키 덩크 로우 우먼스 화이트 블랙</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">당첨 문자 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에어 조던 1 로우 스텔스 앤 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/90158</id>
         <link href="https://www.shoeprize.com/raffles/90158"/>
@@ -2250,12 +2204,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39727" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39727" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39727'), now);
-
+          renderReleaseDateLabel($('#time_count_39727'));
         </script>
       </div>
       
@@ -2280,12 +2232,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39728" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39728" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39728'), now);
-
+          renderReleaseDateLabel($('#time_count_39728'));
         </script>
       </div>
       
@@ -2310,12 +2260,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39729" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39729" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39729'), now);
-
+          renderReleaseDateLabel($('#time_count_39729'));
         </script>
       </div>
       
@@ -2340,12 +2288,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39730" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39730" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39730'), now);
-
+          renderReleaseDateLabel($('#time_count_39730'));
         </script>
       </div>
       
@@ -2370,12 +2316,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39731" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39731" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39731'), now);
-
+          renderReleaseDateLabel($('#time_count_39731'));
         </script>
       </div>
       
@@ -2400,12 +2344,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39732" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39732" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39732'), now);
-
+          renderReleaseDateLabel($('#time_count_39732'));
         </script>
       </div>
       
@@ -2430,12 +2372,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39735" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39735" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39735'), now);
-
+          renderReleaseDateLabel($('#time_count_39735'));
         </script>
       </div>
       
@@ -2460,12 +2400,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39736" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39736" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39736'), now);
-
+          renderReleaseDateLabel($('#time_count_39736'));
         </script>
       </div>
       
@@ -2490,12 +2428,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39737" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39737" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39737'), now);
-
+          renderReleaseDateLabel($('#time_count_39737'));
         </script>
       </div>
       
@@ -2520,12 +2456,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39738" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39738" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39738'), now);
-
+          renderReleaseDateLabel($('#time_count_39738'));
         </script>
       </div>
       
@@ -2550,12 +2484,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39739" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39739" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39739'), now);
-
+          renderReleaseDateLabel($('#time_count_39739'));
         </script>
       </div>
       
@@ -2580,12 +2512,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39740" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39740" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39740'), now);
-
+          renderReleaseDateLabel($('#time_count_39740'));
         </script>
       </div>
       
@@ -2610,12 +2540,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39741" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39741" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39741'), now);
-
+          renderReleaseDateLabel($('#time_count_39741'));
         </script>
       </div>
       
@@ -2640,12 +2568,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39742" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39742" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39742'), now);
-
+          renderReleaseDateLabel($('#time_count_39742'));
         </script>
       </div>
       
@@ -2670,12 +2596,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39743" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39743" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39743'), now);
-
+          renderReleaseDateLabel($('#time_count_39743'));
         </script>
       </div>
       
@@ -2700,12 +2624,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39744" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39744" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39744'), now);
-
+          renderReleaseDateLabel($('#time_count_39744'));
         </script>
       </div>
       
@@ -2730,12 +2652,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39745" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39745" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39745'), now);
-
+          renderReleaseDateLabel($('#time_count_39745'));
         </script>
       </div>
       
@@ -2760,12 +2680,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39746" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39746" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660784400000" data-end-time="1660870800000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39746'), now);
-
+          renderReleaseDateLabel($('#time_count_39746'));
         </script>
       </div>
       
@@ -2793,9 +2711,7 @@
         <span id="time_count_39753" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660870800000" data-end-time="1660881600000"><span>8월 19일 01:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39753'), now);
-
+          renderReleaseDateLabel($('#time_count_39753'));
         </script>
       </div>
       
@@ -2823,9 +2739,7 @@
         <span id="time_count_39763" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661306400000" data-end-time="1661308200000"><span>8월 24일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39763'), now);
-
+          renderReleaseDateLabel($('#time_count_39763'));
         </script>
       </div>
       
@@ -2853,9 +2767,7 @@
         <span id="time_count_39764" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661306400000" data-end-time="1661308200000"><span>8월 24일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39764'), now);
-
+          renderReleaseDateLabel($('#time_count_39764'));
         </script>
       </div>
       
@@ -2883,9 +2795,7 @@
         <span id="time_count_39766" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39766'), now);
-
+          renderReleaseDateLabel($('#time_count_39766'));
         </script>
       </div>
       
@@ -2913,9 +2823,7 @@
         <span id="time_count_39767" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39767'), now);
-
+          renderReleaseDateLabel($('#time_count_39767'));
         </script>
       </div>
       
@@ -2943,9 +2851,7 @@
         <span id="time_count_39768" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39768'), now);
-
+          renderReleaseDateLabel($('#time_count_39768'));
         </script>
       </div>
       
@@ -2973,9 +2879,7 @@
         <span id="time_count_39769" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39769'), now);
-
+          renderReleaseDateLabel($('#time_count_39769'));
         </script>
       </div>
       
@@ -3003,9 +2907,7 @@
         <span id="time_count_39770" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39770'), now);
-
+          renderReleaseDateLabel($('#time_count_39770'));
         </script>
       </div>
       
@@ -3033,9 +2935,7 @@
         <span id="time_count_39771" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39771'), now);
-
+          renderReleaseDateLabel($('#time_count_39771'));
         </script>
       </div>
       
@@ -3063,9 +2963,7 @@
         <span id="time_count_39772" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39772'), now);
-
+          renderReleaseDateLabel($('#time_count_39772'));
         </script>
       </div>
       
@@ -3093,9 +2991,7 @@
         <span id="time_count_39774" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39774'), now);
-
+          renderReleaseDateLabel($('#time_count_39774'));
         </script>
       </div>
       
@@ -3123,9 +3019,7 @@
         <span id="time_count_39775" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39775'), now);
-
+          renderReleaseDateLabel($('#time_count_39775'));
         </script>
       </div>
       
@@ -3153,9 +3047,7 @@
         <span id="time_count_39776" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39776'), now);
-
+          renderReleaseDateLabel($('#time_count_39776'));
         </script>
       </div>
       
@@ -3183,9 +3075,7 @@
         <span id="time_count_39777" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39777'), now);
-
+          renderReleaseDateLabel($('#time_count_39777'));
         </script>
       </div>
       
@@ -3213,9 +3103,7 @@
         <span id="time_count_39778" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39778'), now);
-
+          renderReleaseDateLabel($('#time_count_39778'));
         </script>
       </div>
       
@@ -3243,9 +3131,7 @@
         <span id="time_count_39779" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39779'), now);
-
+          renderReleaseDateLabel($('#time_count_39779'));
         </script>
       </div>
       
@@ -3273,9 +3159,7 @@
         <span id="time_count_39780" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39780'), now);
-
+          renderReleaseDateLabel($('#time_count_39780'));
         </script>
       </div>
       
@@ -3303,9 +3187,7 @@
         <span id="time_count_39781" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39781'), now);
-
+          renderReleaseDateLabel($('#time_count_39781'));
         </script>
       </div>
       
@@ -3333,9 +3215,7 @@
         <span id="time_count_39782" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39782'), now);
-
+          renderReleaseDateLabel($('#time_count_39782'));
         </script>
       </div>
       
@@ -3363,9 +3243,7 @@
         <span id="time_count_39783" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39783'), now);
-
+          renderReleaseDateLabel($('#time_count_39783'));
         </script>
       </div>
       
@@ -3393,9 +3271,7 @@
         <span id="time_count_39784" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39784'), now);
-
+          renderReleaseDateLabel($('#time_count_39784'));
         </script>
       </div>
       
@@ -3423,9 +3299,7 @@
         <span id="time_count_39785" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39785'), now);
-
+          renderReleaseDateLabel($('#time_count_39785'));
         </script>
       </div>
       
@@ -3453,9 +3327,7 @@
         <span id="time_count_39786" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39786'), now);
-
+          renderReleaseDateLabel($('#time_count_39786'));
         </script>
       </div>
       
@@ -3483,9 +3355,7 @@
         <span id="time_count_39787" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39787'), now);
-
+          renderReleaseDateLabel($('#time_count_39787'));
         </script>
       </div>
       
@@ -3513,9 +3383,7 @@
         <span id="time_count_39788" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39788'), now);
-
+          renderReleaseDateLabel($('#time_count_39788'));
         </script>
       </div>
       
@@ -3543,9 +3411,7 @@
         <span id="time_count_39789" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39789'), now);
-
+          renderReleaseDateLabel($('#time_count_39789'));
         </script>
       </div>
       
@@ -3573,9 +3439,7 @@
         <span id="time_count_39790" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39790'), now);
-
+          renderReleaseDateLabel($('#time_count_39790'));
         </script>
       </div>
       
@@ -3603,9 +3467,7 @@
         <span id="time_count_39791" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39791'), now);
-
+          renderReleaseDateLabel($('#time_count_39791'));
         </script>
       </div>
       
@@ -3633,9 +3495,7 @@
         <span id="time_count_39792" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39792'), now);
-
+          renderReleaseDateLabel($('#time_count_39792'));
         </script>
       </div>
       
@@ -3663,9 +3523,7 @@
         <span id="time_count_39793" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39793'), now);
-
+          renderReleaseDateLabel($('#time_count_39793'));
         </script>
       </div>
       
@@ -3693,9 +3551,7 @@
         <span id="time_count_39794" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39794'), now);
-
+          renderReleaseDateLabel($('#time_count_39794'));
         </script>
       </div>
       
@@ -3723,9 +3579,7 @@
         <span id="time_count_39795" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39795'), now);
-
+          renderReleaseDateLabel($('#time_count_39795'));
         </script>
       </div>
       
@@ -3753,9 +3607,7 @@
         <span id="time_count_39796" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39796'), now);
-
+          renderReleaseDateLabel($('#time_count_39796'));
         </script>
       </div>
       
@@ -3783,9 +3635,7 @@
         <span id="time_count_39797" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39797'), now);
-
+          renderReleaseDateLabel($('#time_count_39797'));
         </script>
       </div>
       
@@ -3813,9 +3663,7 @@
         <span id="time_count_39802" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39802'), now);
-
+          renderReleaseDateLabel($('#time_count_39802'));
         </script>
       </div>
       
@@ -3843,9 +3691,7 @@
         <span id="time_count_39804" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39804'), now);
-
+          renderReleaseDateLabel($('#time_count_39804'));
         </script>
       </div>
       
@@ -3873,9 +3719,7 @@
         <span id="time_count_39806" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660874400000" data-end-time="1660876200000"><span>8월 19일 02:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39806'), now);
-
+          renderReleaseDateLabel($('#time_count_39806'));
         </script>
       </div>
       
@@ -3903,9 +3747,7 @@
         <span id="time_count_39808" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661389200000" data-end-time="1661391000000"><span>8월 25일 01:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39808'), now);
-
+          renderReleaseDateLabel($('#time_count_39808'));
         </script>
       </div>
       
@@ -3933,9 +3775,7 @@
         <span id="time_count_39809" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661475600000" data-end-time="1661477400000"><span>8월 26일 01:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39809'), now);
-
+          renderReleaseDateLabel($('#time_count_39809'));
         </script>
       </div>
       
@@ -3963,9 +3803,7 @@
         <span id="time_count_39810" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661562000000" data-end-time="1661563800000"><span>8월 27일 01:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39810'), now);
-
+          renderReleaseDateLabel($('#time_count_39810'));
         </script>
       </div>
       
@@ -3993,9 +3831,7 @@
         <span id="time_count_39812" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661475600000" data-end-time="1661477400000"><span>8월 26일 01:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39812'), now);
-
+          renderReleaseDateLabel($('#time_count_39812'));
         </script>
       </div>
       
@@ -4023,9 +3859,7 @@
         <span id="time_count_39820" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661562000000" data-end-time="1661563800000"><span>8월 27일 01:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39820'), now);
-
+          renderReleaseDateLabel($('#time_count_39820'));
         </script>
       </div>
       
@@ -4053,9 +3887,7 @@
         <span id="time_count_39329" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660489200000" data-end-time="1660921140000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39329'), now);
-
+          renderReleaseDateLabel($('#time_count_39329'));
         </script>
       </div>
       
@@ -4065,36 +3897,6 @@
         <span class="info">국내 배송</span>
         <span class="info">당첨 문자 발송</span>
         <span class="info">이벤트</span>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피어 오브 갓 에센셜 2022 가을 컬렉션]]></title>
-        <id>https://www.shoeprize.com/raffles/96482</id>
-        <link href="https://www.shoeprize.com/raffles/96482"/>
-        <updated>2022-08-17T09:12:15.424Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        FEAR OF GOD
-      </div>
-      <div class="name">
-        <a href="/raffles/96482">피어 오브 갓 에센셜 2022 가을 컬렉션</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_39647" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661349600000" data-end-time="1661389200000"><span>8월 24일 14:00 시작</span></span>
-
-        <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39647'), now);
-
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">직배</span>
-        
-        
       </div>]]></content>
     </entry>
     <entry>
@@ -4113,9 +3915,7 @@
         <span id="time_count_39653" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660867200000" data-end-time="1660869000000"><span>8월 19일 00:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39653'), now);
-
+          renderReleaseDateLabel($('#time_count_39653'));
         </script>
       </div>
       
@@ -4143,9 +3943,7 @@
         <span id="time_count_39654" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660867200000" data-end-time="1660869000000"><span>8월 19일 00:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39654'), now);
-
+          renderReleaseDateLabel($('#time_count_39654'));
         </script>
       </div>
       
@@ -4170,12 +3968,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39655" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660608000000" data-end-time="1660867140000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_39655" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660608000000" data-end-time="1660867140000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39655'), now);
-
+          renderReleaseDateLabel($('#time_count_39655'));
         </script>
       </div>
       
@@ -4200,12 +3996,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39656" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660608000000" data-end-time="1660867140000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_39656" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660608000000" data-end-time="1660867140000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39656'), now);
-
+          renderReleaseDateLabel($('#time_count_39656'));
         </script>
       </div>
       
@@ -4233,9 +4027,7 @@
         <span id="time_count_39657" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660953600000" data-end-time="1660955400000"><span>8월 20일 00:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39657'), now);
-
+          renderReleaseDateLabel($('#time_count_39657'));
         </script>
       </div>
       
@@ -4260,12 +4052,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39658" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660694400000" data-end-time="1660867140000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_39658" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660694400000" data-end-time="1660867140000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39658'), now);
-
+          renderReleaseDateLabel($('#time_count_39658'));
         </script>
       </div>
       
@@ -4293,9 +4083,7 @@
         <span id="time_count_39659" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660694400000" data-end-time="1661126340000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39659'), now);
-
+          renderReleaseDateLabel($('#time_count_39659'));
         </script>
       </div>
       
@@ -4323,9 +4111,7 @@
         <span id="time_count_39660" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661126400000" data-end-time="1661128200000"><span>8월 22일 00:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39660'), now);
-
+          renderReleaseDateLabel($('#time_count_39660'));
         </script>
       </div>
       
@@ -4353,9 +4139,7 @@
         <span id="time_count_39661" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661126400000" data-end-time="1661128200000"><span>8월 22일 00:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39661'), now);
-
+          renderReleaseDateLabel($('#time_count_39661'));
         </script>
       </div>
       
@@ -4383,9 +4167,7 @@
         <span id="time_count_39663" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661472000000"><span class="time" "="" lang="en">7일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39663'), now);
-
+          renderReleaseDateLabel($('#time_count_39663'));
         </script>
       </div>
       
@@ -4413,9 +4195,7 @@
         <span id="time_count_39664" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661472000000"><span class="time" "="" lang="en">7일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39664'), now);
-
+          renderReleaseDateLabel($('#time_count_39664'));
         </script>
       </div>
       
@@ -4443,9 +4223,7 @@
         <span id="time_count_39665" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661382000000"><span class="time" "="" lang="en">6일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39665'), now);
-
+          renderReleaseDateLabel($('#time_count_39665'));
         </script>
       </div>
       
@@ -4473,9 +4251,7 @@
         <span id="time_count_39666" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661445000000"><span class="time" "="" lang="en">7일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39666'), now);
-
+          renderReleaseDateLabel($('#time_count_39666'));
         </script>
       </div>
       
@@ -4500,12 +4276,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39667" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_39667" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39667'), now);
-
+          renderReleaseDateLabel($('#time_count_39667'));
         </script>
       </div>
       
@@ -4530,12 +4304,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39668" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_39668" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39668'), now);
-
+          renderReleaseDateLabel($('#time_count_39668'));
         </script>
       </div>
       
@@ -4563,9 +4335,7 @@
         <span id="time_count_39669" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660939200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39669'), now);
-
+          renderReleaseDateLabel($('#time_count_39669'));
         </script>
       </div>
       
@@ -4593,9 +4363,7 @@
         <span id="time_count_39670" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660939200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39670'), now);
-
+          renderReleaseDateLabel($('#time_count_39670'));
         </script>
       </div>
       
@@ -4623,9 +4391,7 @@
         <span id="time_count_39671" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660939200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39671'), now);
-
+          renderReleaseDateLabel($('#time_count_39671'));
         </script>
       </div>
       
@@ -4653,9 +4419,7 @@
         <span id="time_count_39672" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660939200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39672'), now);
-
+          renderReleaseDateLabel($('#time_count_39672'));
         </script>
       </div>
       
@@ -4680,12 +4444,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39673" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_39673" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39673'), now);
-
+          renderReleaseDateLabel($('#time_count_39673'));
         </script>
       </div>
       
@@ -4710,12 +4472,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39674" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_39674" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39674'), now);
-
+          renderReleaseDateLabel($('#time_count_39674'));
         </script>
       </div>
       
@@ -4740,12 +4500,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39675" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_39675" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39675'), now);
-
+          renderReleaseDateLabel($('#time_count_39675'));
         </script>
       </div>
       
@@ -4770,12 +4528,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39676" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_39676" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39676'), now);
-
+          renderReleaseDateLabel($('#time_count_39676'));
         </script>
       </div>
       
@@ -4800,12 +4556,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39677" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_39677" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39677'), now);
-
+          renderReleaseDateLabel($('#time_count_39677'));
         </script>
       </div>
       
@@ -4830,12 +4584,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39678" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_39678" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39678'), now);
-
+          renderReleaseDateLabel($('#time_count_39678'));
         </script>
       </div>
       
@@ -4860,12 +4612,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39679" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660867200000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
+        <span id="time_count_39679" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660867200000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39679'), now);
-
+          renderReleaseDateLabel($('#time_count_39679'));
         </script>
       </div>
       
@@ -4890,12 +4640,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39680" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_39680" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39680'), now);
-
+          renderReleaseDateLabel($('#time_count_39680'));
         </script>
       </div>
       
@@ -4920,12 +4668,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39681" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_39681" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39681'), now);
-
+          renderReleaseDateLabel($('#time_count_39681'));
         </script>
       </div>
       
@@ -4953,9 +4699,7 @@
         <span id="time_count_39682" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660906800000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39682'), now);
-
+          renderReleaseDateLabel($('#time_count_39682'));
         </script>
       </div>
       
@@ -4980,12 +4724,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39686" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660845600000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
+        <span id="time_count_39686" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660845600000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39686'), now);
-
+          renderReleaseDateLabel($('#time_count_39686'));
         </script>
       </div>
       
@@ -5010,12 +4752,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39687" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_39687" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660852800000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39687'), now);
-
+          renderReleaseDateLabel($('#time_count_39687'));
         </script>
       </div>
       
@@ -5040,12 +4780,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39688" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660860000000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
+        <span id="time_count_39688" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660860000000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39688'), now);
-
+          renderReleaseDateLabel($('#time_count_39688'));
         </script>
       </div>
       
@@ -5073,9 +4811,7 @@
         <span id="time_count_39689" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661263200000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39689'), now);
-
+          renderReleaseDateLabel($('#time_count_39689'));
         </script>
       </div>
       
@@ -5103,9 +4839,7 @@
         <span id="time_count_39690" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661263200000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39690'), now);
-
+          renderReleaseDateLabel($('#time_count_39690'));
         </script>
       </div>
       
@@ -5130,12 +4864,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39691" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660881600000"><span class="time" display:="" inline-block;"="" lang="en">19시간</span> 후 마감</span>
+        <span id="time_count_39691" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660881600000"><span class="time" display:="" inline-block;"="" lang="en">18시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39691'), now);
-
+          renderReleaseDateLabel($('#time_count_39691'));
         </script>
       </div>
       
@@ -5160,12 +4892,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39692" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660890600000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+        <span id="time_count_39692" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660890600000"><span class="time" display:="" inline-block;"="" lang="en">21시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39692'), now);
-
+          renderReleaseDateLabel($('#time_count_39692'));
         </script>
       </div>
       
@@ -5190,12 +4920,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39693" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660892400000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+        <span id="time_count_39693" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660892400000"><span class="time" display:="" inline-block;"="" lang="en">21시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39693'), now);
-
+          renderReleaseDateLabel($('#time_count_39693'));
         </script>
       </div>
       
@@ -5220,12 +4948,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39694" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_39694" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660863600000"><span class="time" display:="" inline-block;"="" lang="en">13시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39694'), now);
-
+          renderReleaseDateLabel($('#time_count_39694'));
         </script>
       </div>
       
@@ -5253,9 +4979,7 @@
         <span id="time_count_39695" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660906800000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39695'), now);
-
+          renderReleaseDateLabel($('#time_count_39695'));
         </script>
       </div>
       
@@ -5283,9 +5007,7 @@
         <span id="time_count_39697" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660917600000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39697'), now);
-
+          renderReleaseDateLabel($('#time_count_39697'));
         </script>
       </div>
       
@@ -5313,9 +5035,7 @@
         <span id="time_count_39698" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660917600000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39698'), now);
-
+          renderReleaseDateLabel($('#time_count_39698'));
         </script>
       </div>
       
@@ -5343,9 +5063,7 @@
         <span id="time_count_39699" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660917600000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39699'), now);
-
+          renderReleaseDateLabel($('#time_count_39699'));
         </script>
       </div>
       
@@ -5373,9 +5091,7 @@
         <span id="time_count_39700" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660917600000" data-end-time="1660919400000"><span>8월 19일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39700'), now);
-
+          renderReleaseDateLabel($('#time_count_39700'));
         </script>
       </div>
       
@@ -5403,9 +5119,7 @@
         <span id="time_count_39701" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660917600000" data-end-time="1660919400000"><span>8월 19일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39701'), now);
-
+          renderReleaseDateLabel($('#time_count_39701'));
         </script>
       </div>
       
@@ -5433,9 +5147,7 @@
         <span id="time_count_39702" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661004000000" data-end-time="1661005800000"><span>8월 20일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39702'), now);
-
+          renderReleaseDateLabel($('#time_count_39702'));
         </script>
       </div>
       
@@ -5463,9 +5175,7 @@
         <span id="time_count_39703" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661004000000" data-end-time="1661005800000"><span>8월 20일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39703'), now);
-
+          renderReleaseDateLabel($('#time_count_39703'));
         </script>
       </div>
       
@@ -5493,9 +5203,7 @@
         <span id="time_count_39704" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661004000000" data-end-time="1661005800000"><span>8월 20일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39704'), now);
-
+          renderReleaseDateLabel($('#time_count_39704'));
         </script>
       </div>
       
@@ -5523,9 +5231,7 @@
         <span id="time_count_39705" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661004000000" data-end-time="1661005800000"><span>8월 20일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39705'), now);
-
+          renderReleaseDateLabel($('#time_count_39705'));
         </script>
       </div>
       
@@ -5553,9 +5259,7 @@
         <span id="time_count_39706" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660806000000" data-end-time="1661238000000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39706'), now);
-
+          renderReleaseDateLabel($('#time_count_39706'));
         </script>
       </div>
       
@@ -5583,9 +5287,7 @@
         <span id="time_count_39707" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660903200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39707'), now);
-
+          renderReleaseDateLabel($('#time_count_39707'));
         </script>
       </div>
       
@@ -5613,9 +5315,7 @@
         <span id="time_count_39708" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660903200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39708'), now);
-
+          renderReleaseDateLabel($('#time_count_39708'));
         </script>
       </div>
       
@@ -5643,9 +5343,7 @@
         <span id="time_count_39709" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660903200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39709'), now);
-
+          renderReleaseDateLabel($('#time_count_39709'));
         </script>
       </div>
       
@@ -5673,9 +5371,7 @@
         <span id="time_count_39710" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660903200000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39710'), now);
-
+          renderReleaseDateLabel($('#time_count_39710'));
         </script>
       </div>
       
@@ -5703,9 +5399,7 @@
         <span id="time_count_39711" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661169600000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39711'), now);
-
+          renderReleaseDateLabel($('#time_count_39711'));
         </script>
       </div>
       
@@ -5730,12 +5424,10 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_39712" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660869900000"><span class="time" display:="" inline-block;"="" lang="en">16시간</span> 후 마감</span>
+        <span id="time_count_39712" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1660869900000"><span class="time" display:="" inline-block;"="" lang="en">15시간</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39712'), now);
-
+          renderReleaseDateLabel($('#time_count_39712'));
         </script>
       </div>
       
@@ -5763,9 +5455,7 @@
         <span id="time_count_39715" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660791600000" data-end-time="1661310000000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39715'), now);
-
+          renderReleaseDateLabel($('#time_count_39715'));
         </script>
       </div>
       
@@ -5793,9 +5483,7 @@
         <span id="time_count_39717" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661522400000" data-end-time="1661524200000"><span>8월 26일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39717'), now);
-
+          renderReleaseDateLabel($('#time_count_39717'));
         </script>
       </div>
       
@@ -5823,9 +5511,7 @@
         <span id="time_count_39759" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661004000000" data-end-time="1661115600000"><span>8월 20일 14:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39759'), now);
-
+          renderReleaseDateLabel($('#time_count_39759'));
         </script>
       </div>
       
@@ -5853,9 +5539,7 @@
         <span id="time_count_39765" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661385600000" data-end-time="1661386200000"><span>8월 25일 00:00 시작</span></span>
 
         <script>
-          var now = new Date().getTime();
-          renderReleaseDateLabel($('#time_count_39765'), now);
-
+          renderReleaseDateLabel($('#time_count_39765'));
         </script>
       </div>
       
@@ -5864,6 +5548,174 @@
         <span class="info">일본</span>
         <span class="info">배대지</span>
         <span class="info">당첨 알림 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[션 우더스푼 X 아디다스 오리지널 슈퍼터프 어드벤처 핫 휠스]]></title>
+        <id>https://www.shoeprize.com/raffles/96500</id>
+        <link href="https://www.shoeprize.com/raffles/96500"/>
+        <updated>2022-08-18T09:12:30.598Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        NAKED
+      </div>
+      <div class="name">
+        <a href="/raffles/96500">션 우더스푼 X 아디다스 오리지널 슈퍼터프 어드벤처 핫 휠스</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_39823" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661378400000" data-end-time="1661400000000"><span>8월 24일 22:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_39823'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">덴마크</span>
+        <span class="info">직배</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[션 우더스푼 X 아디다스 오리지널 슈퍼터프 어드벤처 핫 휠스]]></title>
+        <id>https://www.shoeprize.com/raffles/96500</id>
+        <link href="https://www.shoeprize.com/raffles/96500"/>
+        <updated>2022-08-18T09:12:30.599Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        YME
+      </div>
+      <div class="name">
+        <a href="/raffles/96500">션 우더스푼 X 아디다스 오리지널 슈퍼터프 어드벤처 핫 휠스</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_39825" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661410800000" data-end-time="1661412600000"><span>8월 25일 07:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_39825'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">노르웨이</span>
+        <span class="info">직배</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG 스텔스]]></title>
+        <id>https://www.shoeprize.com/raffles/82853</id>
+        <link href="https://www.shoeprize.com/raffles/82853"/>
+        <updated>2022-08-18T09:12:30.600Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        FOOTDISTRICT
+      </div>
+      <div class="name">
+        <a href="/raffles/82853">에어 조던 1 하이 OG 스텔스</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_39827" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661561100000"><span class="time" "="" lang="en">8일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_39827'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">스페인</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P.E NATION x 아식스 젤 1130 크림 페이퍼 백]]></title>
+        <id>https://www.shoeprize.com/raffles/96390</id>
+        <link href="https://www.shoeprize.com/raffles/96390"/>
+        <updated>2022-08-16T16:15:36.949Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        FOOTDISTRICT
+      </div>
+      <div class="name">
+        <a href="/raffles/96390">P.E NATION x 아식스 젤 1130 크림 페이퍼 백</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_39828" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1660834800000" data-end-time="1660836600000"><span>8월 18일 15:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_39828'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">스페인</span>
+        <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP 우먼스]]></title>
+        <id>https://www.shoeprize.com/raffles/95016</id>
+        <link href="https://www.shoeprize.com/raffles/95016"/>
+        <updated>2022-08-18T09:12:30.602Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        FOOTDISTRICT
+      </div>
+      <div class="name">
+        <a href="/raffles/95016">비피스 뷰티 서플라이 x 에어 조던 7 SP 우먼스</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_39829" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1661385600000"><span class="time" "="" lang="en">6일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_39829'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">스페인</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[션 우더스푼 X 아디다스 오리지널 슈퍼터프 어드벤처 핫 휠스]]></title>
+        <id>https://www.shoeprize.com/raffles/96500</id>
+        <link href="https://www.shoeprize.com/raffles/96500"/>
+        <updated>2022-08-18T09:12:30.603Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        FENOM
+      </div>
+      <div class="name">
+        <a href="/raffles/96500">션 우더스푼 X 아디다스 오리지널 슈퍼터프 어드벤처 핫 휠스</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_35319" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1661378400000" data-end-time="1661400000000"><span>8월 24일 22:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_35319'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">프랑스</span>
+        <span class="info">직배</span>
+        <span class="info">온라인 선착순</span>
         
       </div>]]></content>
     </entry>
