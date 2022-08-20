@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-08-20T06:14:34.331Z</updated>
+    <updated>2022-08-20T07:11:03.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://www.shoeprize.com/raffles/95666</id>
         <link href="https://www.shoeprize.com/raffles/95666"/>
         <updated>2022-08-19T10:14:43.182Z</updated>
+        <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 M2002RWM]]></title>
+        <id>https://www.shoeprize.com/raffles/92228</id>
+        <link href="https://www.shoeprize.com/raffles/92228"/>
+        <updated>2022-08-20T07:10:44.727Z</updated>
         <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
     </entry>
     <entry>
