@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-08-23T12:22:06.585Z</updated>
+    <updated>2022-08-23T13:33:07.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 9060 시 솔트]]></title>
-        <id>https://www.shoeprize.com/raffles/94619</id>
-        <link href="https://www.shoeprize.com/raffles/94619"/>
-        <updated>2022-08-22T15:13:23.259Z</updated>
-        <content type="html"><![CDATA[CONSORTIUM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 9060 블랙 다크 브라운]]></title>
-        <id>https://www.shoeprize.com/raffles/95133</id>
-        <link href="https://www.shoeprize.com/raffles/95133"/>
-        <updated>2022-08-22T15:13:23.260Z</updated>
-        <content type="html"><![CDATA[CONSORTIUM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 1 투어 옐로우]]></title>
-        <id>https://www.shoeprize.com/raffles/93150</id>
-        <link href="https://www.shoeprize.com/raffles/93150"/>
-        <updated>2022-08-22T15:13:23.231Z</updated>
-        <content type="html"><![CDATA[BSTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살레헤 벰버리 x 크록스 폴렉스 코블러]]></title>
-        <id>https://www.shoeprize.com/raffles/92531</id>
-        <link href="https://www.shoeprize.com/raffles/92531"/>
-        <updated>2022-08-22T18:13:54.481Z</updated>
-        <content type="html"><![CDATA[BSTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP 우먼스]]></title>
-        <id>https://www.shoeprize.com/raffles/95016</id>
-        <link href="https://www.shoeprize.com/raffles/95016"/>
-        <updated>2022-08-22T15:13:23.262Z</updated>
-        <content type="html"><![CDATA[STASHED SF]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 PRM 바스트 그레이]]></title>
         <id>https://www.shoeprize.com/raffles/80492</id>
@@ -543,6 +508,41 @@
         <link href="https://www.shoeprize.com/raffles/93150"/>
         <updated>2022-08-22T15:13:23.231Z</updated>
         <content type="html"><![CDATA[HANON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 9060 시 솔트]]></title>
+        <id>https://www.shoeprize.com/raffles/94619</id>
+        <link href="https://www.shoeprize.com/raffles/94619"/>
+        <updated>2022-08-22T15:13:23.259Z</updated>
+        <content type="html"><![CDATA[CONSORTIUM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 9060 블랙 다크 브라운]]></title>
+        <id>https://www.shoeprize.com/raffles/95133</id>
+        <link href="https://www.shoeprize.com/raffles/95133"/>
+        <updated>2022-08-22T15:13:23.260Z</updated>
+        <content type="html"><![CDATA[CONSORTIUM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 1 투어 옐로우]]></title>
+        <id>https://www.shoeprize.com/raffles/93150</id>
+        <link href="https://www.shoeprize.com/raffles/93150"/>
+        <updated>2022-08-22T15:13:23.231Z</updated>
+        <content type="html"><![CDATA[BSTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살레헤 벰버리 x 크록스 폴렉스 코블러]]></title>
+        <id>https://www.shoeprize.com/raffles/92531</id>
+        <link href="https://www.shoeprize.com/raffles/92531"/>
+        <updated>2022-08-22T18:13:54.481Z</updated>
+        <content type="html"><![CDATA[BSTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP 우먼스]]></title>
+        <id>https://www.shoeprize.com/raffles/95016</id>
+        <link href="https://www.shoeprize.com/raffles/95016"/>
+        <updated>2022-08-22T15:13:23.262Z</updated>
+        <content type="html"><![CDATA[STASHED SF]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 SE 로터리 페일 아이보리 맬러카이트]]></title>
@@ -1082,5 +1082,33 @@
         <link href="https://www.shoeprize.com/raffles/90015"/>
         <updated>2022-08-23T09:12:37.750Z</updated>
         <content type="html"><![CDATA[EXTRABUTTER]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP PS]]></title>
+        <id>https://www.shoeprize.com/raffles/96768</id>
+        <link href="https://www.shoeprize.com/raffles/96768"/>
+        <updated>2022-08-23T13:32:57.440Z</updated>
+        <content type="html"><![CDATA[SOCIAL STATUS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP TD]]></title>
+        <id>https://www.shoeprize.com/raffles/96769</id>
+        <link href="https://www.shoeprize.com/raffles/96769"/>
+        <updated>2022-08-23T13:32:57.441Z</updated>
+        <content type="html"><![CDATA[SOCIAL STATUS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP PS]]></title>
+        <id>https://www.shoeprize.com/raffles/96768</id>
+        <link href="https://www.shoeprize.com/raffles/96768"/>
+        <updated>2022-08-23T13:32:57.441Z</updated>
+        <content type="html"><![CDATA[A MA MANIERE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP TD]]></title>
+        <id>https://www.shoeprize.com/raffles/96769</id>
+        <link href="https://www.shoeprize.com/raffles/96769"/>
+        <updated>2022-08-23T13:32:57.442Z</updated>
+        <content type="html"><![CDATA[A MA MANIERE]]></content>
     </entry>
 </feed>
