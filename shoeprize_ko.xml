@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-08-25T06:27:56.247Z</updated>
+    <updated>2022-08-25T07:17:20.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[킥스 프리미엄 슈케이스 풀 패키지 예약판매]]></title>
+        <id>https://www.shoeprize.com/raffles/96785</id>
+        <link href="https://www.shoeprize.com/raffles/96785"/>
+        <updated>2022-08-25T07:16:57.837Z</updated>
+        <content type="html"><![CDATA[킥스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JJJ자운드 x 아식스 젤 카야노 14 실버]]></title>
         <id>https://www.shoeprize.com/raffles/90015</id>
         <link href="https://www.shoeprize.com/raffles/90015"/>
@@ -130,41 +137,6 @@
         <link href="https://www.shoeprize.com/raffles/542"/>
         <updated>2022-08-24T06:16:36.493Z</updated>
         <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP TD 샌드드리프트]]></title>
-        <id>https://www.shoeprize.com/raffles/96769</id>
-        <link href="https://www.shoeprize.com/raffles/96769"/>
-        <updated>2022-08-24T07:10:55.548Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사카이 x 나이키 줌 코르테즈 화이트 앤 유니버시티 레드]]></title>
-        <id>https://www.shoeprize.com/raffles/94677</id>
-        <link href="https://www.shoeprize.com/raffles/94677"/>
-        <updated>2022-08-23T13:32:47.092Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 ISPA 센스 플라이니트 에니그마 스톤 앤 시폼]]></title>
-        <id>https://www.shoeprize.com/raffles/95863</id>
-        <link href="https://www.shoeprize.com/raffles/95863"/>
-        <updated>2022-08-24T07:10:55.552Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP 우먼스 샌드드리프트]]></title>
-        <id>https://www.shoeprize.com/raffles/95016</id>
-        <link href="https://www.shoeprize.com/raffles/95016"/>
-        <updated>2022-08-24T07:10:55.552Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 ISPA 센스 플라이니트 팬텀 앤 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/95870</id>
-        <link href="https://www.shoeprize.com/raffles/95870"/>
-        <updated>2022-08-24T07:10:55.553Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비피스 뷰티 서플라이 x 에어 조던 7 SP PS 샌드드리프트]]></title>
@@ -389,5 +361,19 @@
         <link href="https://www.shoeprize.com/raffles/96795"/>
         <updated>2022-08-25T05:50:14.540Z</updated>
         <content type="html"><![CDATA[스컬프 스토어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JJJ자운드 x 아식스 젤 카야노 14 실버]]></title>
+        <id>https://www.shoeprize.com/raffles/90015</id>
+        <link href="https://www.shoeprize.com/raffles/90015"/>
+        <updated>2022-08-23T15:12:41.218Z</updated>
+        <content type="html"><![CDATA[온더스팟]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JJJ자운드 x 아식스 젤 카야노 14 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/90016</id>
+        <link href="https://www.shoeprize.com/raffles/90016"/>
+        <updated>2022-08-23T15:12:41.217Z</updated>
+        <content type="html"><![CDATA[온더스팟]]></content>
     </entry>
 </feed>
