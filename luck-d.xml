@@ -4,9 +4,19 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 08:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 09:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키 강남]]></title>
+            <link>https://www.luck-d.com/release/product/2239/</link>
+            <guid>https://www.luck-d.com/release/product/2239/</guid>
+            <pubDate>Sat, 27 Aug 2022 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                            
+                                                08월 27일 18:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2239/thumb_1660736606362.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[FOOT PATROL]]></title>
             <link>https://www.luck-d.com/release/product/1849/</link>
@@ -55,16 +65,6 @@
             <content:encoded><![CDATA[온라인 응모<br>
                                             
                                                 09월 01일 15:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1849/thumb_1657373971461.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SVD]]></title>
-            <link>https://www.luck-d.com/release/product/1849/</link>
-            <guid>https://www.luck-d.com/release/product/1849/</guid>
-            <pubDate>Fri, 26 Aug 2022 01:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                            
-                                                09월 01일 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1849/thumb_1657373971461.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -675,6 +675,16 @@
                                         
                                             09월 02일 10:30 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1849/thumb_1657373971461.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 강남]]></title>
+            <link>https://www.luck-d.com/release/product/2239/</link>
+            <guid>https://www.luck-d.com/release/product/2239/</guid>
+            <pubDate>Sat, 27 Aug 2022 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            08월 27일 18:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2239/thumb_1660736606362.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
