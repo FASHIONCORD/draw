@@ -4,19 +4,9 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 05:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나이키 홍대]]></title>
-            <link>https://www.luck-d.com/release/product/1561/</link>
-            <guid>https://www.luck-d.com/release/product/1561/</guid>
-            <pubDate>Mon, 05 Sep 2022 04:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                            
-                                                09월 05일 13:10 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1561/thumb_1651803082417.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[나이키 서면 롯데]]></title>
             <link>https://www.luck-d.com/release/product/232/</link>
@@ -418,16 +408,6 @@
                                         
                                             09월 10일 08:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1809/thumb_1655349235726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 홍대]]></title>
-            <link>https://www.luck-d.com/release/product/1561/</link>
-            <guid>https://www.luck-d.com/release/product/1561/</guid>
-            <pubDate>Mon, 05 Sep 2022 04:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                            09월 05일 13:10 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1561/thumb_1651803082417.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
