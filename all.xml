@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 22:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 23:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -663,34 +663,6 @@
             <enclosure url="https://dxqp67px8ll3g.cloudfront.net/BOARD/1640675538_7288143c084eff55241e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조던 자이언 2 GS 멀티 컬러 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/98137</link>
-            <guid>https://www.shoeprize.com/raffles/98137</guid>
-            <pubDate>Tue, 06 Sep 2022 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        SVD *IN APP
-      </div>
-      <div class="name">
-        <a href="/raffles/98137">조던 자이언 2 GS 멀티 컬러</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_42124" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662501660000" data-end-time="1662503400000"><span>11분 전 출시</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_42124'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">스페인</span>
-        <span class="info">직배</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[에어 조던 1 미드 SE 울프 그레이 유니버시티 블루 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/94065</link>
             <guid>https://www.shoeprize.com/raffles/94065</guid>
@@ -703,7 +675,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_41632" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662507900000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_41632" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662507900000"><span class="time" display:="" inline-block;"="" lang="en">32분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_41632'));
@@ -787,7 +759,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42350" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662512400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_42350" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662512400000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42350'));
@@ -1011,7 +983,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42341" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662537600000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
+        <span id="time_count_42341" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662537600000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42341'));
@@ -1347,7 +1319,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42354" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662478200000" data-end-time="1662562740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_42354" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662478200000" data-end-time="1662562740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42354'));
@@ -1375,7 +1347,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42356" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662478200000" data-end-time="1662562740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_42356" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662478200000" data-end-time="1662562740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42356'));
@@ -1403,7 +1375,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42353" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662478200000" data-end-time="1662562740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_42353" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662478200000" data-end-time="1662562740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42353'));
@@ -1431,7 +1403,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42357" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662480000000" data-end-time="1662562740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_42357" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662480000000" data-end-time="1662562740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42357'));
@@ -1459,7 +1431,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42358" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662480000000" data-end-time="1662562740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_42358" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1662480000000" data-end-time="1662562740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42358'));
@@ -1511,6 +1483,26 @@
         <span class="info">한국</span>
         <span class="info">국내 배송</span>
         <span class="info">당첨 문자 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조던 자이언 2 GS 멀티 컬러 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/98137</link>
+            <guid>https://www.shoeprize.com/raffles/98137</guid>
+            <pubDate>Tue, 06 Sep 2022 15:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        SVD *IN APP
+      </div>
+      <div class="name">
+        <a href="/raffles/98137">조던 자이언 2 GS 멀티 컬러</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">스페인</span>
+        <span class="info">직배</span>
+        <span class="info">온라인 선착순</span>
         
       </div>]]></content:encoded>
         </item>
@@ -2087,7 +2079,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42336" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662764400000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+        <span id="time_count_42336" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662764400000"><span class="time" "="" lang="en">2일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42336'));
@@ -2115,7 +2107,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_42337" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662764400000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+        <span id="time_count_42337" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1662764400000"><span class="time" "="" lang="en">2일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_42337'));
@@ -2978,13 +2970,6 @@
             <content:encoded><![CDATA[뉴발란스 코리아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조던 자이언 2 GS 멀티 컬러 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/98137</link>
-            <guid>https://www.shoeprize.com/raffles/98137</guid>
-            <pubDate>Tue, 06 Sep 2022 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[SVD *IN APP]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[에어 조던 1 미드 SE 울프 그레이 유니버시티 블루 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/94065</link>
             <guid>https://www.shoeprize.com/raffles/94065</guid>
@@ -3151,6 +3136,13 @@
             <guid>https://www.shoeprize.com/raffles/96283</guid>
             <pubDate>Tue, 06 Sep 2022 16:14:59 GMT</pubDate>
             <content:encoded><![CDATA[SOTF]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조던 자이언 2 GS 멀티 컬러 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/98137</link>
+            <guid>https://www.shoeprize.com/raffles/98137</guid>
+            <pubDate>Tue, 06 Sep 2022 15:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[SVD *IN APP]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[팔라스 2022 가을 컬렉션 6주 차 (슈프라이즈 ─ 해외)]]></title>
