@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-09-06T10:14:17.218Z</updated>
+    <updated>2022-09-06T11:10:59.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -223,13 +223,6 @@
         <content type="html"><![CDATA[솔드아웃]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[톰 삭스 x 나이키 제너럴 퍼포스 슈 아카이브]]></title>
-        <id>https://www.shoeprize.com/raffles/82070</id>
-        <link href="https://www.shoeprize.com/raffles/82070"/>
-        <updated>2022-09-05T05:58:52.672Z</updated>
-        <content type="html"><![CDATA[오오티디 *IN APP]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[킥스 프리미엄 슈케이스 풀 패키지 사카이 코르테즈 에디션]]></title>
         <id>https://www.shoeprize.com/raffles/97904</id>
         <link href="https://www.shoeprize.com/raffles/97904"/>
@@ -263,5 +256,12 @@
         <link href="https://www.shoeprize.com/raffles/434"/>
         <updated>2022-09-06T09:12:39.970Z</updated>
         <content type="html"><![CDATA[한스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 9060 시 솔트]]></title>
+        <id>https://www.shoeprize.com/raffles/94619</id>
+        <link href="https://www.shoeprize.com/raffles/94619"/>
+        <updated>2022-09-06T11:10:41.473Z</updated>
+        <content type="html"><![CDATA[뉴발란스 코리아]]></content>
     </entry>
 </feed>
