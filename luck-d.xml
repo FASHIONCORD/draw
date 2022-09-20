@@ -4,9 +4,19 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W 컨셉]]></title>
+            <link>https://www.luck-d.com/release/product/2449/</link>
+            <guid>https://www.luck-d.com/release/product/2449/</guid>
+            <pubDate>Tue, 20 Sep 2022 06:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 선착순<br>
+                                            
+                                                09월 20일 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2449/thumb_1663655702811.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웍스아웃]]></title>
             <link>https://www.luck-d.com/release/product/2447/</link>
@@ -1182,6 +1192,16 @@
                                         
                                             09월 26일 16:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/235/thumb_1663558056599.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[JD스포츠 명동1가점]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Sep 2022 01:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            09월 20일 16:40 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
