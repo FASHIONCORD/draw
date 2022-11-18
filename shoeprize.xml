@@ -2,93 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2022-11-18T12:20:44.585Z</updated>
+    <updated>2022-11-18T13:31:18.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[클랏 x 컨버스 척70 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/102224</id>
-        <link href="https://www.shoeprize.com/raffles/102224"/>
-        <updated>2022-11-16T17:26:13.894Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        CONVERSE US
-      </div>
-      <div class="name">
-        <a href="/raffles/102224">클랏 x 컨버스 척70 화이트</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_51505" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668776400000" data-end-time="1668778200000"><span>11월 18일 13:00 시작</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_51505'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">배대지</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클랏 x 컨버스 잭퍼셀 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/102223</id>
-        <link href="https://www.shoeprize.com/raffles/102223"/>
-        <updated>2022-11-16T17:26:13.894Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        CONVERSE US
-      </div>
-      <div class="name">
-        <a href="/raffles/102223">클랏 x 컨버스 잭퍼셀 화이트</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_51508" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668776400000" data-end-time="1668778200000"><span>11월 18일 13:00 시작</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_51508'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">배대지</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 페니 1 블랙 앤 메탈릭 실버]]></title>
-        <id>https://www.shoeprize.com/raffles/94667</id>
-        <link href="https://www.shoeprize.com/raffles/94667"/>
-        <updated>2022-11-17T15:13:17.025Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        XHIBITION
-      </div>
-      <div class="name">
-        <a href="/raffles/94667">나이키 에어 맥스 페니 1 블랙 앤 메탈릭 실버</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_54175" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668776400000" data-end-time="1668778200000"><span>11월 18일 13:00 시작</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_54175'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">배대지</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 SP 켄터키 2022]]></title>
         <id>https://www.shoeprize.com/raffles/102219</id>
@@ -102,7 +18,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54183" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668780000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_54183" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668780000000"><span class="time" display:="" inline-block;"="" lang="en">29분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54183'));
@@ -130,7 +46,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53518" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668780000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_53518" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668780000000"><span class="time" display:="" inline-block;"="" lang="en">29분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53518'));
@@ -158,7 +74,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54100" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668736800000" data-end-time="1668783540000"><span>10시간 전 출시</span></span>
+        <span id="time_count_54100" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668736800000" data-end-time="1668783540000"><span>11시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54100'));
@@ -186,7 +102,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54102" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668736800000" data-end-time="1668783540000"><span>10시간 전 출시</span></span>
+        <span id="time_count_54102" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668736800000" data-end-time="1668783540000"><span>11시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54102'));
@@ -214,7 +130,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_51481" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668733200000" data-end-time="1668783540000"><span>11시간 전 출시</span></span>
+        <span id="time_count_51481" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668733200000" data-end-time="1668783540000"><span>12시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_51481'));
@@ -242,7 +158,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_51482" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668733200000" data-end-time="1668783540000"><span>11시간 전 출시</span></span>
+        <span id="time_count_51482" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668733200000" data-end-time="1668783540000"><span>12시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_51482'));
@@ -270,7 +186,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53991" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668700800000" data-end-time="1668783540000"><span>20시간 전 출시</span></span>
+        <span id="time_count_53991" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668700800000" data-end-time="1668783540000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53991'));
@@ -298,7 +214,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53992" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668700800000" data-end-time="1668783540000"><span>20시간 전 출시</span></span>
+        <span id="time_count_53992" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668700800000" data-end-time="1668783540000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53992'));
@@ -309,6 +225,34 @@
       <div class="detail_info">
         <span class="info">영국</span>
         <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 550 레인 클라우드]]></title>
+        <id>https://www.shoeprize.com/raffles/100431</id>
+        <link href="https://www.shoeprize.com/raffles/100431"/>
+        <updated>2022-11-18T13:30:43.682Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        END
+      </div>
+      <div class="name">
+        <a href="/raffles/100431">뉴발란스 550 레인 클라우드</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54272" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668776400000" data-end-time="1668783540000"><span>30분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54272'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
         <span class="info">온라인 선착순</span>
         
       </div>]]></content>
@@ -326,7 +270,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54249" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>4시간 전 출시</span></span>
+        <span id="time_count_54249" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>5시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54249'));
@@ -354,7 +298,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54250" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>4시간 전 출시</span></span>
+        <span id="time_count_54250" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>5시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54250'));
@@ -382,7 +326,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54251" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>4시간 전 출시</span></span>
+        <span id="time_count_54251" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>5시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54251'));
@@ -398,7 +342,7 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 95 블랙 다크 네이비]]></title>
+        <title type="html"><![CDATA[나이키 에어 맥스 95 블랙 다크 스모크 네이비]]></title>
         <id>https://www.shoeprize.com/raffles/94730</id>
         <link href="https://www.shoeprize.com/raffles/94730"/>
         <updated>2022-11-18T11:10:07.008Z</updated>
@@ -406,11 +350,11 @@
         NIKE GB
       </div>
       <div class="name">
-        <a href="/raffles/94730">나이키 에어 맥스 95 블랙 다크 네이비</a>
+        <a href="/raffles/94730">나이키 에어 맥스 95 블랙 다크 스모크 네이비</a>
       </div>
       
       <div class="time_area">
-        <span id="time_count_54252" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>4시간 전 출시</span></span>
+        <span id="time_count_54252" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668758400000" data-end-time="1668783540000"><span>5시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54252'));
@@ -438,7 +382,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54091" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668769200000" data-end-time="1668783540000"><span>1시간 전 출시</span></span>
+        <span id="time_count_54091" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668769200000" data-end-time="1668783540000"><span>2시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54091'));
@@ -466,7 +410,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54090" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668769200000" data-end-time="1668783540000"><span>1시간 전 출시</span></span>
+        <span id="time_count_54090" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668769200000" data-end-time="1668783540000"><span>2시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54090'));
@@ -494,7 +438,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53443" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668502800000" data-end-time="1668783540000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_53443" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668502800000" data-end-time="1668783540000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53443'));
@@ -550,7 +494,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53466" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668783600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_53466" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668783600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53466'));
@@ -578,7 +522,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53475" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668783600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+        <span id="time_count_53475" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668783600000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53475'));
@@ -3194,6 +3138,66 @@
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[클랏 x 컨버스 척70 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/102224</id>
+        <link href="https://www.shoeprize.com/raffles/102224"/>
+        <updated>2022-11-16T17:26:13.894Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        CONVERSE US
+      </div>
+      <div class="name">
+        <a href="/raffles/102224">클랏 x 컨버스 척70 화이트</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클랏 x 컨버스 잭퍼셀 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/102223</id>
+        <link href="https://www.shoeprize.com/raffles/102223"/>
+        <updated>2022-11-16T17:26:13.894Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        CONVERSE US
+      </div>
+      <div class="name">
+        <a href="/raffles/102223">클랏 x 컨버스 잭퍼셀 화이트</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 페니 1 블랙 앤 메탈릭 실버]]></title>
+        <id>https://www.shoeprize.com/raffles/94667</id>
+        <link href="https://www.shoeprize.com/raffles/94667"/>
+        <updated>2022-11-17T15:13:17.025Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        XHIBITION
+      </div>
+      <div class="name">
+        <a href="/raffles/94667">나이키 에어 맥스 페니 1 블랙 앤 메탈릭 실버</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[노트레 x 컨버스 척 70 하이 딥 마호가니]]></title>
         <id>https://www.shoeprize.com/raffles/102975</id>
         <link href="https://www.shoeprize.com/raffles/102975"/>
@@ -3614,6 +3618,2022 @@
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 강남본점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54255" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54255'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 스타시티점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54256" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54256'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 고양 스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54257" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54257'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 광주 충장로점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54258" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54258'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 대구동성로중앙점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54259" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54259'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 명동 중앙점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54260" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54260'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 부산광복점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54261" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54261'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 부산 서면점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54262" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54262'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 수지 롯데몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54263" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54263'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC GS 안성스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54264" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54264'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 영등포타임스퀘어점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54265" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54265'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 인천스퀘어원점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54266" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54266'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 잠실롯데월드몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54267" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54267'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 제주칠성점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54268" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54268'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 중동유플렉스점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54269" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54269'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 천안아산신세계점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54270" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54270'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 청주성안점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54271" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54271'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 코엑스몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54273" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54273'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 하남스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54274" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54274'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-11-18T03:40:17.058Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 홍대점
+      </div>
+      <div class="name">
+        <a href="/raffles/413">나이키 덩크 로우 레트로 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54275" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54275'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.940Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 홍대점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54276" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54276'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.942Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 하남스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54277" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54277'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.943Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 코엑스몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54278" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54278'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.944Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 청주성안점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54279" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54279'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.946Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 천안아산신세계점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54280" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54280'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.947Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 중동유플렉스점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54281" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54281'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.948Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 제주칠성점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54282" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54282'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.949Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 잠실롯데월드몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54283" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54283'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.950Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 인천스퀘어원점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54284" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54284'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.952Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 영등포타임스퀘어점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54285" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54285'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.953Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC GS 안성스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54286" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54286'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.954Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 수지 롯데몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54287" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54287'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.957Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 부산 서면점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54288" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54288'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.960Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 부산광복점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54289" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54289'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.962Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 명동 중앙점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54290" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54290'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.964Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 대구동성로중앙점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54291" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54291'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.967Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 광주 충장로점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54292" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54292'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.968Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 고양 스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54293" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54293'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.970Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 스타시티점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54294" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54294'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/96436</id>
+        <link href="https://www.shoeprize.com/raffles/96436"/>
+        <updated>2022-11-18T13:30:43.971Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 강남본점
+      </div>
+      <div class="name">
+        <a href="/raffles/96436">나이키 덩크 로우 레트로 울프 그레이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54295" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54295'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.975Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 강남본점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54297" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54297'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.977Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 스타시티점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54298" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54298'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.978Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 고양 스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54299" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54299'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.979Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 광주 충장로점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54300" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54300'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.981Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 대구동성로중앙점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54301" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54301'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.983Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 명동 중앙점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54302" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54302'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.984Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 부산광복점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54303" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54303'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.986Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 부산 서면점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54304" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54304'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.987Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 수지 롯데몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54305" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54305'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.989Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC GS 안성스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54306" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54306'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.991Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 영등포타임스퀘어점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54307" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54307'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.993Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 인천스퀘어원점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54308" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54308'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.995Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 잠실롯데월드몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54309" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54309'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.996Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 제주칠성점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54310" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54310'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.998Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 중동유플렉스점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54311" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54311'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:43.999Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 천안아산신세계점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54312" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54312'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:44.001Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 청주성안점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54313" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54313'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:44.002Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 코엑스몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54314" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54314'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:44.004Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 하남스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54315" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54315'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
+        <id>https://www.shoeprize.com/raffles/96277</id>
+        <link href="https://www.shoeprize.com/raffles/96277"/>
+        <updated>2022-11-18T13:30:44.007Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 홍대점
+      </div>
+      <div class="name">
+        <a href="/raffles/96277">나이키 덩크 로우 SE 테디 베어</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54316" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54316'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 홍대점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54317" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668823200000" data-end-time="1668825000000"><span>11월 19일 02:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54317'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 하남스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54318" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54318'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 코엑스몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54319" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54319'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 청주성안점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54320" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54320'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 천안아산신세계점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54321" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54321'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 중동유플렉스점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54322" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54322'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 제주칠성점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54323" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54323'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 잠실롯데월드몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54324" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54324'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 인천스퀘어원점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54325" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54325'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 영등포타임스퀘어점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54326" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54326'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC GS 안성스타필드점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54327" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668819600000" data-end-time="1668821400000"><span>11월 19일 01:00 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54327'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 SE 우먼스 플리스 라임 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/99282</id>
+        <link href="https://www.shoeprize.com/raffles/99282"/>
+        <updated>2022-11-18T02:53:28.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        ABC마트 GS 수지 롯데몰점
+      </div>
+      <div class="name">
+        <a href="/raffles/99282">나이키 덩크 로우 SE 우먼스 플리스 라임 그린</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_54328" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668821400000" data-end-time="1668823200000"><span>11월 19일 01:30 시작</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_54328'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에어 조던 1 하이 OG 시카고]]></title>
         <id>https://www.shoeprize.com/raffles/92585</id>
         <link href="https://www.shoeprize.com/raffles/92585"/>
@@ -3639,34 +5659,6 @@
         <span class="info">국내배송</span>
         <span class="info">당첨 알림 발송</span>
         <span class="info">이벤트</span>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피어 오브 갓 에센셜 2022 가을 코어 컬렉션]]></title>
-        <id>https://www.shoeprize.com/raffles/103197</id>
-        <link href="https://www.shoeprize.com/raffles/103197"/>
-        <updated>2022-11-16T17:26:13.896Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        PACSUN
-      </div>
-      <div class="name">
-        <a href="/raffles/103197">피어 오브 갓 에센셜 2022 가을 코어 컬렉션</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_53981" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1668783600000" data-end-time="1668869940000"><span>11월 18일 15:00 시작</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_53981'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">미국</span>
-        <span class="info">배대지</span>
-        
-        
       </div>]]></content>
     </entry>
     <entry>
@@ -4718,7 +6710,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54163" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668844800000"><span class="time" display:="" inline-block;"="" lang="en">19시간</span> 후 마감</span>
+        <span id="time_count_54163" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1668844800000"><span class="time" display:="" inline-block;"="" lang="en">18시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54163'));
