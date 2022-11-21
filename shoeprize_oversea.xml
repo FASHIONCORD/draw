@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-11-21T15:13:02.687Z</updated>
+    <updated>2022-11-21T16:15:45.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -86,7 +86,7 @@
         <title type="html"><![CDATA[에어 조던 9 파이어 레드]]></title>
         <id>https://www.shoeprize.com/raffles/101206</id>
         <link href="https://www.shoeprize.com/raffles/101206"/>
-        <updated>2022-11-21T15:12:50.963Z</updated>
+        <updated>2022-11-21T15:12:50.944Z</updated>
         <content type="html"><![CDATA[SNS *IN APP]]></content>
     </entry>
     <entry>
@@ -445,5 +445,33 @@
         <link href="https://www.shoeprize.com/raffles/95941"/>
         <updated>2022-11-21T09:13:45.094Z</updated>
         <content type="html"><![CDATA[NIKE JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 로우 컬러 오브 더 먼스 실버]]></title>
+        <id>https://www.shoeprize.com/raffles/103051</id>
+        <link href="https://www.shoeprize.com/raffles/103051"/>
+        <updated>2022-11-21T16:15:32.062Z</updated>
+        <content type="html"><![CDATA[NIKE JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 쿠키니 페인트 스플래터]]></title>
+        <id>https://www.shoeprize.com/raffles/95422</id>
+        <link href="https://www.shoeprize.com/raffles/95422"/>
+        <updated>2022-11-21T16:15:32.063Z</updated>
+        <content type="html"><![CDATA[NIKE JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 터미네이터 하이 코코아 스네이크]]></title>
+        <id>https://www.shoeprize.com/raffles/95941</id>
+        <link href="https://www.shoeprize.com/raffles/95941"/>
+        <updated>2022-11-21T09:13:45.094Z</updated>
+        <content type="html"><![CDATA[FORGET ME NOTS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 터미네이터 하이 코코아 스네이크]]></title>
+        <id>https://www.shoeprize.com/raffles/95941</id>
+        <link href="https://www.shoeprize.com/raffles/95941"/>
+        <updated>2022-11-21T09:13:45.094Z</updated>
+        <content type="html"><![CDATA[ATMOS TOKYO]]></content>
     </entry>
 </feed>
