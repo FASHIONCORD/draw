@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-11-21T16:15:45.920Z</updated>
+    <updated>2022-11-21T17:14:13.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -144,6 +144,20 @@
         <link href="https://www.shoeprize.com/raffles/95180"/>
         <updated>2022-11-21T02:50:58.663Z</updated>
         <content type="html"><![CDATA[BSTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 프리미엄 우먼스 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/101313</id>
+        <link href="https://www.shoeprize.com/raffles/101313"/>
+        <updated>2022-11-21T17:14:00.241Z</updated>
+        <content type="html"><![CDATA[NIKE GB]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 550 화이트 블루 그루브]]></title>
+        <id>https://www.shoeprize.com/raffles/103617</id>
+        <link href="https://www.shoeprize.com/raffles/103617"/>
+        <updated>2022-11-21T17:14:00.242Z</updated>
+        <content type="html"><![CDATA[SNS UK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 터미네이터 하이 그래닛 앤 다크 옵시디언]]></title>
@@ -473,5 +487,19 @@
         <link href="https://www.shoeprize.com/raffles/95941"/>
         <updated>2022-11-21T09:13:45.094Z</updated>
         <content type="html"><![CDATA[ATMOS TOKYO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 셔닐 스우시 그레이 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/95203</id>
+        <link href="https://www.shoeprize.com/raffles/95203"/>
+        <updated>2022-11-21T17:14:00.290Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 셔닐 스우시 세일 그랜드 퍼플]]></title>
+        <id>https://www.shoeprize.com/raffles/95095</id>
+        <link href="https://www.shoeprize.com/raffles/95095"/>
+        <updated>2022-11-21T17:14:00.290Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
     </entry>
 </feed>
