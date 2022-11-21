@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-11-21T07:11:58.465Z</updated>
+    <updated>2022-11-21T08:15:25.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[UXC72QA]]></title>
-        <id>https://www.shoeprize.com/raffles/103611</id>
-        <link href="https://www.shoeprize.com/raffles/103611"/>
-        <updated>2022-11-21T07:11:43.694Z</updated>
-        <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UXC72QC]]></title>
-        <id>https://www.shoeprize.com/raffles/103612</id>
-        <link href="https://www.shoeprize.com/raffles/103612"/>
-        <updated>2022-11-21T07:11:43.695Z</updated>
-        <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 530 아이보리 베이지]]></title>
-        <id>https://www.shoeprize.com/raffles/81848</id>
-        <link href="https://www.shoeprize.com/raffles/81848"/>
-        <updated>2022-11-21T07:11:43.702Z</updated>
-        <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 530 실버 라이트 그린]]></title>
-        <id>https://www.shoeprize.com/raffles/81846</id>
-        <link href="https://www.shoeprize.com/raffles/81846"/>
-        <updated>2022-11-21T07:11:43.703Z</updated>
-        <content type="html"><![CDATA[아트모스 서울]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[오버더피치 x MCM 협업 컬렉션]]></title>
         <id>https://www.shoeprize.com/raffles/103573</id>
@@ -55,10 +27,31 @@
         <content type="html"><![CDATA[W컨셉]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[발라홀릭 x 아식스 EX89]]></title>
+        <id>https://www.shoeprize.com/raffles/103581</id>
+        <link href="https://www.shoeprize.com/raffles/103581"/>
+        <updated>2022-11-21T00:57:02.687Z</updated>
+        <content type="html"><![CDATA[무신사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 코어 블랙 클라우드 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/103271</id>
+        <link href="https://www.shoeprize.com/raffles/103271"/>
+        <updated>2022-11-20T15:10:51.175Z</updated>
+        <content type="html"><![CDATA[아디다스 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 나이트 인디고 파워 블루]]></title>
         <id>https://www.shoeprize.com/raffles/103272</id>
         <link href="https://www.shoeprize.com/raffles/103272"/>
         <updated>2022-11-20T15:10:51.175Z</updated>
+        <content type="html"><![CDATA[아디다스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 브라운 칼리지에이트 오렌지]]></title>
+        <id>https://www.shoeprize.com/raffles/103273</id>
+        <link href="https://www.shoeprize.com/raffles/103273"/>
+        <updated>2022-11-20T15:10:51.176Z</updated>
         <content type="html"><![CDATA[아디다스 코리아]]></content>
     </entry>
     <entry>
@@ -67,6 +60,13 @@
         <link href="https://www.shoeprize.com/raffles/102236"/>
         <updated>2022-11-21T07:11:43.723Z</updated>
         <content type="html"><![CDATA[아디다스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[발라홀릭 x 아식스 EX89]]></title>
+        <id>https://www.shoeprize.com/raffles/103581</id>
+        <link href="https://www.shoeprize.com/raffles/103581"/>
+        <updated>2022-11-21T00:57:02.687Z</updated>
+        <content type="html"><![CDATA[온더스팟]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 하이 OG 시카고]]></title>
@@ -132,27 +132,6 @@
         <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 코어 블랙 클라우드 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/103271</id>
-        <link href="https://www.shoeprize.com/raffles/103271"/>
-        <updated>2022-11-20T15:10:51.175Z</updated>
-        <content type="html"><![CDATA[아디다스 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 브라운 칼리지에이트 오렌지]]></title>
-        <id>https://www.shoeprize.com/raffles/103273</id>
-        <link href="https://www.shoeprize.com/raffles/103273"/>
-        <updated>2022-11-20T15:10:51.176Z</updated>
-        <content type="html"><![CDATA[아디다스 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발라홀릭 x 아식스 EX89]]></title>
-        <id>https://www.shoeprize.com/raffles/103581</id>
-        <link href="https://www.shoeprize.com/raffles/103581"/>
-        <updated>2022-11-21T00:57:02.687Z</updated>
-        <content type="html"><![CDATA[온더스팟]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[발라홀릭 x 아식스 EX89]]></title>
         <id>https://www.shoeprize.com/raffles/103581</id>
         <link href="https://www.shoeprize.com/raffles/103581"/>
@@ -186,13 +165,6 @@
         <link href="https://www.shoeprize.com/raffles/103071"/>
         <updated>2022-11-20T15:10:51.174Z</updated>
         <content type="html"><![CDATA[카시나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발라홀릭 x 아식스 EX89]]></title>
-        <id>https://www.shoeprize.com/raffles/103581</id>
-        <link href="https://www.shoeprize.com/raffles/103581"/>
-        <updated>2022-11-21T00:57:02.687Z</updated>
-        <content type="html"><![CDATA[무신사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[녹타 X 나이키 숏 슬리브 화이트 (아시아)]]></title>
@@ -293,6 +265,69 @@
         <content type="html"><![CDATA[팔팔 스케이트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UXC72QA]]></title>
+        <id>https://www.shoeprize.com/raffles/103611</id>
+        <link href="https://www.shoeprize.com/raffles/103611"/>
+        <updated>2022-11-21T07:11:43.694Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UXC72QC]]></title>
+        <id>https://www.shoeprize.com/raffles/103612</id>
+        <link href="https://www.shoeprize.com/raffles/103612"/>
+        <updated>2022-11-21T07:11:43.695Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 530 아이보리 베이지]]></title>
+        <id>https://www.shoeprize.com/raffles/81848</id>
+        <link href="https://www.shoeprize.com/raffles/81848"/>
+        <updated>2022-11-21T07:11:43.702Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 530 실버 라이트 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/81846</id>
+        <link href="https://www.shoeprize.com/raffles/81846"/>
+        <updated>2022-11-21T07:11:43.703Z</updated>
+        <content type="html"><![CDATA[아트모스 서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 x 나이키 덩크 로우 더 50 로트 1-10]]></title>
+        <id>https://www.shoeprize.com/raffles/102507</id>
+        <link href="https://www.shoeprize.com/raffles/102507"/>
+        <updated>2022-11-21T08:15:09.072Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 x 나이키 덩크 로우 더 50 로트 11-20]]></title>
+        <id>https://www.shoeprize.com/raffles/102508</id>
+        <link href="https://www.shoeprize.com/raffles/102508"/>
+        <updated>2022-11-21T08:15:09.073Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 x 나이키 덩크 로우 더 50 로트 21-30]]></title>
+        <id>https://www.shoeprize.com/raffles/102509</id>
+        <link href="https://www.shoeprize.com/raffles/102509"/>
+        <updated>2022-11-21T08:15:09.074Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 x 나이키 덩크 로우 더 50 로트 31-40]]></title>
+        <id>https://www.shoeprize.com/raffles/102510</id>
+        <link href="https://www.shoeprize.com/raffles/102510"/>
+        <updated>2022-11-21T08:15:09.075Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프화이트 x 나이키 덩크 로우 더 50 로트 41-50]]></title>
+        <id>https://www.shoeprize.com/raffles/102511</id>
+        <link href="https://www.shoeprize.com/raffles/102511"/>
+        <updated>2022-11-21T08:15:09.076Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/385</id>
         <link href="https://www.shoeprize.com/raffles/385"/>
@@ -305,5 +340,61 @@
         <link href="https://www.shoeprize.com/raffles/103424"/>
         <updated>2022-11-21T07:11:43.760Z</updated>
         <content type="html"><![CDATA[아디다스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소울굿즈 x 나이키 덩크 하이 '90s 밀리터리 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/101179</id>
+        <link href="https://www.shoeprize.com/raffles/101179"/>
+        <updated>2022-11-21T08:15:09.078Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 1 '87 우먼스 버건디 크러쉬]]></title>
+        <id>https://www.shoeprize.com/raffles/100974</id>
+        <link href="https://www.shoeprize.com/raffles/100974"/>
+        <updated>2022-11-21T08:15:09.080Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 95 우먼스 벨벳 틸]]></title>
+        <id>https://www.shoeprize.com/raffles/96035</id>
+        <link href="https://www.shoeprize.com/raffles/96035"/>
+        <updated>2022-11-21T08:15:09.080Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 아토믹 틸]]></title>
+        <id>https://www.shoeprize.com/raffles/96263</id>
+        <link href="https://www.shoeprize.com/raffles/96263"/>
+        <updated>2022-11-21T08:15:09.081Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 골프 코트 퍼플]]></title>
+        <id>https://www.shoeprize.com/raffles/103229</id>
+        <link href="https://www.shoeprize.com/raffles/103229"/>
+        <updated>2022-11-21T08:15:09.081Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹타 X 나이키 멘즈 나일론 트랙 팬츠 (아시아)]]></title>
+        <id>https://www.shoeprize.com/raffles/103428</id>
+        <link href="https://www.shoeprize.com/raffles/103428"/>
+        <updated>2022-11-20T15:10:51.173Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 11 PS 바시티 레드]]></title>
+        <id>https://www.shoeprize.com/raffles/103143</id>
+        <link href="https://www.shoeprize.com/raffles/103143"/>
+        <updated>2022-11-21T08:15:09.082Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 11 TD 바시티 레드]]></title>
+        <id>https://www.shoeprize.com/raffles/103144</id>
+        <link href="https://www.shoeprize.com/raffles/103144"/>
+        <updated>2022-11-21T08:15:09.083Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
 </feed>
