@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-11-23T23:12:17.650Z</updated>
+    <updated>2022-11-24T00:56:34.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/385</id>
-        <link href="https://www.shoeprize.com/raffles/385"/>
-        <updated>2022-11-23T02:31:25.614Z</updated>
-        <content type="html"><![CDATA[나이키 광복2호점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 RC30 블랙 시 솔트]]></title>
         <id>https://www.shoeprize.com/raffles/104035</id>
@@ -62,17 +55,24 @@
         <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[클로그 퍼피 목 올리브]]></title>
-        <id>https://www.shoeprize.com/raffles/102548</id>
-        <link href="https://www.shoeprize.com/raffles/102548"/>
-        <updated>2022-11-23T09:11:51.303Z</updated>
-        <content type="html"><![CDATA[슈프라이즈]]></content>
+        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/385</id>
+        <link href="https://www.shoeprize.com/raffles/385"/>
+        <updated>2022-11-23T02:31:25.614Z</updated>
+        <content type="html"><![CDATA[나이키 광복2호점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[클로그 퍼피 목 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/102546</id>
         <link href="https://www.shoeprize.com/raffles/102546"/>
         <updated>2022-11-23T23:11:59.024Z</updated>
+        <content type="html"><![CDATA[슈프라이즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클로그 퍼피 목 올리브]]></title>
+        <id>https://www.shoeprize.com/raffles/102548</id>
+        <link href="https://www.shoeprize.com/raffles/102548"/>
+        <updated>2022-11-23T09:11:51.303Z</updated>
         <content type="html"><![CDATA[슈프라이즈]]></content>
     </entry>
     <entry>
