@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2022-11-28T00:49:26.693Z</updated>
+    <updated>2022-11-28T02:26:46.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[아디다스 크레이지 1 메탈릭 실버]]></title>
-        <id>https://www.shoeprize.com/raffles/96836</id>
-        <link href="https://www.shoeprize.com/raffles/96836"/>
-        <updated>2022-11-28T00:48:58.705Z</updated>
-        <content type="html"><![CDATA[<div class="brand">
-        아디다스 코리아
-      </div>
-      <div class="name">
-        <a href="/raffles/96836">아디다스 크레이지 1 메탈릭 실버</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_55792" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669599000000"><span>11월 28일 01:00 시작</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_55792'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">국내배송</span>
-        <span class="info">온라인 선착순</span>
-        
-      </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스톤 아일랜드 x 뉴발란스 키트 셋업]]></title>
         <id>https://www.shoeprize.com/raffles/103832</id>
@@ -46,7 +18,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55076" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>11월 28일 02:00 시작</span></span>
+        <span id="time_count_55076" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>26분 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55076'));
@@ -74,10 +46,122 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55075" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>11월 28일 02:00 시작</span></span>
+        <span id="time_count_55075" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>26분 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55075'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 95 우먼스 벨벳 틸]]></title>
+        <id>https://www.shoeprize.com/raffles/96035</id>
+        <link href="https://www.shoeprize.com/raffles/96035"/>
+        <updated>2022-11-27T15:11:02.157Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        카시나
+      </div>
+      <div class="name">
+        <a href="/raffles/96035">나이키 에어 맥스 95 우먼스 벨벳 틸</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55842" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>26분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55842'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 하이 우먼스 화이트 앤 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/100079</id>
+        <link href="https://www.shoeprize.com/raffles/100079"/>
+        <updated>2022-11-28T02:26:20.107Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        카시나
+      </div>
+      <div class="name">
+        <a href="/raffles/100079">나이키 덩크 하이 우먼스 화이트 앤 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55843" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>26분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55843'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 케이블 니트 스웨터 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/101212</id>
+        <link href="https://www.shoeprize.com/raffles/101212"/>
+        <updated>2022-11-28T02:26:20.108Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        카시나
+      </div>
+      <div class="name">
+        <a href="/raffles/101212">나이키 케이블 니트 스웨터 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55844" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>26분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55844'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 케이블 니트 스웨터 베이지]]></title>
+        <id>https://www.shoeprize.com/raffles/101211</id>
+        <link href="https://www.shoeprize.com/raffles/101211"/>
+        <updated>2022-11-28T02:26:20.109Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        카시나
+      </div>
+      <div class="name">
+        <a href="/raffles/101211">나이키 케이블 니트 스웨터 베이지</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55845" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669600800000" data-end-time="1669602600000"><span>26분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55845'));
         </script>
       </div>
       
@@ -102,7 +186,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55745" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669521600000" data-end-time="1669608000000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_55745" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669521600000" data-end-time="1669608000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55745'));
@@ -130,7 +214,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55794" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span>11월 28일 01:00 시작</span></span>
+        <span id="time_count_55794" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55794'));
@@ -149,7 +233,7 @@
         <title type="html"><![CDATA[에어 조던 1 로우 골프 코트 퍼플]]></title>
         <id>https://www.shoeprize.com/raffles/103229</id>
         <link href="https://www.shoeprize.com/raffles/103229"/>
-        <updated>2022-11-28T00:48:58.713Z</updated>
+        <updated>2022-11-28T00:48:58.712Z</updated>
         <content type="html"><![CDATA[<div class="brand">
         나이키 골프 대전 갤러리아백화점 타임월드점
       </div>
@@ -158,7 +242,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55795" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span>11월 28일 01:00 시작</span></span>
+        <span id="time_count_55795" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55795'));
@@ -177,7 +261,7 @@
         <title type="html"><![CDATA[에어 조던 1 로우 골프 코트 퍼플]]></title>
         <id>https://www.shoeprize.com/raffles/103229</id>
         <link href="https://www.shoeprize.com/raffles/103229"/>
-        <updated>2022-11-28T00:48:58.714Z</updated>
+        <updated>2022-11-28T00:48:58.712Z</updated>
         <content type="html"><![CDATA[<div class="brand">
         나이키 골프 도곡점
       </div>
@@ -186,7 +270,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55793" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span>11월 28일 01:00 시작</span></span>
+        <span id="time_count_55793" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55793'));
@@ -214,10 +298,38 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55796" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span>11월 28일 01:00 시작</span></span>
+        <span id="time_count_55796" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55796'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">당첨 문자 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 골프 코트 퍼플]]></title>
+        <id>https://www.shoeprize.com/raffles/103229</id>
+        <link href="https://www.shoeprize.com/raffles/103229"/>
+        <updated>2022-11-28T00:48:58.712Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        나이키 골프 서울
+      </div>
+      <div class="name">
+        <a href="/raffles/103229">에어 조던 1 로우 골프 코트 퍼플</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55804" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55804'));
         </script>
       </div>
       
@@ -235,17 +347,17 @@
         <link href="https://www.shoeprize.com/raffles/95042"/>
         <updated>2022-11-28T00:48:58.723Z</updated>
         <content type="html"><![CDATA[<div class="brand">
-        나이키 골프 도곡점
+        나이키 골프 서울
       </div>
       <div class="name">
         <a href="/raffles/95042">에어 조던 1 로우 골프 화이트 코파 블랙</a>
       </div>
       
       <div class="time_area">
-        <span id="time_count_55797" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span>11월 28일 01:00 시작</span></span>
+        <span id="time_count_55805" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669611600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
-          renderReleaseDateLabel($('#time_count_55797'));
+          renderReleaseDateLabel($('#time_count_55805'));
         </script>
       </div>
       
@@ -270,7 +382,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53457" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_53457" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53457'));
@@ -298,7 +410,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_53459" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_53459" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_53459'));
@@ -326,7 +438,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54576" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_54576" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54576'));
@@ -354,7 +466,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54577" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_54577" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54577'));
@@ -382,7 +494,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54578" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+        <span id="time_count_54578" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669618800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54578'));
@@ -410,7 +522,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55502" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55502" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55502'));
@@ -438,7 +550,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55308" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55308" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55308'));
@@ -466,7 +578,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55309" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55309" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55309'));
@@ -494,7 +606,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55753" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55753" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55753'));
@@ -522,7 +634,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55754" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55754" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55754'));
@@ -550,7 +662,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54487" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54487" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54487'));
@@ -578,7 +690,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54488" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54488" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54488'));
@@ -606,7 +718,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54489" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54489" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54489'));
@@ -634,7 +746,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54490" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54490" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54490'));
@@ -662,7 +774,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54491" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54491" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54491'));
@@ -690,7 +802,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54492" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54492" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54492'));
@@ -718,7 +830,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54493" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54493" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54493'));
@@ -746,7 +858,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54494" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54494" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54494'));
@@ -774,7 +886,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54495" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54495" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54495'));
@@ -802,7 +914,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54496" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54496" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54496'));
@@ -830,7 +942,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55095" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55095" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55095'));
@@ -858,7 +970,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55096" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55096" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55096'));
@@ -886,7 +998,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54889" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_54889" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669622400000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54889'));
@@ -970,7 +1082,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55755" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_55755" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55755'));
@@ -998,7 +1110,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55756" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_55756" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55756'));
@@ -1026,7 +1138,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55304" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669194000000" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_55304" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669194000000" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55304'));
@@ -1054,7 +1166,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54881" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669194000000" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">8시간</span> 후 마감</span>
+        <span id="time_count_54881" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669194000000" data-end-time="1669626000000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54881'));
@@ -1082,7 +1194,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55485" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669636800000"><span class="time" display:="" inline-block;"="" lang="en">11시간</span> 후 마감</span>
+        <span id="time_count_55485" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669636800000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55485'));
@@ -1094,6 +1206,62 @@
         <span class="info">영국</span>
         <span class="info">직배</span>
         <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 90 G 아이언 그레이 인프라레드 23]]></title>
+        <id>https://www.shoeprize.com/raffles/104337</id>
+        <link href="https://www.shoeprize.com/raffles/104337"/>
+        <updated>2022-11-28T02:26:20.224Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        나이키 코리아
+      </div>
+      <div class="name">
+        <a href="/raffles/104337">나이키 에어 맥스 90 G 아이언 그레이 인프라레드 23</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55821" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669598115000" data-end-time="1669647540000"><span>1시간 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55821'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 '07 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/19295</id>
+        <link href="https://www.shoeprize.com/raffles/19295"/>
+        <updated>2022-11-28T02:26:20.225Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        나이키 코리아
+      </div>
+      <div class="name">
+        <a href="/raffles/19295">나이키 에어 포스 1 '07 화이트</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55837" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669599247000" data-end-time="1669647540000"><span>52분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55837'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
         
       </div>]]></content>
     </entry>
@@ -1110,7 +1278,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54815" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669042800000" data-end-time="1669647540000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54815" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669042800000" data-end-time="1669647540000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54815'));
@@ -1138,7 +1306,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54409" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54409" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54409'));
@@ -1166,7 +1334,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54410" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54410" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54410'));
@@ -1194,7 +1362,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54411" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54411" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54411'));
@@ -1222,7 +1390,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54412" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54412" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54412'));
@@ -1250,7 +1418,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54413" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54413" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54413'));
@@ -1278,7 +1446,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55511" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_55511" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55511'));
@@ -1306,7 +1474,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54421" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54421" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54421'));
@@ -1334,7 +1502,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54422" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54422" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54422'));
@@ -1362,7 +1530,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54423" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54423" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54423'));
@@ -1390,7 +1558,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54424" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54424" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54424'));
@@ -1418,7 +1586,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54425" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54425" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54425'));
@@ -1446,7 +1614,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55515" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_55515" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55515'));
@@ -1474,7 +1642,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54415" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54415" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54415'));
@@ -1502,7 +1670,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54416" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54416" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54416'));
@@ -1530,7 +1698,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54417" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54417" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54417'));
@@ -1558,7 +1726,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54418" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54418" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54418'));
@@ -1586,7 +1754,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54419" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_54419" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54419'));
@@ -1614,7 +1782,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55512" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">14시간</span> 후 마감</span>
+        <span id="time_count_55512" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669647600000"><span class="time" display:="" inline-block;"="" lang="en">12시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55512'));
@@ -2090,6 +2258,26 @@
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아디다스 크레이지 1 메탈릭 실버]]></title>
+        <id>https://www.shoeprize.com/raffles/96836</id>
+        <link href="https://www.shoeprize.com/raffles/96836"/>
+        <updated>2022-11-28T00:48:58.705Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        아디다스 코리아
+      </div>
+      <div class="name">
+        <a href="/raffles/96836">아디다스 크레이지 1 메탈릭 실버</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">온라인 선착순</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오프화이트 x 나이키 덩크 로우 더 50 로트 21-30]]></title>
         <id>https://www.shoeprize.com/raffles/102509</id>
         <link href="https://www.shoeprize.com/raffles/102509"/>
@@ -2115,6 +2303,62 @@
         <span class="info">국내배송</span>
         <span class="info">당첨 문자 발송</span>
         <span class="info">이벤트</span>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키코 x 히스테릭 글래머 x 아식스 젤 퀀텀 라일리아 퓨어 실버 코튼 캔디]]></title>
+        <id>https://www.shoeprize.com/raffles/104335</id>
+        <link href="https://www.shoeprize.com/raffles/104335"/>
+        <updated>2022-11-28T02:26:20.300Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        아식스 코리아
+      </div>
+      <div class="name">
+        <a href="/raffles/104335">키코 x 히스테릭 글래머 x 아식스 젤 퀀텀 라일리아 퓨어 실버 코튼 캔디</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55811" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669683600000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55811'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">당첨 문자 발송</span>
+        
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키코 x 히스테릭 글래머 x 아식스 젤 퀀텀 라일리아 퓨어 실버 블루 익스팬스]]></title>
+        <id>https://www.shoeprize.com/raffles/104336</id>
+        <link href="https://www.shoeprize.com/raffles/104336"/>
+        <updated>2022-11-28T02:26:20.301Z</updated>
+        <content type="html"><![CDATA[<div class="brand">
+        아식스 코리아
+      </div>
+      <div class="name">
+        <a href="/raffles/104336">키코 x 히스테릭 글래머 x 아식스 젤 퀀텀 라일리아 퓨어 실버 블루 익스팬스</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_55812" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669597200000" data-end-time="1669683600000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_55812'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">당첨 문자 발송</span>
+        
       </div>]]></content>
     </entry>
     <entry>
