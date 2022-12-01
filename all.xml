@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 10:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 11:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
                                             
                                                 12월 08일 10:00 발매]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/2149/</link>
+            <guid>https://www.luck-d.com/release/product/2149/</guid>
+            <pubDate>Thu, 01 Dec 2022 11:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 선착순<br>
+                                            
+                                                12월 14일 10:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2149/thumb_BILLIE_EILISH_X_NIKE_AIR_FORCE_1_LOW_SEQUOIA_DQ4137-300_1669887543286.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
@@ -666,7 +676,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56366" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669896000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_56366" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669896000000"><span class="time" display:="" inline-block;"="" lang="en">48분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56366'));
@@ -694,7 +704,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56064" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669896000000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+        <span id="time_count_56064" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669896000000"><span class="time" display:="" inline-block;"="" lang="en">48분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56064'));
@@ -722,7 +732,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56550" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669864443000" data-end-time="1669906740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_56550" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669864443000" data-end-time="1669906740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56550'));
@@ -750,7 +760,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56549" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669864443000" data-end-time="1669906740000"><span>6시간 전 출시</span></span>
+        <span id="time_count_56549" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669864443000" data-end-time="1669906740000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56549'));
@@ -778,7 +788,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56452" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669820400000" data-end-time="1669906740000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56452" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669820400000" data-end-time="1669906740000"><span>20시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56452'));
@@ -806,7 +816,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54147" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669856400000" data-end-time="1669906740000"><span>9시간 전 출시</span></span>
+        <span id="time_count_54147" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669856400000" data-end-time="1669906740000"><span>10시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54147'));
@@ -834,7 +844,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_54134" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669856400000" data-end-time="1669906740000"><span>9시간 전 출시</span></span>
+        <span id="time_count_54134" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669856400000" data-end-time="1669906740000"><span>10시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_54134'));
@@ -862,7 +872,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56564" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_56564" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56564'));
@@ -890,7 +900,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56566" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_56566" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56566'));
@@ -918,7 +928,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55887" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_55887" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55887'));
@@ -946,7 +956,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56565" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_56565" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56565'));
@@ -2910,7 +2920,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -2918,7 +2928,7 @@
         나이키 코리아
       </div>
       <div class="name">
-        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬</a>
+        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬</a>
       </div>
       
       <div class="time_area">
@@ -2938,7 +2948,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -2946,7 +2956,7 @@
         나이키 코리아
       </div>
       <div class="name">
-        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아</a>
+        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아</a>
       </div>
       
       <div class="time_area">
@@ -3090,7 +3100,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55841" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669798800000" data-end-time="1669971600000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+        <span id="time_count_55841" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669798800000" data-end-time="1669971600000"><span class="time" display:="" inline-block;"="" lang="en">21시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55841'));
@@ -3118,7 +3128,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55880" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669798800000" data-end-time="1669971600000"><span class="time" display:="" inline-block;"="" lang="en">22시간</span> 후 마감</span>
+        <span id="time_count_55880" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669798800000" data-end-time="1669971600000"><span class="time" display:="" inline-block;"="" lang="en">21시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55880'));
@@ -3218,7 +3228,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -3226,7 +3236,7 @@
         NIKE US
       </div>
       <div class="name">
-        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아</a>
+        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아</a>
       </div>
       
       <div class="time_area">
@@ -3246,7 +3256,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -3254,7 +3264,7 @@
         NIKE US
       </div>
       <div class="name">
-        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬</a>
+        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬</a>
       </div>
       
       <div class="time_area">
@@ -3358,7 +3368,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -3366,7 +3376,7 @@
         NIKE JP
       </div>
       <div class="name">
-        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아</a>
+        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아</a>
       </div>
       
       <div class="time_area">
@@ -3386,7 +3396,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -3394,7 +3404,7 @@
         NIKE JP
       </div>
       <div class="name">
-        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬</a>
+        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬</a>
       </div>
       
       <div class="time_area">
@@ -3470,7 +3480,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -3478,7 +3488,7 @@
         NIKE GB
       </div>
       <div class="name">
-        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아</a>
+        <a href="/raffles/95906">빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아</a>
       </div>
       
       <div class="time_area">
@@ -3498,7 +3508,7 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -3506,7 +3516,7 @@
         NIKE GB
       </div>
       <div class="name">
-        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬</a>
+        <a href="/raffles/90561">빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬</a>
       </div>
       
       <div class="time_area">
@@ -3650,7 +3660,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56559" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669964400000"><span class="time" display:="" inline-block;"="" lang="en">20시간</span> 후 마감</span>
+        <span id="time_count_56559" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669964400000"><span class="time" display:="" inline-block;"="" lang="en">19시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56559'));
@@ -3678,7 +3688,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56560" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669964400000"><span class="time" display:="" inline-block;"="" lang="en">20시간</span> 후 마감</span>
+        <span id="time_count_56560" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669964400000"><span class="time" display:="" inline-block;"="" lang="en">19시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56560'));
@@ -3762,7 +3772,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56564" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_56564" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56564'));
@@ -3790,7 +3800,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56565" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_56565" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56565'));
@@ -3818,7 +3828,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56566" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+        <span id="time_count_56566" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669906800000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56566'));
@@ -4156,14 +4166,14 @@
             <content:encoded><![CDATA[나이키 코리아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈 ─ 국내)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
             <content:encoded><![CDATA[나이키 코리아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈 ─ 국내)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -4737,14 +4747,14 @@
             <content:encoded><![CDATA[NIKE US]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
             <content:encoded><![CDATA[NIKE US]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈 ─ 해외)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -4772,14 +4782,14 @@
             <content:encoded><![CDATA[NIKE JP]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
             <content:encoded><![CDATA[NIKE JP]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈 ─ 해외)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
@@ -4800,14 +4810,14 @@
             <content:encoded><![CDATA[NIKE GB]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
             <content:encoded><![CDATA[NIKE GB]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 ‘07 SP 머쉬롬 (슈프라이즈 ─ 해외)]]></title>
+            <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 머쉬롬 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/90561</link>
             <guid>https://www.shoeprize.com/raffles/90561</guid>
             <pubDate>Thu, 01 Dec 2022 03:35:42 GMT</pubDate>
