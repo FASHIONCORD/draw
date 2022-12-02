@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 11:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 12:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -473,16 +473,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[HANON (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/2848/</link>
-            <guid>https://www.luck-d.com/release/product/2848/</guid>
-            <pubDate>Thu, 24 Nov 2022 15:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            12월 02일 21:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2848/thumb_NIKE_DUNK_LOW_SYRACUSE_2022_CU1726-101_1667994629973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[EQL (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/3461/</link>
             <guid>https://www.luck-d.com/release/product/3461/</guid>
@@ -504,16 +494,6 @@
         </item>
         <item>
             <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/3427/</link>
-            <guid>https://www.luck-d.com/release/product/3427/</guid>
-            <pubDate>Tue, 29 Nov 2022 13:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            12월 03일 09:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3427/thumb_NEW_BALANCE_9060_TRUFFLE_U9060BCG_1669724730203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/3413/</link>
             <guid>https://www.luck-d.com/release/product/3413/</guid>
             <pubDate>Tue, 29 Nov 2022 13:22:31 GMT</pubDate>
@@ -521,6 +501,16 @@
                                         
                                             12월 03일 09:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3413/thumb_NEW_BALANCE_9060_IVORY_U9060WCG_1669719716105.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/3427/</link>
+            <guid>https://www.luck-d.com/release/product/3427/</guid>
+            <pubDate>Tue, 29 Nov 2022 13:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            12월 03일 09:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3427/thumb_NEW_BALANCE_9060_TRUFFLE_U9060BCG_1669724730203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스 코리아 (LUCKY DRAW)]]></title>
@@ -543,16 +533,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2147/thumb_NIKE_TERMINATOR_HIGH_COCOA_SNAKE_FB1318-100_1668940693367.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AFEW STORE (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/2847/</link>
-            <guid>https://www.luck-d.com/release/product/2847/</guid>
-            <pubDate>Thu, 24 Nov 2022 15:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            12월 03일 17:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2847/thumb_NIKE_DUNK_LOW_KENTUCKY_2022_CU1726-100_1667994601566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SEVEN STORE (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/2147/</link>
             <guid>https://www.luck-d.com/release/product/2147/</guid>
@@ -561,6 +541,16 @@
                                         
                                             12월 03일 17:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2147/thumb_NIKE_TERMINATOR_HIGH_COCOA_SNAKE_FB1318-100_1668940693367.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AFEW STORE (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/2847/</link>
+            <guid>https://www.luck-d.com/release/product/2847/</guid>
+            <pubDate>Thu, 24 Nov 2022 15:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            12월 03일 17:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2847/thumb_NIKE_DUNK_LOW_KENTUCKY_2022_CU1726-100_1667994601566.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성생명 더헬스 (LUCKY DRAW)]]></title>
@@ -573,16 +563,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/533/thumb_FRAGMENT_X_TRAVIS_SCOTT_X_AIR_JORDAN_1_LOW_DM7866-140_1669784874456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오오티디 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/125/</link>
-            <guid>https://www.luck-d.com/release/product/125/</guid>
-            <pubDate>Tue, 29 Nov 2022 02:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            12월 05일 23:59 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/125/thumb_NIKE_AIR_JORDAN_1_HIGH_OG_DARK_MOCHA_555088-105_1669685887377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한스타일 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/2848/</link>
             <guid>https://www.luck-d.com/release/product/2848/</guid>
@@ -591,6 +571,16 @@
                                         
                                             12월 05일 23:59 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2848/thumb_NIKE_DUNK_LOW_SYRACUSE_2022_CU1726-101_1667994629973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오오티디 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/125/</link>
+            <guid>https://www.luck-d.com/release/product/125/</guid>
+            <pubDate>Tue, 29 Nov 2022 02:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            12월 05일 23:59 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/125/thumb_NIKE_AIR_JORDAN_1_HIGH_OG_DARK_MOCHA_555088-105_1669685887377.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한스타일 (LUCKY DRAW)]]></title>
@@ -663,26 +653,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[AFEW STORE (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/2084/</link>
-            <guid>https://www.luck-d.com/release/product/2084/</guid>
-            <pubDate>Thu, 01 Dec 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            12월 08일 17:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/2084/</link>
-            <guid>https://www.luck-d.com/release/product/2084/</guid>
-            <pubDate>Thu, 01 Dec 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            12월 08일 17:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/1998/</link>
             <guid>https://www.luck-d.com/release/product/1998/</guid>
@@ -691,6 +661,26 @@
                                         
                                             12월 08일 17:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1998/thumb_NIKE_DUNK_HIGH_INSPECTED_BY_SWOOSH_DQ7680-300_1669907851548.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[END CLOTHING (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/2084/</link>
+            <guid>https://www.luck-d.com/release/product/2084/</guid>
+            <pubDate>Thu, 01 Dec 2022 10:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            12월 08일 17:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AFEW STORE (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/2084/</link>
+            <guid>https://www.luck-d.com/release/product/2084/</guid>
+            <pubDate>Thu, 01 Dec 2022 10:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            12월 08일 17:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[HANON (LUCKY DRAW)]]></title>
@@ -883,118 +873,6 @@
             <enclosure url="https://dxqp67px8ll3g.cloudfront.net/BOARD/1644464018_ea2da81ad41642c8e2ea.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/94112</link>
-            <guid>https://www.shoeprize.com/raffles/94112</guid>
-            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        아트모스 명동점
-      </div>
-      <div class="name">
-        <a href="/raffles/94112">아디다스 아디폼 Q 오프화이트 알루미늄</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_56719" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669946400000" data-end-time="1669982400000"><span>9시간 전 출시</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_56719'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">매장 수령</span>
-        <span class="info">오프라인 선착순</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/94112</link>
-            <guid>https://www.shoeprize.com/raffles/94112</guid>
-            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        아트모스 압구정점
-      </div>
-      <div class="name">
-        <a href="/raffles/94112">아디다스 아디폼 Q 오프화이트 알루미늄</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_56718" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669946400000" data-end-time="1669982400000"><span>9시간 전 출시</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_56718'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">매장 수령</span>
-        <span class="info">오프라인 선착순</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 덩크 로우 SP 시라큐스 2022 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/102220</link>
-            <guid>https://www.shoeprize.com/raffles/102220</guid>
-            <pubDate>Wed, 30 Nov 2022 15:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        HANON
-      </div>
-      <div class="name">
-        <a href="/raffles/102220">나이키 덩크 로우 SP 시라큐스 2022</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_56063" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669982400000"><span class="time" display:="" inline-block;"="" lang="en">52분</span> 후 마감</span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_56063'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 터미네이터 하이 코코아 스네이크 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/95941</link>
-            <guid>https://www.shoeprize.com/raffles/95941</guid>
-            <pubDate>Sat, 26 Nov 2022 12:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        HANON
-      </div>
-      <div class="name">
-        <a href="/raffles/95941">나이키 터미네이터 하이 코코아 스네이크</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_56064" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669982400000"><span class="time" display:="" inline-block;"="" lang="en">52분</span> 후 마감</span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_56064'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[에어 조던 1 로우 골프 코트 퍼플 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/103229</link>
             <guid>https://www.shoeprize.com/raffles/103229</guid>
@@ -1007,7 +885,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56697" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669946400000" data-end-time="1669993140000"><span>9시간 전 출시</span></span>
+        <span id="time_count_56697" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669946400000" data-end-time="1669993140000"><span>10시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56697'));
@@ -1035,7 +913,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56621" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56621" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56621'));
@@ -1063,7 +941,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56623" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56623" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56623'));
@@ -1091,7 +969,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56622" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56622" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56622'));
@@ -1119,7 +997,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56624" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56624" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56624'));
@@ -1147,7 +1025,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56625" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56625" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56625'));
@@ -1175,7 +1053,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56626" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>19시간 전 출시</span></span>
+        <span id="time_count_56626" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669907400000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56626'));
@@ -1203,7 +1081,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56664" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
+        <span id="time_count_56664" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>13시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56664'));
@@ -1231,7 +1109,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56665" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
+        <span id="time_count_56665" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>13시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56665'));
@@ -1259,7 +1137,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56666" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
+        <span id="time_count_56666" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>13시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56666'));
@@ -1287,7 +1165,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56667" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
+        <span id="time_count_56667" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>13시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56667'));
@@ -1315,7 +1193,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56668" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
+        <span id="time_count_56668" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669935600000" data-end-time="1669993140000"><span>13시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56668'));
@@ -1343,7 +1221,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56435" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669978800000" data-end-time="1669993140000"><span>7분 전 출시</span></span>
+        <span id="time_count_56435" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669978800000" data-end-time="1669993140000"><span>1시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56435'));
@@ -1371,7 +1249,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56436" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669978800000" data-end-time="1669993140000"><span>7분 전 출시</span></span>
+        <span id="time_count_56436" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669978800000" data-end-time="1669993140000"><span>1시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56436'));
@@ -1399,7 +1277,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55862" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669957200000" data-end-time="1669993140000"><span>6시간 전 출시</span></span>
+        <span id="time_count_55862" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669957200000" data-end-time="1669993140000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55862'));
@@ -1427,7 +1305,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55863" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669957200000" data-end-time="1669993140000"><span>6시간 전 출시</span></span>
+        <span id="time_count_55863" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669957200000" data-end-time="1669993140000"><span>7시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55863'));
@@ -1455,7 +1333,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56610" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669906800000" data-end-time="1669993140000"><span>20시간 전 출시</span></span>
+        <span id="time_count_56610" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669906800000" data-end-time="1669993140000"><span>21시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56610'));
@@ -1483,7 +1361,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56644" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669937400000" data-end-time="1669993140000"><span>11시간 전 출시</span></span>
+        <span id="time_count_56644" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669937400000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56644'));
@@ -1511,7 +1389,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56660" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669937400000" data-end-time="1669993140000"><span>11시간 전 출시</span></span>
+        <span id="time_count_56660" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669937400000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56660'));
@@ -1539,7 +1417,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56661" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669937400000" data-end-time="1669993140000"><span>11시간 전 출시</span></span>
+        <span id="time_count_56661" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669937400000" data-end-time="1669993140000"><span>12시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56661'));
@@ -1567,7 +1445,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56188" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669690800000" data-end-time="1669993140000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_56188" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669690800000" data-end-time="1669993140000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56188'));
@@ -1595,7 +1473,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56189" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669690800000" data-end-time="1669993140000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_56189" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669690800000" data-end-time="1669993140000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56189'));
@@ -1623,7 +1501,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55887" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669993200000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_55887" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1669993200000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55887'));
@@ -3119,6 +2997,86 @@
       </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/94112</link>
+            <guid>https://www.shoeprize.com/raffles/94112</guid>
+            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        아트모스 명동점
+      </div>
+      <div class="name">
+        <a href="/raffles/94112">아디다스 아디폼 Q 오프화이트 알루미늄</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/94112</link>
+            <guid>https://www.shoeprize.com/raffles/94112</guid>
+            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        아트모스 압구정점
+      </div>
+      <div class="name">
+        <a href="/raffles/94112">아디다스 아디폼 Q 오프화이트 알루미늄</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">매장 수령</span>
+        <span class="info">오프라인 선착순</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 SP 시라큐스 2022 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/102220</link>
+            <guid>https://www.shoeprize.com/raffles/102220</guid>
+            <pubDate>Wed, 30 Nov 2022 15:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        HANON
+      </div>
+      <div class="name">
+        <a href="/raffles/102220">나이키 덩크 로우 SP 시라큐스 2022</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 터미네이터 하이 코코아 스네이크 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/95941</link>
+            <guid>https://www.shoeprize.com/raffles/95941</guid>
+            <pubDate>Sat, 26 Nov 2022 12:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        HANON
+      </div>
+      <div class="name">
+        <a href="/raffles/95941">나이키 터미네이터 하이 코코아 스네이크</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[퍼킹 어썸 x 컨버스 루이 로페즈 미드 사이안 틴트 (슈프라이즈)]]></title>
             <link>https://www.shoeprize.com/raffles/104471</link>
             <guid>https://www.shoeprize.com/raffles/104471</guid>
@@ -3143,34 +3101,6 @@
         <span class="info">한국</span>
         <span class="info">국내배송</span>
         <span class="info">온라인 선착순</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 포스 1 로우 컬러 오브 더 먼스 메탈릭 실버 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/103051</link>
-            <guid>https://www.shoeprize.com/raffles/103051</guid>
-            <pubDate>Mon, 28 Nov 2022 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
-        카시나 한남점
-      </div>
-      <div class="name">
-        <a href="/raffles/103051">나이키 에어 포스 1 로우 컬러 오브 더 먼스 메탈릭 실버</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_56605" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669860000000" data-end-time="1669982400000"><span>1일 전 출시</span></span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_56605'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">한국</span>
-        <span class="info">매장 수령</span>
-        <span class="info">오프라인 선착순</span>
         
       </div>]]></content:encoded>
         </item>
@@ -4699,7 +4629,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56716" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670500800000"><span class="time" "="" lang="en">6일</span> 후 마감</span>
+        <span id="time_count_56716" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670500800000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56716'));
@@ -4727,7 +4657,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56717" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670414400000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
+        <span id="time_count_56717" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670414400000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56717'));
@@ -5835,20 +5765,6 @@
       </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/94112</link>
-            <guid>https://www.shoeprize.com/raffles/94112</guid>
-            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[아트모스 명동점]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/94112</link>
-            <guid>https://www.shoeprize.com/raffles/94112</guid>
-            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[아트모스 압구정점]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[에어 조던 1 로우 골프 코트 퍼플 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/103229</link>
             <guid>https://www.shoeprize.com/raffles/103229</guid>
@@ -6087,18 +6003,25 @@
             <content:encoded><![CDATA[크림]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/94112</link>
+            <guid>https://www.shoeprize.com/raffles/94112</guid>
+            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[아트모스 명동점]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아디다스 아디폼 Q 오프화이트 알루미늄 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/94112</link>
+            <guid>https://www.shoeprize.com/raffles/94112</guid>
+            <pubDate>Fri, 02 Dec 2022 05:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[아트모스 압구정점]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[퍼킹 어썸 x 컨버스 루이 로페즈 미드 사이안 틴트 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/104471</link>
             <guid>https://www.shoeprize.com/raffles/104471</guid>
             <pubDate>Thu, 01 Dec 2022 13:30:42 GMT</pubDate>
             <content:encoded><![CDATA[컨버스 코리아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 포스 1 로우 컬러 오브 더 먼스 메탈릭 실버 (슈프라이즈 ─ 국내)]]></title>
-            <link>https://www.shoeprize.com/raffles/103051</link>
-            <guid>https://www.shoeprize.com/raffles/103051</guid>
-            <pubDate>Mon, 28 Nov 2022 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[카시나 한남점]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어 콜드 월 x 컨버스 우븐 자켓 페이브먼트 (슈프라이즈 ─ 국내)]]></title>
@@ -6183,20 +6106,6 @@
             <guid>https://www.shoeprize.com/raffles/224</guid>
             <pubDate>Thu, 01 Dec 2022 16:23:10 GMT</pubDate>
             <content:encoded><![CDATA[오오티디 *IN APP]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 덩크 로우 SP 시라큐스 2022 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/102220</link>
-            <guid>https://www.shoeprize.com/raffles/102220</guid>
-            <pubDate>Wed, 30 Nov 2022 15:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[HANON]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 터미네이터 하이 코코아 스네이크 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/95941</link>
-            <guid>https://www.shoeprize.com/raffles/95941</guid>
-            <pubDate>Sat, 26 Nov 2022 12:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[HANON]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 하이 인스펙티드 바이 스우시 (슈프라이즈 ─ 해외)]]></title>
@@ -6638,6 +6547,20 @@
             <guid>https://www.shoeprize.com/raffles/104276</guid>
             <pubDate>Thu, 01 Dec 2022 15:11:52 GMT</pubDate>
             <content:encoded><![CDATA[ADIDAS UK]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 SP 시라큐스 2022 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/102220</link>
+            <guid>https://www.shoeprize.com/raffles/102220</guid>
+            <pubDate>Wed, 30 Nov 2022 15:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[HANON]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 터미네이터 하이 코코아 스네이크 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/95941</link>
+            <guid>https://www.shoeprize.com/raffles/95941</guid>
+            <pubDate>Sat, 26 Nov 2022 12:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[HANON]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 우먼스 문 파슬 라이트 아이언 오레 (슈프라이즈 ─ 해외)]]></title>
@@ -7221,6 +7144,27 @@
             <content:encoded><![CDATA[APB STORE]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[업데이트 - 자크뮈스 x 나이키 에어 휴마라 '핑크'  국내 출시 일정 공개 (슈프라이즈 - 컬처)]]></title>
+            <link>https://www.shoeprize.com/culture/2945</link>
+            <guid>https://www.shoeprize.com/culture/2945</guid>
+            <pubDate>Fri, 02 Dec 2022 12:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서도 출시된다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 '샌드드리프트' 오피셜 이미지 내보이다 (슈프라이즈 - 컬처)]]></title>
+            <link>https://www.shoeprize.com/culture/3391</link>
+            <guid>https://www.shoeprize.com/culture/3391</guid>
+            <pubDate>Fri, 02 Dec 2022 12:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[가을 시즌에 어울리는 컬러 블로킹]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[업데이트 - 나이키 코리아, 터미네이터 하이 '코코아 스네이크' 공식 출시된다 (슈프라이즈 - 컬처)]]></title>
+            <link>https://www.shoeprize.com/culture/2717</link>
+            <guid>https://www.shoeprize.com/culture/2717</guid>
+            <pubDate>Fri, 02 Dec 2022 12:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[터미네이터 컴백 임박]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SMTM11: 그들은 무엇을 입고 신는가 #4 (슈프라이즈 - 컬처)]]></title>
             <link>https://www.shoeprize.com/culture/3390</link>
             <guid>https://www.shoeprize.com/culture/3390</guid>
@@ -7282,27 +7226,6 @@
             <guid>https://www.shoeprize.com/culture/3383</guid>
             <pubDate>Thu, 01 Dec 2022 13:31:12 GMT</pubDate>
             <content:encoded><![CDATA[넉넉한 응모 기간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[업데이트 - 빌리 아일리시 x 나이키 에어 포스 1 로우 2종 공식 발매 일자 공개 (슈프라이즈 - 컬처)]]></title>
-            <link>https://www.shoeprize.com/culture/2765</link>
-            <guid>https://www.shoeprize.com/culture/2765</guid>
-            <pubDate>Thu, 01 Dec 2022 12:24:17 GMT</pubDate>
-            <content:encoded><![CDATA['머쉬룸'과 '세쿼이아']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 덩크 로우 '리버스 브라질' 오피셜 이미지 공개되다 (슈프라이즈 - 컬처)]]></title>
-            <link>https://www.shoeprize.com/culture/3382</link>
-            <guid>https://www.shoeprize.com/culture/3382</guid>
-            <pubDate>Thu, 01 Dec 2022 12:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 2023년]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[닥터마틴 x 릭 오웬스, 새로운 협업 '1460' 및 '1918' 부츠 선보인다 (슈프라이즈 - 컬처)]]></title>
-            <link>https://www.shoeprize.com/culture/3381</link>
-            <guid>https://www.shoeprize.com/culture/3381</guid>
-            <pubDate>Thu, 01 Dec 2022 09:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내 출시 임박]]></content:encoded>
         </item>
     </channel>
 </rss>
