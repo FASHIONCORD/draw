@@ -4,9 +4,19 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GOOD HOOD]]></title>
+            <link>https://www.luck-d.com/release/product/2427/</link>
+            <guid>https://www.luck-d.com/release/product/2427/</guid>
+            <pubDate>Fri, 02 Dec 2022 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                            
+                                                12월 09일 00:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2427/thumb_JACQUEMUS_X_NIKE_AIR_HUMARA_PINK_PRIME_DX9999-600_1669957408626.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스 코리아]]></title>
             <link>https://www.luck-d.com/release/product/3462/</link>
@@ -661,7 +671,7 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3341/thumb_BALLAHOLIC_X_ASICS_EX89_CREAM_1201A837-100_1668987374117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AFEW STORE]]></title>
+            <title><![CDATA[END CLOTHING]]></title>
             <link>https://www.luck-d.com/release/product/2084/</link>
             <guid>https://www.luck-d.com/release/product/2084/</guid>
             <pubDate>Thu, 01 Dec 2022 10:12:05 GMT</pubDate>
@@ -681,7 +691,7 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1998/thumb_NIKE_DUNK_HIGH_INSPECTED_BY_SWOOSH_DQ7680-300_1669907851548.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[END CLOTHING]]></title>
+            <title><![CDATA[AFEW STORE]]></title>
             <link>https://www.luck-d.com/release/product/2084/</link>
             <guid>https://www.luck-d.com/release/product/2084/</guid>
             <pubDate>Thu, 01 Dec 2022 10:12:05 GMT</pubDate>
@@ -719,6 +729,16 @@
                                         
                                             12월 08일 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2084/thumb_1663990900310.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOOD HOOD]]></title>
+            <link>https://www.luck-d.com/release/product/2427/</link>
+            <guid>https://www.luck-d.com/release/product/2427/</guid>
+            <pubDate>Fri, 02 Dec 2022 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            12월 09일 00:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2427/thumb_JACQUEMUS_X_NIKE_AIR_HUMARA_PINK_PRIME_DX9999-600_1669957408626.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
