@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 11:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 12:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,7 +560,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55553" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669993200000" data-end-time="1670079540000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_55553" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669993200000" data-end-time="1670079540000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55553'));
@@ -588,7 +588,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56807" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670079600000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_56807" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670079600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56807'));
@@ -616,7 +616,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56812" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670079600000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_56812" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670079600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56812'));
@@ -644,7 +644,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56810" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670079600000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+        <span id="time_count_56810" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670079600000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56810'));
@@ -2324,6 +2324,13 @@
             <content:encoded><![CDATA[NIKE US]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[예가 내뱉은 충격 발언, '나는 히틀러가 좋다' (슈프라이즈 - 컬처)]]></title>
+            <link>https://www.shoeprize.com/culture/3400</link>
+            <guid>https://www.shoeprize.com/culture/3400</guid>
+            <pubDate>Sat, 03 Dec 2022 12:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[트위터도 다시 정지됐다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[킴 존스의 디올, 다음 남성복 게스트 디자이너로 '트레메인 에모리'와 함께한다 (슈프라이즈 - 컬처)]]></title>
             <link>https://www.shoeprize.com/culture/3399</link>
             <guid>https://www.shoeprize.com/culture/3399</guid>
@@ -2399,13 +2406,6 @@
             <guid>https://www.shoeprize.com/culture/2945</guid>
             <pubDate>Fri, 02 Dec 2022 12:19:10 GMT</pubDate>
             <content:encoded><![CDATA[국내에서도 출시된다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 덩크 로우 '샌드리프트' 오피셜 이미지 내보이다 (슈프라이즈 - 컬처)]]></title>
-            <link>https://www.shoeprize.com/culture/3391</link>
-            <guid>https://www.shoeprize.com/culture/3391</guid>
-            <pubDate>Fri, 02 Dec 2022 12:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[가을 시즌에 어울리는 컬러 블로킹]]></content:encoded>
         </item>
     </channel>
 </rss>
