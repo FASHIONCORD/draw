@@ -4,7 +4,7 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 09:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 10:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -808,6 +808,16 @@
                                         
                                             12월 11일 00:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3374/thumb_BAD_BUNNY_X_ADIDAS_FORUM_LOW_WHITE_HQ2153_1669260812256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 강남]]></title>
+            <link>https://www.luck-d.com/release/product/235/</link>
+            <guid>https://www.luck-d.com/release/product/235/</guid>
+            <pubDate>Sun, 04 Dec 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 04일 18:13 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/235/thumb_1663558056599.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
