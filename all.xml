@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키 강남 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                            
+                                                12월 05일 17:06 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/3493/</link>
@@ -722,6 +732,16 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/76/thumb_1663551842450.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나이키 강남 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 05일 17:06 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[나이키 SNKRS] '녹타' 에어 포스 1 (스스므 ─ DRAW)]]></title>
             <link>https://ssmuniverse.com/board?category=12#detail_board_99027</link>
             <guid>https://ssmuniverse.com/board?category=12#detail_board_99027</guid>
@@ -887,34 +907,6 @@
             <guid>https://www.shoeprize.com/raffles/96326</guid>
             <pubDate>Sun, 04 Dec 2022 15:09:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="brand">
-        END
-      </div>
-      <div class="name">
-        <a href="/raffles/96326">나이키 에어 맥스 스콜피온 우먼스 세서미</a>
-      </div>
-      
-      <div class="time_area">
-        <span id="time_count_56061" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670227200000"><span class="time" display:="" inline-block;"="" lang="en">49분</span> 후 마감</span>
-
-        <script>
-          renderReleaseDateLabel($('#time_count_56061'));
-        </script>
-      </div>
-      
-
-      <div class="detail_info">
-        <span class="info">영국</span>
-        <span class="info">직배</span>
-        <span class="info">당첨 메일 발송</span>
-        
-      </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 맥스 스콜피온 우먼스 세서미 (슈프라이즈)]]></title>
-            <link>https://www.shoeprize.com/raffles/96326</link>
-            <guid>https://www.shoeprize.com/raffles/96326</guid>
-            <pubDate>Sun, 04 Dec 2022 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="brand">
         AFEW-STORE
       </div>
       <div class="name">
@@ -922,7 +914,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56749" class="time_count" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227200000" data-end-time="1670229000000"><span>12월 5일 08:00 시작</span></span>
+        <span id="time_count_56749" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227200000" data-end-time="1670229000000"><span>13분 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56749'));
@@ -950,7 +942,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55971" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227200000" data-end-time="1670229000000"><span>12월 5일 08:00 시작</span></span>
+        <span id="time_count_55971" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227200000" data-end-time="1670229000000"><span class="time" display:="" inline-block;"="" lang="en">16분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55971'));
@@ -978,7 +970,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_56050" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227200000" data-end-time="1670229000000"><span>12월 5일 08:00 시작</span></span>
+        <span id="time_count_56050" class="time_count btn_red" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227200000" data-end-time="1670229000000"><span class="time" display:="" inline-block;"="" lang="en">16분</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_56050'));
@@ -990,6 +982,34 @@
         <span class="info">영국</span>
         <span class="info">배대지</span>
         <span class="info">당첨 알림 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/385</link>
+            <guid>https://www.shoeprize.com/raffles/385</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        나이키 강남점
+      </div>
+      <div class="name">
+        <a href="/raffles/385">나이키 덩크 로우 우먼스 화이트 블랙</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57124" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670227500000" data-end-time="1670229300000"><span>8분 전 출시</span></span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57124'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">한국</span>
+        <span class="info">국내배송</span>
+        <span class="info">오프라인 선착순</span>
         
       </div>]]></content:encoded>
         </item>
@@ -1006,7 +1026,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57040" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670205667000" data-end-time="1670252340000"><span>5시간 전 출시</span></span>
+        <span id="time_count_57040" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670205667000" data-end-time="1670252340000"><span>6시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57040'));
@@ -1034,7 +1054,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57010" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670166000000" data-end-time="1670252340000"><span>16시간 전 출시</span></span>
+        <span id="time_count_57010" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670166000000" data-end-time="1670252340000"><span>17시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57010'));
@@ -1062,7 +1082,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57011" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670166000000" data-end-time="1670252340000"><span>16시간 전 출시</span></span>
+        <span id="time_count_57011" class="time_count btn_red" data-type="0" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670166000000" data-end-time="1670252340000"><span>17시간 전 출시</span></span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57011'));
@@ -1090,7 +1110,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55555" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670166000000" data-end-time="1670252340000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55555" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1670166000000" data-end-time="1670252340000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55555'));
@@ -1118,7 +1138,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_55952" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669647600000" data-end-time="1670252340000"><span class="time" display:="" inline-block;"="" lang="en">7시간</span> 후 마감</span>
+        <span id="time_count_55952" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669647600000" data-end-time="1670252340000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_55952'));
@@ -1290,6 +1310,26 @@
         <span class="info">한국</span>
         <span class="info">매장 수령</span>
         <span class="info">당첨 문자 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 우먼스 세서미 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/96326</link>
+            <guid>https://www.shoeprize.com/raffles/96326</guid>
+            <pubDate>Sun, 04 Dec 2022 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        END
+      </div>
+      <div class="name">
+        <a href="/raffles/96326">나이키 에어 맥스 스콜피온 우먼스 세서미</a>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">영국</span>
+        <span class="info">직배</span>
+        <span class="info">당첨 메일 발송</span>
         
       </div>]]></content:encoded>
         </item>
@@ -2454,7 +2494,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57091" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669968000000" data-end-time="1670400000000"><span class="time" "="" lang="en">2일</span> 후 마감</span>
+        <span id="time_count_57091" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="1669968000000" data-end-time="1670400000000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57091'));
@@ -2482,7 +2522,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57092" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57092" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57092'));
@@ -2510,7 +2550,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57093" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57093" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57093'));
@@ -2538,7 +2578,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57094" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57094" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57094'));
@@ -2566,7 +2606,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57095" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57095" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57095'));
@@ -2594,7 +2634,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57096" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57096" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57096'));
@@ -2622,7 +2662,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57097" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57097" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57097'));
@@ -2650,7 +2690,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57098" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57098" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57098'));
@@ -2678,7 +2718,7 @@
       </div>
       
       <div class="time_area">
-        <span id="time_count_57099" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+        <span id="time_count_57099" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670572800000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
 
         <script>
           renderReleaseDateLabel($('#time_count_57099'));
@@ -2890,6 +2930,461 @@
       </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나이키 줌 보메로 5 우먼스 오트밀 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/98439</link>
+            <guid>https://www.shoeprize.com/raffles/98439</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        EXTRABUTTER
+      </div>
+      <div class="name">
+        <a href="/raffles/98439">나이키 줌 보메로 5 우먼스 오트밀</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57108" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670374800000"><span class="time" "="" lang="en">1일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57108'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 1 '87 우먼스 버건디 크러쉬 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/100974</link>
+            <guid>https://www.shoeprize.com/raffles/100974</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        EXTRABUTTER
+      </div>
+      <div class="name">
+        <a href="/raffles/100974">나이키 에어 맥스 1 '87 우먼스 버건디 크러쉬</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57109" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670461200000"><span class="time" "="" lang="en">2일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57109'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        EXTRABUTTER
+      </div>
+      <div class="name">
+        <a href="/raffles/101530">나이키 에어 맥스 스콜피온 블랙 앤트러사이트</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57110" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670461200000"><span class="time" "="" lang="en">2일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57110'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        EXTRABUTTER
+      </div>
+      <div class="name">
+        <a href="/raffles/95686">녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57111" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670461200000"><span class="time" "="" lang="en">2일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57111'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 90 아이언스톤 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/96078</link>
+            <guid>https://www.shoeprize.com/raffles/96078</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        EXTRABUTTER
+      </div>
+      <div class="name">
+        <a href="/raffles/96078">나이키 에어 맥스 90 아이언스톤</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57112" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670547600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57112'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        A MA MANIERE
+      </div>
+      <div class="name">
+        <a href="/raffles/101530">나이키 에어 맥스 스콜피온 블랙 앤트러사이트</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57113" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670511600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57113'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        A MA MANIERE
+      </div>
+      <div class="name">
+        <a href="/raffles/95686">녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57114" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670511600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57114'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/104050</link>
+            <guid>https://www.shoeprize.com/raffles/104050</guid>
+            <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        A MA MANIERE
+      </div>
+      <div class="name">
+        <a href="/raffles/104050">배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57115" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670684400000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57115'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/104050</link>
+            <guid>https://www.shoeprize.com/raffles/104050</guid>
+            <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        SOCIAL STATUS
+      </div>
+      <div class="name">
+        <a href="/raffles/104050">배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57116" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670684400000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57116'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        SOCIAL STATUS
+      </div>
+      <div class="name">
+        <a href="/raffles/95686">녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57117" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670511600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57117'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        SOCIAL STATUS
+      </div>
+      <div class="name">
+        <a href="/raffles/101530">나이키 에어 맥스 스콜피온 블랙 앤트러사이트</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57118" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670511600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57118'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 90 아이언스톤 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/96078</link>
+            <guid>https://www.shoeprize.com/raffles/96078</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        SOCIAL STATUS
+      </div>
+      <div class="name">
+        <a href="/raffles/96078">나이키 에어 맥스 90 아이언스톤</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57119" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670598000000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57119'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 90 아이언스톤 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/96078</link>
+            <guid>https://www.shoeprize.com/raffles/96078</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        APB STORE
+      </div>
+      <div class="name">
+        <a href="/raffles/96078">나이키 에어 맥스 90 아이언스톤</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57120" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670598000000"><span class="time" "="" lang="en">4일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57120'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        APB STORE
+      </div>
+      <div class="name">
+        <a href="/raffles/101530">나이키 에어 맥스 스콜피온 블랙 앤트러사이트</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57121" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670511600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57121'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        APB STORE
+      </div>
+      <div class="name">
+        <a href="/raffles/95686">녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57122" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670511600000"><span class="time" "="" lang="en">3일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57122'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈)]]></title>
+            <link>https://www.shoeprize.com/raffles/104050</link>
+            <guid>https://www.shoeprize.com/raffles/104050</guid>
+            <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="brand">
+        APB STORE
+      </div>
+      <div class="name">
+        <a href="/raffles/104050">배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈</a>
+      </div>
+      
+      <div class="time_area">
+        <span id="time_count_57123" class="time_count" data-type="1" data-is-undefined-start-time="False" data-is-undefined-end-time="False" data-start-time="0" data-end-time="1670684400000"><span class="time" "="" lang="en">5일</span> 후 마감</span>
+
+        <script>
+          renderReleaseDateLabel($('#time_count_57123'));
+        </script>
+      </div>
+      
+
+      <div class="detail_info">
+        <span class="info">미국</span>
+        <span class="info">배대지</span>
+        <span class="info">당첨 메일 발송</span>
+        
+      </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 덩크 로우 우먼스 화이트 블랙 (슈프라이즈 ─ 국내)]]></title>
+            <link>https://www.shoeprize.com/raffles/385</link>
+            <guid>https://www.shoeprize.com/raffles/385</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[나이키 강남점]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아디다스 오리지널스 슈퍼스타 클라우드 화이트 칼리지에이트 그린 (슈프라이즈 ─ 국내)]]></title>
             <link>https://www.shoeprize.com/raffles/104604</link>
             <guid>https://www.shoeprize.com/raffles/104604</guid>
@@ -3013,13 +3508,6 @@
             <link>https://www.shoeprize.com/raffles/96326</link>
             <guid>https://www.shoeprize.com/raffles/96326</guid>
             <pubDate>Sun, 04 Dec 2022 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[END]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이키 에어 맥스 스콜피온 우먼스 세서미 (슈프라이즈 ─ 해외)]]></title>
-            <link>https://www.shoeprize.com/raffles/96326</link>
-            <guid>https://www.shoeprize.com/raffles/96326</guid>
-            <pubDate>Sun, 04 Dec 2022 15:09:50 GMT</pubDate>
             <content:encoded><![CDATA[AFEW-STORE]]></content:encoded>
         </item>
         <item>
@@ -3070,6 +3558,13 @@
             <guid>https://www.shoeprize.com/raffles/95179</guid>
             <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
             <content:encoded><![CDATA[UNDEFEATED JP]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 우먼스 세서미 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/96326</link>
+            <guid>https://www.shoeprize.com/raffles/96326</guid>
+            <pubDate>Sun, 04 Dec 2022 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[END]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈 ─ 해외)]]></title>
@@ -3271,35 +3766,35 @@
             <title><![CDATA[사카이 x 나이키 줌 코르테즈 아이언 그레이 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/81201</link>
             <guid>https://www.shoeprize.com/raffles/81201</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[SNS *IN APP]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/95906</link>
             <guid>https://www.shoeprize.com/raffles/95906</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[SNS *IN APP]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앰부쉬 x 나이키 에어 포스 1 로우 그린 앤 시트론 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/102243</link>
             <guid>https://www.shoeprize.com/raffles/102243</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[SNS *IN APP]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앰부쉬 x 나이키 에어 포스 1 로우 게임 로얄 앤 비비드 설 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/100053</link>
             <guid>https://www.shoeprize.com/raffles/100053</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[SNS *IN APP]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/95686</link>
             <guid>https://www.shoeprize.com/raffles/95686</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[SIZE? *IN APP]]></content:encoded>
         </item>
         <item>
@@ -3362,21 +3857,21 @@
             <title><![CDATA[언디핏 X 나이키 에어 포스 1 로우 셀레스틴 블루 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/96282</link>
             <guid>https://www.shoeprize.com/raffles/96282</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[FOOTPATROL *IN APP]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메종 마르지엘라 x 리복 클래식 레더 타비 나일론 화이트 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/104622</link>
             <guid>https://www.shoeprize.com/raffles/104622</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[END]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메종 마르지엘라 x 리복 클래식 레더 타비 나일론 블랙 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/104621</link>
             <guid>https://www.shoeprize.com/raffles/104621</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[END]]></content:encoded>
         </item>
         <item>
@@ -3397,15 +3892,127 @@
             <title><![CDATA[나이키 에어 포스 1 로우 우먼스 유니버시티 블루 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/100437</link>
             <guid>https://www.shoeprize.com/raffles/100437</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[NAKED]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나이키 에어 맥스 1 우먼스 마그마 오랜지 (슈프라이즈 ─ 해외)]]></title>
             <link>https://www.shoeprize.com/raffles/98419</link>
             <guid>https://www.shoeprize.com/raffles/98419</guid>
-            <pubDate>Mon, 05 Dec 2022 07:10:33 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[NAKED]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 줌 보메로 5 우먼스 오트밀 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/98439</link>
+            <guid>https://www.shoeprize.com/raffles/98439</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[EXTRABUTTER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 1 '87 우먼스 버건디 크러쉬 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/100974</link>
+            <guid>https://www.shoeprize.com/raffles/100974</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[EXTRABUTTER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[EXTRABUTTER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[EXTRABUTTER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 90 아이언스톤 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/96078</link>
+            <guid>https://www.shoeprize.com/raffles/96078</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[EXTRABUTTER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[A MA MANIERE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[A MA MANIERE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/104050</link>
+            <guid>https://www.shoeprize.com/raffles/104050</guid>
+            <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[A MA MANIERE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/104050</link>
+            <guid>https://www.shoeprize.com/raffles/104050</guid>
+            <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[SOCIAL STATUS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[SOCIAL STATUS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[SOCIAL STATUS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 90 아이언스톤 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/96078</link>
+            <guid>https://www.shoeprize.com/raffles/96078</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[SOCIAL STATUS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 90 아이언스톤 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/96078</link>
+            <guid>https://www.shoeprize.com/raffles/96078</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[APB STORE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/101530</link>
+            <guid>https://www.shoeprize.com/raffles/101530</guid>
+            <pubDate>Mon, 05 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[APB STORE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[녹타 x 나이키 에어 포스 1 로우 서티파이드 러버 보이 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/95686</link>
+            <guid>https://www.shoeprize.com/raffles/95686</guid>
+            <pubDate>Mon, 05 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[APB STORE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 버니 x 아디다스 오리지널스 포럼 라스트 포럼 슈 (슈프라이즈 ─ 해외)]]></title>
+            <link>https://www.shoeprize.com/raffles/104050</link>
+            <guid>https://www.shoeprize.com/raffles/104050</guid>
+            <pubDate>Sat, 03 Dec 2022 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[APB STORE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전설적인 DMP 팩에 경의를 표하는, 에어 조던 1 하이 '럭키 그린'이 찾아온다? (슈프라이즈 - 컬처)]]></title>
@@ -3448,7 +4055,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">5,519</span>
+                    <span class="count">5,531</span>
                   </div>
                 <div class="info date">
                   2022.12.04
