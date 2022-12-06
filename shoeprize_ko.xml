@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-12-06T09:10:32.038Z</updated>
+    <updated>2022-12-06T10:11:19.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/413</id>
-        <link href="https://www.shoeprize.com/raffles/413"/>
-        <updated>2022-12-06T02:15:31.970Z</updated>
-        <content type="html"><![CDATA[나이키 강남점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 SE 테디 베어]]></title>
         <id>https://www.shoeprize.com/raffles/96277</id>
@@ -123,6 +116,13 @@
         <link href="https://www.shoeprize.com/raffles/101963"/>
         <updated>2022-12-06T07:09:49.842Z</updated>
         <content type="html"><![CDATA[나이키 스타일 홍대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 레트로 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/413</id>
+        <link href="https://www.shoeprize.com/raffles/413"/>
+        <updated>2022-12-06T02:15:31.970Z</updated>
+        <content type="html"><![CDATA[나이키 강남점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 MT580 올리브 리프]]></title>
