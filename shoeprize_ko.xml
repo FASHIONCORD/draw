@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2022-12-09T10:12:41.844Z</updated>
+    <updated>2022-12-09T11:09:27.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -195,27 +195,6 @@
         <content type="html"><![CDATA[W컨셉]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴발란스 RC30 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/104748</id>
-        <link href="https://www.shoeprize.com/raffles/104748"/>
-        <updated>2022-12-08T11:10:13.727Z</updated>
-        <content type="html"><![CDATA[뉴발란스 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 RC30 씨 솔트 알루미늄 검]]></title>
-        <id>https://www.shoeprize.com/raffles/103743</id>
-        <link href="https://www.shoeprize.com/raffles/103743"/>
-        <updated>2022-12-08T11:10:13.729Z</updated>
-        <content type="html"><![CDATA[뉴발란스 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사카이 x 나이키 줌 코르테즈 아이언 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/81201</id>
-        <link href="https://www.shoeprize.com/raffles/81201"/>
-        <updated>2022-12-05T11:09:18.118Z</updated>
-        <content type="html"><![CDATA[오오티디 *IN APP]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아미 x 푸마 스웨이드 VTG 재퍼 오렌지]]></title>
         <id>https://www.shoeprize.com/raffles/104749</id>
         <link href="https://www.shoeprize.com/raffles/104749"/>
@@ -263,5 +242,19 @@
         <link href="https://www.shoeprize.com/raffles/104695"/>
         <updated>2022-12-09T09:10:50.462Z</updated>
         <content type="html"><![CDATA[웍스아웃]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보데가 x 뉴발란스 9060 에이지 오브 디스커버리]]></title>
+        <id>https://www.shoeprize.com/raffles/104019</id>
+        <link href="https://www.shoeprize.com/raffles/104019"/>
+        <updated>2022-12-09T11:09:10.074Z</updated>
+        <content type="html"><![CDATA[뉴발란스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사카이 x 나이키 줌 코르테즈 아이언 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/81201</id>
+        <link href="https://www.shoeprize.com/raffles/81201"/>
+        <updated>2022-12-05T11:09:18.118Z</updated>
+        <content type="html"><![CDATA[오오티디 *IN APP]]></content>
     </entry>
 </feed>
