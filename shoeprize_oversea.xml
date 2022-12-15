@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-12-15T03:16:02.803Z</updated>
+    <updated>2022-12-15T04:13:59.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -333,6 +333,13 @@
         <link href="https://www.shoeprize.com/raffles/101125"/>
         <updated>2022-12-15T00:49:49.280Z</updated>
         <content type="html"><![CDATA[FOOTLOCKER US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 아일리시 x 나이키 에어 포스 1 로우 세쿼이아]]></title>
+        <id>https://www.shoeprize.com/raffles/95906</id>
+        <link href="https://www.shoeprize.com/raffles/95906"/>
+        <updated>2022-12-11T10:10:52.744Z</updated>
+        <content type="html"><![CDATA[SEVEN STORE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트래비스 스캇 x 조던 후디 브라운]]></title>
@@ -954,7 +961,7 @@
         <title type="html"><![CDATA[오프화이트 x 나이키 모자]]></title>
         <id>https://www.shoeprize.com/raffles/105057</id>
         <link href="https://www.shoeprize.com/raffles/105057"/>
-        <updated>2022-12-15T03:15:52.512Z</updated>
+        <updated>2022-12-15T03:15:52.509Z</updated>
         <content type="html"><![CDATA[SVD *IN APP]]></content>
     </entry>
     <entry>
@@ -963,5 +970,12 @@
         <link href="https://www.shoeprize.com/raffles/105090"/>
         <updated>2022-12-15T02:20:04.001Z</updated>
         <content type="html"><![CDATA[SVD *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 하이 OG 우먼스 미디엄 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/94187</id>
+        <link href="https://www.shoeprize.com/raffles/94187"/>
+        <updated>2022-12-15T04:13:49.007Z</updated>
+        <content type="html"><![CDATA[UNDEFEATED JP]]></content>
     </entry>
 </feed>
