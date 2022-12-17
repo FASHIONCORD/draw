@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2022-12-17T03:11:45.941Z</updated>
+    <updated>2022-12-17T04:12:19.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[팔라스 X C.P. 컴퍼니 협업 컬렉션]]></title>
-        <id>https://www.shoeprize.com/raffles/105103</id>
-        <link href="https://www.shoeprize.com/raffles/105103"/>
-        <updated>2022-12-15T05:11:10.174Z</updated>
-        <content type="html"><![CDATA[PALACE JP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프림 2022 가을, 겨울 컬렉션 16주 차]]></title>
-        <id>https://www.shoeprize.com/raffles/105097</id>
-        <link href="https://www.shoeprize.com/raffles/105097"/>
-        <updated>2022-12-15T02:20:03.995Z</updated>
-        <content type="html"><![CDATA[SUPREME JP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 포스 1 로우 우먼스 유니버시티 블루]]></title>
         <id>https://www.shoeprize.com/raffles/100437</id>
@@ -375,6 +361,20 @@
         <link href="https://www.shoeprize.com/raffles/104476"/>
         <updated>2022-12-15T08:15:13.840Z</updated>
         <content type="html"><![CDATA[NIKE JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔라스 X C.P. 컴퍼니 협업 컬렉션]]></title>
+        <id>https://www.shoeprize.com/raffles/105103</id>
+        <link href="https://www.shoeprize.com/raffles/105103"/>
+        <updated>2022-12-15T05:11:10.174Z</updated>
+        <content type="html"><![CDATA[PALACE JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈프림 2022 가을, 겨울 컬렉션 16주 차]]></title>
+        <id>https://www.shoeprize.com/raffles/105097</id>
+        <link href="https://www.shoeprize.com/raffles/105097"/>
+        <updated>2022-12-15T02:20:03.995Z</updated>
+        <content type="html"><![CDATA[SUPREME JP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 2 OG 시카고]]></title>
