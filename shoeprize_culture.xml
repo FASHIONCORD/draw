@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2022-12-19T08:13:33.337Z</updated>
+    <updated>2022-12-19T09:11:02.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
-        <title type="html"><![CDATA[무려 500만 원? 리오넬 메시가 '카타르 월드컵'에서 착용한 축구화의 가격이 급등했다]]></title>
+        <title type="html"><![CDATA['터틀도브'부터 '루이비통 에어 포스 1'까지, 2022년 우리를 설레게 만든 스니커 10선]]></title>
+        <id>https://www.shoeprize.com/culture/3424</id>
+        <link href="https://www.shoeprize.com/culture/3424"/>
+        <updated>2022-12-19T09:11:01.962Z</updated>
+        <content type="html"><![CDATA[단 한 개라도 당첨되었다면 진정한 승자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무려 300만 원? 리오넬 메시가 '카타르 월드컵'에서 착용한 축구화의 가격이 급등했다]]></title>
         <id>https://www.shoeprize.com/culture/3486</id>
         <link href="https://www.shoeprize.com/culture/3486"/>
         <updated>2022-12-19T08:13:32.686Z</updated>
@@ -27,9 +34,9 @@
         <content type="html"><![CDATA[<a href="/culture/3484">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep23: 실물이 훨씬 예쁜 블랙 팬텀">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-644e1710-7e81-11ed-bb41-0ac4b3b9590c.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep23: 실물이 훨씬 예쁜 블랙 팬텀">
           </picture>
         </div>
         <div class="info_area">
@@ -39,7 +46,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">9,778</span>
+                    <span class="count">9,818</span>
                   </div>
                 <div class="info date">
                   2022.12.18
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/3477"/>
         <updated>2022-12-16T05:10:26.097Z</updated>
         <content type="html"><![CDATA[바시티 재킷부터 후디, 베이스볼 캡, 악세사리까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 '워시드 블랙' 실물 비주얼 공개]]></title>
-        <id>https://www.shoeprize.com/culture/3476</id>
-        <link href="https://www.shoeprize.com/culture/3476"/>
-        <updated>2022-12-16T03:11:53.496Z</updated>
-        <content type="html"><![CDATA[2023년 기대작 중 하나]]></content>
     </entry>
 </feed>
