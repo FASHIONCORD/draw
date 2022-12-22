@@ -4,9 +4,19 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 10:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 11:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ABC GS 해운대 신세계]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                            
+                                                12월 23일 10:30 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[CONSORTIUM]]></title>
             <link>https://www.luck-d.com/release/product/3025/</link>
@@ -56,36 +66,6 @@
                                             
                                                 12월 25일 10:00 발매]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3679/thumb_NIKE_ACG_AIR_ZOOM_GAIADOME_GORETEX_HYPER_ROYAL_DD2858400_1671689076598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BODEGA]]></title>
-            <link>https://www.luck-d.com/release/product/1864/</link>
-            <guid>https://www.luck-d.com/release/product/1864/</guid>
-            <pubDate>Wed, 21 Dec 2022 11:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 선착순<br>
-                                            
-                                                12월 29일 00:00 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/1864/thumb_NIKE_AIR_JORDAN_1_HIGH_GORGE_GREEN_DZ5485-303_1665665022178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4ELEMENTOS]]></title>
-            <link>https://www.luck-d.com/release/product/3649/</link>
-            <guid>https://www.luck-d.com/release/product/3649/</guid>
-            <pubDate>Wed, 21 Dec 2022 11:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                            
-                                                12월 28일 10:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3649/thumb_NEW_BALANCE_1906R_REFINED_FUTURE_BEIGE_M1906DB_1671532534225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4ELEMENTOS]]></title>
-            <link>https://www.luck-d.com/release/product/3650/</link>
-            <guid>https://www.luck-d.com/release/product/3650/</guid>
-            <pubDate>Wed, 21 Dec 2022 11:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                            
-                                                12월 28일 10:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3650/thumb_NEW_BALANCE_1906R_REFINED_FUTURE_REFLECTION__M1906DC_1671534395887.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키 코리아]]></title>
@@ -423,7 +403,7 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3647/thumb_NEW_BALANCE_1906R_REFINED_FUTURE_BLACK_M1906DD_1671532403720.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ABC GS 하남 스타필드]]></title>
+            <title><![CDATA[ABC GS 안성 스타필드]]></title>
             <link>https://www.luck-d.com/release/product/232/</link>
             <guid>https://www.luck-d.com/release/product/232/</guid>
             <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
@@ -443,13 +423,33 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ABC GS 안성 스타필드]]></title>
+            <title><![CDATA[ABC GS 하남 스타필드]]></title>
             <link>https://www.luck-d.com/release/product/232/</link>
             <guid>https://www.luck-d.com/release/product/232/</guid>
             <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
             <content:encoded><![CDATA[오프라인 선착순<br>
                                         
                                             12월 23일 10:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ABC GS 해운대 신세계]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 23일 10:30 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ABC GS 부산 광복]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 23일 10:30 발매]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -473,7 +473,7 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ABC GS 청주 성안]]></title>
+            <title><![CDATA[ABC GS 제주 칠성]]></title>
             <link>https://www.luck-d.com/release/product/232/</link>
             <guid>https://www.luck-d.com/release/product/232/</guid>
             <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
@@ -483,7 +483,7 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ABC GS 제주 칠성]]></title>
+            <title><![CDATA[ABC GS 청주 성안]]></title>
             <link>https://www.luck-d.com/release/product/232/</link>
             <guid>https://www.luck-d.com/release/product/232/</guid>
             <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
@@ -500,46 +500,6 @@
             <content:encoded><![CDATA[오프라인 선착순<br>
                                         
                                             12월 23일 10:30 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABC GS 부산 광복]]></title>
-            <link>https://www.luck-d.com/release/product/232/</link>
-            <guid>https://www.luck-d.com/release/product/232/</guid>
-            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                            12월 23일 10:30 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABC GS 부산 서면]]></title>
-            <link>https://www.luck-d.com/release/product/232/</link>
-            <guid>https://www.luck-d.com/release/product/232/</guid>
-            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                            12월 23일 11:00 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABC GS 명동 중앙점]]></title>
-            <link>https://www.luck-d.com/release/product/232/</link>
-            <guid>https://www.luck-d.com/release/product/232/</guid>
-            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                            12월 23일 11:00 발매]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABC GS 광주 충장로]]></title>
-            <link>https://www.luck-d.com/release/product/232/</link>
-            <guid>https://www.luck-d.com/release/product/232/</guid>
-            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 선착순<br>
-                                        
-                                            12월 23일 11:00 발매]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -563,7 +523,37 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ABC GS 광주 충장로]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 23일 11:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ABC GS 명동 중앙점]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 23일 11:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[ABC GS 강남본점]]></title>
+            <link>https://www.luck-d.com/release/product/232/</link>
+            <guid>https://www.luck-d.com/release/product/232/</guid>
+            <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인 선착순<br>
+                                        
+                                            12월 23일 11:00 발매]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/232/thumb_1663636341605.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ABC GS 부산 서면]]></title>
             <link>https://www.luck-d.com/release/product/232/</link>
             <guid>https://www.luck-d.com/release/product/232/</guid>
             <pubDate>Tue, 20 Dec 2022 02:10:28 GMT</pubDate>
