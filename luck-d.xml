@@ -4,7 +4,7 @@
         <title>LUCKY DRAW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 13:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 14:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -491,16 +491,6 @@
         </item>
         <item>
             <title><![CDATA[한스타일]]></title>
-            <link>https://www.luck-d.com/release/product/3436/</link>
-            <guid>https://www.luck-d.com/release/product/3436/</guid>
-            <pubDate>Tue, 27 Dec 2022 04:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            01월 02일 23:59 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3436/thumb_ADIDAS_PUPPYLETTE_FAKE_PRINTED_PACK_SAMBA_HP6700_1669949232703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한스타일]]></title>
             <link>https://www.luck-d.com/release/product/3435/</link>
             <guid>https://www.luck-d.com/release/product/3435/</guid>
             <pubDate>Tue, 27 Dec 2022 04:11:51 GMT</pubDate>
@@ -508,6 +498,16 @@
                                         
                                             01월 02일 23:59 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3435/thumb_ADIDAS_PUPPYLETTE_FAKE_PRINTED_PACK_SUPERSTAR_HP6697_1669949257015.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한스타일]]></title>
+            <link>https://www.luck-d.com/release/product/3436/</link>
+            <guid>https://www.luck-d.com/release/product/3436/</guid>
+            <pubDate>Tue, 27 Dec 2022 04:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            01월 02일 23:59 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3436/thumb_ADIDAS_PUPPYLETTE_FAKE_PRINTED_PACK_SAMBA_HP6700_1669949232703.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVD]]></title>
@@ -610,16 +610,6 @@
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/2847/thumb_NIKE_DUNK_LOW_KENTUCKY_2022_CU1726-100_1667994601566.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SNS EU]]></title>
-            <link>https://www.luck-d.com/release/product/3804/</link>
-            <guid>https://www.luck-d.com/release/product/3804/</guid>
-            <pubDate>Mon, 02 Jan 2023 05:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 응모<br>
-                                        
-                                            01월 06일 16:00 마감]]></content:encoded>
-            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3804/thumb_NIKE_AIR_JORDAN_9_LIGHT_OLIVE_CT8019034_1672635288664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SNS US]]></title>
             <link>https://www.luck-d.com/release/product/3580/</link>
             <guid>https://www.luck-d.com/release/product/3580/</guid>
@@ -628,6 +618,16 @@
                                         
                                             01월 06일 16:00 마감]]></content:encoded>
             <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3580/thumb_NIKE_AIR_JORDAN_7_OLIVE_DN9782001_1670921898209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS EU]]></title>
+            <link>https://www.luck-d.com/release/product/3804/</link>
+            <guid>https://www.luck-d.com/release/product/3804/</guid>
+            <pubDate>Mon, 02 Jan 2023 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 응모<br>
+                                        
+                                            01월 06일 16:00 마감]]></content:encoded>
+            <enclosure url="https://luckydraw-media.s3.amazonaws.com/product/3804/thumb_NIKE_AIR_JORDAN_9_LIGHT_OLIVE_CT8019034_1672635288664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
