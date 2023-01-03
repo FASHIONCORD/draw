@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-01-02T23:10:15.234Z</updated>
+    <updated>2023-01-03T00:46:57.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 미드 GS 블랙 파이어 레드]]></title>
-        <id>https://www.shoeprize.com/raffles/105392</id>
-        <link href="https://www.shoeprize.com/raffles/105392"/>
-        <updated>2023-01-02T15:10:19.598Z</updated>
-        <content type="html"><![CDATA[FOOTDISTRICT]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 모어 업템포 로즈우드 앤 울프 그레이]]></title>
         <id>https://www.shoeprize.com/raffles/100972</id>
@@ -74,6 +67,20 @@
         <link href="https://www.shoeprize.com/raffles/105675"/>
         <updated>2023-01-02T15:10:19.606Z</updated>
         <content type="html"><![CDATA[HANON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 미드 얼터네이트 브레드]]></title>
+        <id>https://www.shoeprize.com/raffles/96734</id>
+        <link href="https://www.shoeprize.com/raffles/96734"/>
+        <updated>2023-01-02T15:10:19.603Z</updated>
+        <content type="html"><![CDATA[SHOE PALACE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 SE 우먼스 아이스 다크 파우더 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/104641</id>
+        <link href="https://www.shoeprize.com/raffles/104641"/>
+        <updated>2023-01-03T00:46:49.565Z</updated>
+        <content type="html"><![CDATA[NAKED]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 맥스 스콜피온 블랙 앤트러사이트]]></title>
@@ -144,5 +151,12 @@
         <link href="https://www.shoeprize.com/raffles/106025"/>
         <updated>2023-01-02T16:13:17.080Z</updated>
         <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 ACG 로우케이트 미카 그린 라이트 본]]></title>
+        <id>https://www.shoeprize.com/raffles/104785</id>
+        <link href="https://www.shoeprize.com/raffles/104785"/>
+        <updated>2023-01-03T00:46:49.578Z</updated>
+        <content type="html"><![CDATA[온더스팟]]></content>
     </entry>
 </feed>
