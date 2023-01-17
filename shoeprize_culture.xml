@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-01-17T05:02:59.542Z</updated>
+    <updated>2023-01-17T05:12:13.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 '테러 스쿼드 x 에어 포스 1 로우'가 2023년 봄 시즌 공식 발매될 예정이다?]]></title>
+        <id>https://www.shoeprize.com/culture/3645</id>
+        <link href="https://www.shoeprize.com/culture/3645"/>
+        <updated>2023-01-17T05:12:12.763Z</updated>
+        <content type="html"><![CDATA[팻 조와 DJ 칼리드가 그 실물 비주얼을 직접 공개했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어웨이크 뉴욕과 아식스, 새로운 협업 모델 '젤-NYC' 출시한다]]></title>
         <id>https://www.shoeprize.com/culture/3644</id>
@@ -81,35 +88,5 @@
         <link href="https://www.shoeprize.com/culture/3636"/>
         <updated>2023-01-15T07:09:54.953Z</updated>
         <content type="html"><![CDATA[부인은 YEEZY 소속 건축 디자이너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳤습니까 슈먼? ep27: 4줄이냐 3줄이냐, 아디다스 & 톰 브라운]]></title>
-        <id>https://www.shoeprize.com/culture/3635</id>
-        <link href="https://www.shoeprize.com/culture/3635"/>
-        <updated>2023-01-15T09:09:59.484Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/3635">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-fa7b7de8-9495-11ed-92f0-0ac4b3b9590c.webp">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-fa7b7de8-9495-11ed-92f0-0ac4b3b9590c.webp?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-fa7b7de8-9495-11ed-92f0-0ac4b3b9590c.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep27: 4줄이냐 3줄이냐, 아디다스 &amp; 톰 브라운">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">웹툰</div>
-            <div class="post_title">미쳤습니까 슈먼? ep27: 4줄이냐 3줄이냐, 아디다스 &amp; 톰 브라운</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">5,091</span>
-                  </div>
-                <div class="info date">
-                  2023.01.15
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
