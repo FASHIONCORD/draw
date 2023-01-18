@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 20:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 21:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,17 +38,6 @@
             <enclosure url="https://static.luck-d.com/product/3936/thumb_SALOMON_XT6_RECUT_BLACK_RUSSET_ORANGE_L47305600_1673352420455.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BODEGA (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/2648/</link>
-            <guid>https://www.luck-d.com/release/product/2648/</guid>
-            <pubDate>Wed, 11 Jan 2023 06:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 선착순<br>
-                                        
-                                        
-                                            01월 19일 00:00 발매]]></content:encoded>
-            <enclosure url="https://static.luck-d.com/product/2648/thumb_NIKE_AIR_FORCE_1_LOW_COMMAND_FORCE_UNIVERSITY_BLUE_AND_SUMMIT_WHITE_WMNS_DR0148100_1673416108505.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나이키 코리아 (LUCKY DRAW)]]></title>
             <link>https://www.luck-d.com/release/product/3071/</link>
             <guid>https://www.luck-d.com/release/product/3071/</guid>
@@ -58,6 +47,17 @@
                                         
                                             01월 19일 10:00 발매]]></content:encoded>
             <enclosure url="https://static.luck-d.com/product/3071/thumb_NIKE_ZOOM_VOMERO_5_IRON_ORE_AND_FLAT_PEWTER_FD0791012_1673513224476.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴발란스 코리아 (LUCKY DRAW)]]></title>
+            <link>https://www.luck-d.com/release/product/4008/</link>
+            <guid>https://www.luck-d.com/release/product/4008/</guid>
+            <pubDate>Sat, 14 Jan 2023 14:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 선착순<br>
+                                        
+                                        
+                                            01월 19일 11:00 발매]]></content:encoded>
+            <enclosure url="https://static.luck-d.com/product/4008/thumb_NEW_BALANCE_550_DRIFTWOOD_BB550LY1_1673703318598.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴발란스 코리아 (LUCKY DRAW)]]></title>
@@ -124,17 +124,6 @@
                                         
                                             01월 19일 11:00 발매]]></content:encoded>
             <enclosure url="https://static.luck-d.com/product/4011/thumb_NEW_BALANCE_9060_TIMBERWOLF_U9060LNY_1673703582882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스 코리아 (LUCKY DRAW)]]></title>
-            <link>https://www.luck-d.com/release/product/4008/</link>
-            <guid>https://www.luck-d.com/release/product/4008/</guid>
-            <pubDate>Sat, 14 Jan 2023 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 선착순<br>
-                                        
-                                        
-                                            01월 19일 11:00 발매]]></content:encoded>
-            <enclosure url="https://static.luck-d.com/product/4008/thumb_NEW_BALANCE_550_DRIFTWOOD_BB550LY1_1673703318598.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴발란스 코리아 (LUCKY DRAW)]]></title>
@@ -806,7 +795,7 @@
             <content:encoded><![CDATA[<div class="brand">FASTTIMES</div>
 					<div class="name">나이키 SB 덩크 로우 화이트 검</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674079200000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+          <span class="time_count btn_red" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674079200000"><span class="time" display:="" inline-block;"="" lang="en">49분</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">호주</span>
@@ -823,7 +812,7 @@
             <content:encoded><![CDATA[<div class="brand">FASTTIMES</div>
 					<div class="name">나이키 SB 덩크 로우 블랙 검</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674079200000"><span class="time" display:="" inline-block;"="" lang="en">1시간</span> 후 마감</span>
+          <span class="time_count btn_red" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674079200000"><span class="time" display:="" inline-block;"="" lang="en">49분</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">호주</span>
@@ -840,7 +829,7 @@
             <content:encoded><![CDATA[<div class="brand">FEATURE</div>
 					<div class="name">나이키 줌 보메로 5 아이언 오어 앤 플랫 퓨터</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674086400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674086400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">미국</span>
@@ -857,7 +846,7 @@
             <content:encoded><![CDATA[<div class="brand">BACKDOOR</div>
 					<div class="name">에어 조던 5 우먼스 덩크 온 마스</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674086400000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674086400000"><span class="time" display:="" inline-block;"="" lang="en">2시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">이탈리아</span>
@@ -959,7 +948,7 @@
             <content:encoded><![CDATA[<div class="brand">A MA MANIERE</div>
 					<div class="name">나이키 줌 보메로 5 아이언 오어 앤 플랫 퓨터</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674090000000"><span class="time" display:="" inline-block;"="" lang="en">4시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674090000000"><span class="time" display:="" inline-block;"="" lang="en">3시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">미국</span>
@@ -1248,7 +1237,7 @@
             <content:encoded><![CDATA[<div class="brand">UPTOWN Deluxe</div>
 					<div class="name">뉴발란스 9060 비프 앤 브로콜리</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="1673535600000" data-end-time="1674097200000"><span class="time" display:="" inline-block;"="" lang="en">6시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="1673535600000" data-end-time="1674097200000"><span class="time" display:="" inline-block;"="" lang="en">5시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">일본</span>
@@ -1265,7 +1254,7 @@
             <content:encoded><![CDATA[<div class="brand">SNS *IN APP</div>
 					<div class="name">앤더슨 벨 x 아식스 젤 소노마 15-50 브라이트 로즈 에버그린</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674111600000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674111600000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">스웨덴</span>
@@ -1282,7 +1271,7 @@
             <content:encoded><![CDATA[<div class="brand">SNS *IN APP</div>
 					<div class="name">앤더슨 벨 x 아식스 젤 소노마 15-50 올리브 오일 다크 브라운</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674111600000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674111600000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">스웨덴</span>
@@ -1299,7 +1288,7 @@
             <content:encoded><![CDATA[<div class="brand">SNS *IN APP</div>
 					<div class="name">니들스 x 리복 비트니크 목 지그 재그 심 블랙 퍼플</div>
           <div class="time_area">
-          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674111600000"><span class="time" display:="" inline-block;"="" lang="en">10시간</span> 후 마감</span>
+          <span class="time_count" data-type="1" data-is-undefined-start-time="false" data-is-undefined-end-time="false" data-start-time="undefined" data-end-time="1674111600000"><span class="time" display:="" inline-block;"="" lang="en">9시간</span> 후 마감</span>
           </div>
 					<div class="detail_info">
             <span class="info">스웨덴</span>
