@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-01-27T11:11:25.739Z</updated>
+    <updated>2023-01-27T12:19:00.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 삼바 OG 슈 클라우드 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/12983</id>
-        <link href="https://www.shoeprize.com/raffles/12983"/>
-        <updated>2023-01-27T03:12:21.359Z</updated>
-        <content type="html"><![CDATA[HANON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 삼바 OG 슈 코어 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/24085</id>
-        <link href="https://www.shoeprize.com/raffles/24085"/>
-        <updated>2023-01-27T03:12:21.359Z</updated>
-        <content type="html"><![CDATA[HANON]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 오리지널스 삼바 OG 슈 클라우드 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/12983</id>
@@ -214,5 +200,19 @@
         <link href="https://www.shoeprize.com/raffles/94233"/>
         <updated>2023-01-27T03:12:21.357Z</updated>
         <content type="html"><![CDATA[NAKED]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 PS 마스 스톤]]></title>
+        <id>https://www.shoeprize.com/raffles/106641</id>
+        <link href="https://www.shoeprize.com/raffles/106641"/>
+        <updated>2023-01-27T12:18:37.936Z</updated>
+        <content type="html"><![CDATA[NAKED]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 TD 마스 스톤]]></title>
+        <id>https://www.shoeprize.com/raffles/106642</id>
+        <link href="https://www.shoeprize.com/raffles/106642"/>
+        <updated>2023-01-27T12:18:37.936Z</updated>
+        <content type="html"><![CDATA[APB STORE]]></content>
     </entry>
 </feed>
