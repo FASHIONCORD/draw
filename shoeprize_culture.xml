@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-01-29T07:09:52.002Z</updated>
+    <updated>2023-01-29T08:13:23.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -25,7 +25,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">10</span>
+                    <span class="count">15</span>
                   </div>
                 <div class="info date">
                   2023.01.29
@@ -34,6 +34,13 @@
             </div>
         </div>
     </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년 만에 돌아오는 에어 조던 3 피어]]></title>
+        <id>https://www.shoeprize.com/culture/3757</id>
+        <link href="https://www.shoeprize.com/culture/3757"/>
+        <updated>2023-01-29T08:13:23.207Z</updated>
+        <content type="html"><![CDATA[조던 마니아에게는 반가운 소식]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빔즈 x 뉴발란스 2002R 루머 공개]]></title>
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/3746"/>
         <updated>2023-01-28T08:12:59.308Z</updated>
         <content type="html"><![CDATA[신발에 들어간 하트는 총 몇 개?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차이나타운 마켓, 나이키를 저격한 굿즈 출시하다]]></title>
-        <id>https://www.shoeprize.com/culture/3745</id>
-        <link href="https://www.shoeprize.com/culture/3745"/>
-        <updated>2023-01-28T05:10:38.788Z</updated>
-        <content type="html"><![CDATA["그냥 소송해"가 킬링 포인트]]></content>
     </entry>
 </feed>
