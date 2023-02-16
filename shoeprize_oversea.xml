@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-02-16T06:15:14.760Z</updated>
+    <updated>2023-02-16T07:11:28.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 그레이 포그]]></title>
-        <id>https://www.shoeprize.com/raffles/19798</id>
-        <link href="https://www.shoeprize.com/raffles/19798"/>
-        <updated>2023-02-16T04:13:00.755Z</updated>
-        <content type="html"><![CDATA[나이키 롯데백화점 수원점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 KD 15 ASW 라이트 오어우드 브라운]]></title>
-        <id>https://www.shoeprize.com/raffles/107335</id>
-        <link href="https://www.shoeprize.com/raffles/107335"/>
-        <updated>2023-02-16T00:50:31.179Z</updated>
-        <content type="html"><![CDATA[SNS *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 르브론 20 ASW 블루 라이트닝]]></title>
-        <id>https://www.shoeprize.com/raffles/107448</id>
-        <link href="https://www.shoeprize.com/raffles/107448"/>
-        <updated>2023-02-16T00:50:31.180Z</updated>
-        <content type="html"><![CDATA[SNS *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JJJ자운드 x 뉴발란스 991 메이드 인 UK 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/101314</id>
-        <link href="https://www.shoeprize.com/raffles/101314"/>
-        <updated>2023-02-16T00:50:31.180Z</updated>
-        <content type="html"><![CDATA[SNS *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JJJ자운드 x 뉴발란스 991 메이드 인 UK 우먼스 코버트 그린]]></title>
-        <id>https://www.shoeprize.com/raffles/108361</id>
-        <link href="https://www.shoeprize.com/raffles/108361"/>
-        <updated>2023-02-16T00:50:31.181Z</updated>
-        <content type="html"><![CDATA[SNS *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[사이즈? x 뉴발란스 1906R 그린 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/108429</id>
@@ -214,5 +179,19 @@
         <link href="https://www.shoeprize.com/raffles/104020"/>
         <updated>2023-02-15T15:13:08.410Z</updated>
         <content type="html"><![CDATA[END]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JJJ자운드 x 뉴발란스 991 메이드 인 UK 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/101314</id>
+        <link href="https://www.shoeprize.com/raffles/101314"/>
+        <updated>2023-02-16T00:50:31.180Z</updated>
+        <content type="html"><![CDATA[GOODHOOD]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JJJ자운드 x 뉴발란스 991 메이드 인 UK 우먼스 코버트 그린]]></title>
+        <id>https://www.shoeprize.com/raffles/108361</id>
+        <link href="https://www.shoeprize.com/raffles/108361"/>
+        <updated>2023-02-16T00:50:31.181Z</updated>
+        <content type="html"><![CDATA[GOODHOOD]]></content>
     </entry>
 </feed>
