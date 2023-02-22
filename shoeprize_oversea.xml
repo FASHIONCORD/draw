@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-02-22T22:09:49.590Z</updated>
+    <updated>2023-02-22T23:10:22.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 13 플레이오프]]></title>
-        <id>https://www.shoeprize.com/raffles/105110</id>
-        <link href="https://www.shoeprize.com/raffles/105110"/>
-        <updated>2023-02-22T15:11:52.296Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 우먼스 게임 로얄 앤 바시티 메이즈]]></title>
-        <id>https://www.shoeprize.com/raffles/92427</id>
-        <link href="https://www.shoeprize.com/raffles/92427"/>
-        <updated>2023-02-22T15:11:52.297Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 폼포짓 원 페니 PE]]></title>
-        <id>https://www.shoeprize.com/raffles/105608</id>
-        <link href="https://www.shoeprize.com/raffles/105608"/>
-        <updated>2023-02-22T15:11:52.297Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 하이 1985 알라바스터 우먼스 발렌타인 데이]]></title>
         <id>https://www.shoeprize.com/raffles/101705</id>
@@ -214,5 +193,26 @@
         <link href="https://www.shoeprize.com/raffles/100813"/>
         <updated>2023-02-22T22:09:42.204Z</updated>
         <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 포스 1 로우 우먼스 펜던트]]></title>
+        <id>https://www.shoeprize.com/raffles/101707</id>
+        <link href="https://www.shoeprize.com/raffles/101707"/>
+        <updated>2023-02-22T15:11:52.300Z</updated>
+        <content type="html"><![CDATA[ABC마트 그랜드스테이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 아일리시 x 조던 헥스 뮬 SP 우먼스 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/108174</id>
+        <link href="https://www.shoeprize.com/raffles/108174"/>
+        <updated>2023-02-22T15:11:52.302Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 아일리시 x 조던 우먼스 플리스 팬츠 (아시아)]]></title>
+        <id>https://www.shoeprize.com/raffles/108895</id>
+        <link href="https://www.shoeprize.com/raffles/108895"/>
+        <updated>2023-02-22T15:11:52.307Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
 </feed>
