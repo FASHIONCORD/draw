@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2023-02-24T09:12:04.446Z</updated>
+    <updated>2023-02-24T10:12:10.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.079Z</updated>
+        <updated>2023-02-24T10:11:31.598Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/99826">
         <div class="img_area">
           <picture>
@@ -41,7 +41,7 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.080Z</updated>
+        <updated>2023-02-24T10:11:31.598Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106142">
         <div class="img_area">
           <picture>
@@ -73,7 +73,71 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.082Z</updated>
+        <updated>2023-02-24T10:11:31.598Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/109301">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-JEAN-INDIGO-WASH-109301-1676946940422.jpg?w=600&amp;f=webp" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-JEAN-INDIGO-WASH-109301-1676946940422.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-JEAN-INDIGO-WASH-109301-1676946940422.jpg?w=600" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-JEAN-INDIGO-WASH-109301-1676946940422.jpg?w=600">
+            <img class="" src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-JEAN-INDIGO-WASH-109301-1676946940422.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-JEAN-INDIGO-WASH-109301-1676946940422.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="스투시 x 리바이스 1944 501 진 인디고 워시">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              LEVIS
+            </div>
+            <h3 class="title">
+              스투시 x 리바이스 1944 501 진 인디고 워시
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="109301">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.609Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/109302">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-TYPE-2-INDIGO-WASH-109302-1676946929512.jpg?w=600&amp;f=webp" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-TYPE-2-INDIGO-WASH-109302-1676946929512.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-TYPE-2-INDIGO-WASH-109302-1676946929512.jpg?w=600" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-TYPE-2-INDIGO-WASH-109302-1676946929512.jpg?w=600">
+            <img class="" src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-TYPE-2-INDIGO-WASH-109302-1676946929512.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-STUSSY-LEVIS-501-TYPE-2-INDIGO-WASH-109302-1676946929512.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="스투시 x 리바이스 타입 2 트러커 자켓 인디고 워시">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              LEVIS
+            </div>
+            <h3 class="title">
+              스투시 x 리바이스 타입 2 트러커 자켓 인디고 워시
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="109302">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.610Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109312">
         <div class="img_area">
           <picture>
@@ -102,16 +166,16 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.087Z</updated>
+        <updated>2023-02-24T10:11:31.612Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109311">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png?w=600&amp;f=webp" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png?w=600" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png?w=600">
-            <img class="" src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="팔라스 x 리복 클럽 C 미드 2 리벤지 블랙">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BLACK-109311-1676960318583.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="팔라스 x 리복 클럽 C 미드 2 리벤지 블랙">
           </picture>
         </div>
         
@@ -134,16 +198,16 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.088Z</updated>
+        <updated>2023-02-24T10:11:31.614Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109310">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png?w=600&amp;f=webp" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png?w=600" srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png?w=600">
-            <img class="" src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="팔라스 x 리복 클럽 C 미드 2 리벤지 브라운">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-PALACE-X-REEBOK-CLUB-C-MID-II-REVENGE-BROWN-109310-1676960275600.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="팔라스 x 리복 클럽 C 미드 2 리벤지 브라운">
           </picture>
         </div>
         
@@ -166,10 +230,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.090Z</updated>
+        <updated>2023-02-24T10:11:31.618Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109303">
         <div class="img_area">
           <picture>
@@ -198,96 +262,32 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.090Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/102423">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-LG2-BMCOWCB-shoeprize-UNDERMYCAR-LEGION.02-BALMACAAN-OVERSIZED-WOOL-COAT-BLACK-NEW-1667625209022.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-LG2-BMCOWCB-shoeprize-UNDERMYCAR-LEGION.02-BALMACAAN-OVERSIZED-WOOL-COAT-BLACK-NEW-1667625209022.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-LG2-BMCOWCB-shoeprize-UNDERMYCAR-LEGION.02-BALMACAAN-OVERSIZED-WOOL-COAT-BLACK-NEW-1667625209022.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 리전.02 발마칸 오버사이즈 울 코트 블랙">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              UNDERMYCAR
-            </div>
-            <h3 class="title">
-              언더마이카 리전.02 발마칸 오버사이즈 울 코트 블랙
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="102423">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.091Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/102424">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-LG3-SFBSWJG-shoeprize-UNDERMYCAR-LEGION.03-SLIM-FIT-BLUE-STITCH-WASHED-JEANS-GREY-NEW-1667626415843.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-LG3-SFBSWJG-shoeprize-UNDERMYCAR-LEGION.03-SLIM-FIT-BLUE-STITCH-WASHED-JEANS-GREY-NEW-1667626415843.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-LG3-SFBSWJG-shoeprize-UNDERMYCAR-LEGION.03-SLIM-FIT-BLUE-STITCH-WASHED-JEANS-GREY-NEW-1667626415843.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 리전.03 슬림 핏 블루 스티치 워시드 진 그레이">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              UNDERMYCAR
-            </div>
-            <h3 class="title">
-              언더마이카 리전.03 슬림 핏 블루 스티치 워시드 진 그레이
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="102424">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.092Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/103616">
+        <updated>2023-02-24T10:11:31.618Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/104018">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/UMC-04-MZBWS-BLC-shoeprize-UNDERMYCAR-LEGION.04-MULTI-ZIP-BAGGY-WIDE-SLACKS-BLACK-NEW-1669025132164.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/UMC-04-MZBWS-BLC-shoeprize-UNDERMYCAR-LEGION.04-MULTI-ZIP-BAGGY-WIDE-SLACKS-BLACK-NEW-1669025132164.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/UMC-04-MZBWS-BLC-shoeprize-UNDERMYCAR-LEGION.04-MULTI-ZIP-BAGGY-WIDE-SLACKS-BLACK-NEW-1669025132164.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 리전.04 멀티 집 배기 와이드 슬랙스 블랙">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FD9746-001-shoeprize-NIKE-DUNK-LOW-IRONSTONE-104018-1669437912169.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FD9746-001-shoeprize-NIKE-DUNK-LOW-IRONSTONE-104018-1669437912169.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FD9746-001-shoeprize-NIKE-DUNK-LOW-IRONSTONE-104018-1669437912169.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 덩크 로우 아이언스톤">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 리전.04 멀티 집 배기 와이드 슬랙스 블랙
+              나이키 덩크 로우 아이언스톤
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="103616">
+        <label class="btn_favorite type2" data-id="104018">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -297,29 +297,29 @@
         <title type="html"><![CDATA[9]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.093Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/106762">
+        <updated>2023-02-24T10:11:31.619Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/105384">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-LEGION.05-MULTI-SNAP-OVERSIZED-BOMBER-BLACK-NEW-1673842963942.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-LEGION.05-MULTI-SNAP-OVERSIZED-BOMBER-BLACK-NEW-1673842963942.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-LEGION.05-MULTI-SNAP-OVERSIZED-BOMBER-BLACK-NEW-1673842963942.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 리전.05 멀티 스냅 오버사이즈 봄버 블랙">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/M1906DA-shoeprize-NEW-BALANCE-1906D-PROTECTION-PACK-CASTLEROCK-105384-1672657656008.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/M1906DA-shoeprize-NEW-BALANCE-1906D-PROTECTION-PACK-CASTLEROCK-105384-1672657656008.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/M1906DA-shoeprize-NEW-BALANCE-1906D-PROTECTION-PACK-CASTLEROCK-105384-1672657656008.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 1906D 프로텍션 팩 캐슬락">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NEW BALANCE
             </div>
             <h3 class="title">
-              언더마이카 리전.05 멀티 스냅 오버사이즈 봄버 블랙
+              뉴발란스 1906D 프로텍션 팩 캐슬락
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="106762">
+        <label class="btn_favorite type2" data-id="105384">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -329,29 +329,29 @@
         <title type="html"><![CDATA[10]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.094Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/107550">
+        <updated>2023-02-24T10:11:31.621Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/101503">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-LEGION.06-MULTI-ZIPPER-POCKET-PANTS-BLACK-107550-1675067188165.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-LEGION.06-MULTI-ZIPPER-POCKET-PANTS-BLACK-107550-1675067188165.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-LEGION.06-MULTI-ZIPPER-POCKET-PANTS-BLACK-107550-1675067188165.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 리전.06 멀티 지퍼 포켓 팬츠 블랙">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FD0394-030-shoeprize-NIKE-TERMINATOR-HIGH-PANDA-101503-1670931203866.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FD0394-030-shoeprize-NIKE-TERMINATOR-HIGH-PANDA-101503-1670931203866.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FD0394-030-shoeprize-NIKE-TERMINATOR-HIGH-PANDA-101503-1670931203866.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 터미네이터 하이 블랙 앤 팬텀">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 리전.06 멀티 지퍼 포켓 팬츠 블랙
+              나이키 터미네이터 하이 블랙 앤 팬텀
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="107550">
+        <label class="btn_favorite type2" data-id="101503">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -361,29 +361,29 @@
         <title type="html"><![CDATA[11]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.095Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/102421">
+        <updated>2023-02-24T10:11:31.621Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/97111">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-BLMB-RR-shoeprize-UNDERMYCAR-BLACK-MAMBA-RUMBA-RED-SLIM-RED-STITCH-COATING-JEANS-NEW-1667623488120.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-BLMB-RR-shoeprize-UNDERMYCAR-BLACK-MAMBA-RUMBA-RED-SLIM-RED-STITCH-COATING-JEANS-NEW-1667623488120.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-BLMB-RR-shoeprize-UNDERMYCAR-BLACK-MAMBA-RUMBA-RED-SLIM-RED-STITCH-COATING-JEANS-NEW-1667623488120.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 블랙 맘바 럼바 레드 슬림 핏 레드 스티치 왁스 코팅 진">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV2619-100-shoeprize-NIKE-AIR-MAX-97-AIR-PRESSURE-97111-1677000161735.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV2619-100-shoeprize-NIKE-AIR-MAX-97-AIR-PRESSURE-97111-1677000161735.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV2619-100-shoeprize-NIKE-AIR-MAX-97-AIR-PRESSURE-97111-1677000161735.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 에어 맥스 97 SE 서밋 화이트 세이프티 오렌지">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 블랙 맘바 럼바 레드 슬림 핏 레드 스티치 왁스 코팅 진
+              나이키 에어 맥스 97 SE 서밋 화이트 세이프티 오렌지
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="102421">
+        <label class="btn_favorite type2" data-id="97111">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -393,29 +393,29 @@
         <title type="html"><![CDATA[12]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.096Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/102420">
+        <updated>2023-02-24T10:11:31.622Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/101048">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-KMAFTMDNT-shoeprize-UNDERMYCAR-KAME-AFTER-MIDNIGHT-MULTI-ZIP-TURTLE-SHELL-PARKA-NEW-1667623111177.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-KMAFTMDNT-shoeprize-UNDERMYCAR-KAME-AFTER-MIDNIGHT-MULTI-ZIP-TURTLE-SHELL-PARKA-NEW-1667623111177.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-KMAFTMDNT-shoeprize-UNDERMYCAR-KAME-AFTER-MIDNIGHT-MULTI-ZIP-TURTLE-SHELL-PARKA-NEW-1667623111177.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 카메 애프터 미드나잇 멀티 집 터틀 쉘 파카">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/553560-412-shoeprize-AIR-JORDAN-1-LOW-GS-TRUE-BLUE-101048-1672802546408.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/553560-412-shoeprize-AIR-JORDAN-1-LOW-GS-TRUE-BLUE-101048-1672802546408.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/553560-412-shoeprize-AIR-JORDAN-1-LOW-GS-TRUE-BLUE-101048-1672802546408.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="에어 조던 1 로우 GS 트루 블루">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              JORDAN
             </div>
             <h3 class="title">
-              언더마이카 카메 애프터 미드나잇 멀티 집 터틀 쉘 파카
+              에어 조던 1 로우 GS 트루 블루
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="102420">
+        <label class="btn_favorite type2" data-id="101048">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -425,29 +425,29 @@
         <title type="html"><![CDATA[13]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.097Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/109257">
+        <updated>2023-02-24T10:11:31.623Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/100000">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-MULTI-ZIP-TURTLE-SHELL-PARKA-KAME-HOT-ROD-109257-1676864804692.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-MULTI-ZIP-TURTLE-SHELL-PARKA-KAME-HOT-ROD-109257-1676864804692.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-MULTI-ZIP-TURTLE-SHELL-PARKA-KAME-HOT-ROD-109257-1676864804692.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 멀티 집 터틀 쉘 파카 카메 핫 로드">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV1160-101-shoeprize-NIKE-DUNK-LOW-TEAM-RED-100000-1664468563662.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV1160-101-shoeprize-NIKE-DUNK-LOW-TEAM-RED-100000-1664468563662.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV1160-101-shoeprize-NIKE-DUNK-LOW-TEAM-RED-100000-1664468563662.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 덩크 로우 SE 우먼스 세일 무슬린 팀 레드">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 멀티 집 터틀 쉘 파카 카메 핫 로드
+              나이키 덩크 로우 SE 우먼스 세일 무슬린 팀 레드
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="109257">
+        <label class="btn_favorite type2" data-id="100000">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -457,29 +457,29 @@
         <title type="html"><![CDATA[14]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.098Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/109258">
+        <updated>2023-02-24T10:11:31.623Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/109627">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/22FWUMCMJAV-shoeprize-UNDERMYCAR-MAJANNE-AGAVE-MULTI-BUTTON-OVERSIZED-WOOL-COAT-109258-1676870196606.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/22FWUMCMJAV-shoeprize-UNDERMYCAR-MAJANNE-AGAVE-MULTI-BUTTON-OVERSIZED-WOOL-COAT-109258-1676870196606.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/22FWUMCMJAV-shoeprize-UNDERMYCAR-MAJANNE-AGAVE-MULTI-BUTTON-OVERSIZED-WOOL-COAT-109258-1676870196606.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 마제인 어가비 멀티 버튼 오버사이즈 울 코트">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DH1537-102-shoeprize-NIKE-COSMIC-UNITY-2-COCONUT-MILK-TEAM-RED-NEW-1677231363778.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DH1537-102-shoeprize-NIKE-COSMIC-UNITY-2-COCONUT-MILK-TEAM-RED-NEW-1677231363778.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DH1537-102-shoeprize-NIKE-COSMIC-UNITY-2-COCONUT-MILK-TEAM-RED-NEW-1677231363778.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 코스믹 유니티 2 코코넛 밀크 팀 레드">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 마제인 어가비 멀티 버튼 오버사이즈 울 코트
+              나이키 코스믹 유니티 2 코코넛 밀크 팀 레드
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="109258">
+        <label class="btn_favorite type2" data-id="109627">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -489,29 +489,29 @@
         <title type="html"><![CDATA[15]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.098Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/106186">
+        <updated>2023-02-24T10:11:31.624Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/104018">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/22FWUMCMJKP-shoeprize-UNDERMYCAR-MAJANNE-KELP-MULTI-BUTTON-OVERSIZED-WOOL-COAT-106186-1676870307901.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/22FWUMCMJKP-shoeprize-UNDERMYCAR-MAJANNE-KELP-MULTI-BUTTON-OVERSIZED-WOOL-COAT-106186-1676870307901.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/22FWUMCMJKP-shoeprize-UNDERMYCAR-MAJANNE-KELP-MULTI-BUTTON-OVERSIZED-WOOL-COAT-106186-1676870307901.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 마제인 켈프 멀티 버튼 오버사이즈 울 코트">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FD9746-001-shoeprize-NIKE-DUNK-LOW-IRONSTONE-104018-1669437912169.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FD9746-001-shoeprize-NIKE-DUNK-LOW-IRONSTONE-104018-1669437912169.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FD9746-001-shoeprize-NIKE-DUNK-LOW-IRONSTONE-104018-1669437912169.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 덩크 로우 아이언스톤">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 마제인 켈프 멀티 버튼 오버사이즈 울 코트
+              나이키 덩크 로우 아이언스톤
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="106186">
+        <label class="btn_favorite type2" data-id="104018">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -521,29 +521,29 @@
         <title type="html"><![CDATA[16]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.099Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/102418">
+        <updated>2023-02-24T10:11:31.625Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/105384">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-RL-DG-shoeprize-UNDERMYCAR-RUMLOW-DARK-GULL-BACK-ZIP-COTTON-GARMENT-BOMBER-NEW-1667622383555.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-RL-DG-shoeprize-UNDERMYCAR-RUMLOW-DARK-GULL-BACK-ZIP-COTTON-GARMENT-BOMBER-NEW-1667622383555.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/TBA-UMC-RL-DG-shoeprize-UNDERMYCAR-RUMLOW-DARK-GULL-BACK-ZIP-COTTON-GARMENT-BOMBER-NEW-1667622383555.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 럼로우 다크 굴 백 집 코튼 가먼트 봄버">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/M1906DA-shoeprize-NEW-BALANCE-1906D-PROTECTION-PACK-CASTLEROCK-105384-1672657656008.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/M1906DA-shoeprize-NEW-BALANCE-1906D-PROTECTION-PACK-CASTLEROCK-105384-1672657656008.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/M1906DA-shoeprize-NEW-BALANCE-1906D-PROTECTION-PACK-CASTLEROCK-105384-1672657656008.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 1906D 프로텍션 팩 캐슬락">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NEW BALANCE
             </div>
             <h3 class="title">
-              언더마이카 럼로우 다크 굴 백 집 코튼 가먼트 봄버
+              뉴발란스 1906D 프로텍션 팩 캐슬락
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="102418">
+        <label class="btn_favorite type2" data-id="105384">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -553,29 +553,29 @@
         <title type="html"><![CDATA[17]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.100Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/107552">
+        <updated>2023-02-24T10:11:31.625Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/101503">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-ECDYSIS--OBSIDIAN-107552-1675067173803.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-ECDYSIS--OBSIDIAN-107552-1675067173803.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-ECDYSIS--OBSIDIAN-107552-1675067173803.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 엑디시스 디스트로이드 왁스 코팅 진 위드 코닉 섹션 옵시디언">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FD0394-030-shoeprize-NIKE-TERMINATOR-HIGH-PANDA-101503-1670931203866.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FD0394-030-shoeprize-NIKE-TERMINATOR-HIGH-PANDA-101503-1670931203866.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FD0394-030-shoeprize-NIKE-TERMINATOR-HIGH-PANDA-101503-1670931203866.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 터미네이터 하이 블랙 앤 팬텀">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 엑디시스 디스트로이드 왁스 코팅 진 위드 코닉 섹션 옵시디언
+              나이키 터미네이터 하이 블랙 앤 팬텀
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="107552">
+        <label class="btn_favorite type2" data-id="101503">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -585,29 +585,29 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.101Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/107557">
+        <updated>2023-02-24T10:11:31.628Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/97111">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-ETLE-SLIM-FIT-GLOSSY-FILM-COATED-JEANS-BLACK-INK-107557-1675843951449.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-ETLE-SLIM-FIT-GLOSSY-FILM-COATED-JEANS-BLACK-INK-107557-1675843951449.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-ETLE-SLIM-FIT-GLOSSY-FILM-COATED-JEANS-BLACK-INK-107557-1675843951449.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 에틀레 슬림 핏 글로시 필름 코팅 진 블랙 잉크">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV2619-100-shoeprize-NIKE-AIR-MAX-97-AIR-PRESSURE-97111-1677000161735.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV2619-100-shoeprize-NIKE-AIR-MAX-97-AIR-PRESSURE-97111-1677000161735.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV2619-100-shoeprize-NIKE-AIR-MAX-97-AIR-PRESSURE-97111-1677000161735.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 에어 맥스 97 SE 서밋 화이트 세이프티 오렌지">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              NIKE
             </div>
             <h3 class="title">
-              언더마이카 에틀레 슬림 핏 글로시 필름 코팅 진 블랙 잉크
+              나이키 에어 맥스 97 SE 서밋 화이트 세이프티 오렌지
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="107557">
+        <label class="btn_favorite type2" data-id="97111">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -617,29 +617,29 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.102Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/106180">
+        <updated>2023-02-24T10:11:31.629Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/101048">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-OVERSIZED-DAMAGE-WAHSED-HOOD-ZIP-UP-106180-1672896490868.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-OVERSIZED-DAMAGE-WAHSED-HOOD-ZIP-UP-106180-1672896490868.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/-shoeprize-UNDERMYCAR-OVERSIZED-DAMAGE-WAHSED-HOOD-ZIP-UP-106180-1672896490868.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="언더마이카 오터 세피아 오버사이즈 데미지 워시드 후드 집업">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/553560-412-shoeprize-AIR-JORDAN-1-LOW-GS-TRUE-BLUE-101048-1672802546408.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/553560-412-shoeprize-AIR-JORDAN-1-LOW-GS-TRUE-BLUE-101048-1672802546408.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/553560-412-shoeprize-AIR-JORDAN-1-LOW-GS-TRUE-BLUE-101048-1672802546408.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="에어 조던 1 로우 GS 트루 블루">
           </picture>
         </div>
         
         <div class="info_area">
           <div class="product_info">
             <div class="brand">
-              UNDERMYCAR
+              JORDAN
             </div>
             <h3 class="title">
-              언더마이카 오터 세피아 오버사이즈 데미지 워시드 후드 집업
+              에어 조던 1 로우 GS 트루 블루
             </h3>
           </div>
         </div>
       </a>
       <div class="btn_area">
-        <label class="btn_favorite type2" data-id="106180">
+        <label class="btn_favorite type2" data-id="101048">
           <input type="checkbox">
           <span class="icon"></span>
         </label>
@@ -649,7 +649,135 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.102Z</updated>
+        <updated>2023-02-24T10:11:31.630Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/100000">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV1160-101-shoeprize-NIKE-DUNK-LOW-TEAM-RED-100000-1664468563662.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV1160-101-shoeprize-NIKE-DUNK-LOW-TEAM-RED-100000-1664468563662.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV1160-101-shoeprize-NIKE-DUNK-LOW-TEAM-RED-100000-1664468563662.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 덩크 로우 SE 우먼스 세일 무슬린 팀 레드">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NIKE
+            </div>
+            <h3 class="title">
+              나이키 덩크 로우 SE 우먼스 세일 무슬린 팀 레드
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="100000">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.630Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/109627">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DH1537-102-shoeprize-NIKE-COSMIC-UNITY-2-COCONUT-MILK-TEAM-RED-NEW-1677231363778.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DH1537-102-shoeprize-NIKE-COSMIC-UNITY-2-COCONUT-MILK-TEAM-RED-NEW-1677231363778.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DH1537-102-shoeprize-NIKE-COSMIC-UNITY-2-COCONUT-MILK-TEAM-RED-NEW-1677231363778.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 코스믹 유니티 2 코코넛 밀크 팀 레드">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NIKE
+            </div>
+            <h3 class="title">
+              나이키 코스믹 유니티 2 코코넛 밀크 팀 레드
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="109627">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.631Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/101118">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV7003-100-shoeprize-NIKE-BLAZER-MID-HANG-TAG-HOLSTER-101118-1674797535205.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV7003-100-shoeprize-NIKE-BLAZER-MID-HANG-TAG-HOLSTER-101118-1674797535205.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV7003-100-shoeprize-NIKE-BLAZER-MID-HANG-TAG-HOLSTER-101118-1674797535205.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 블레이저 미드 행 태그 홀스터">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NIKE
+            </div>
+            <h3 class="title">
+              나이키 블레이저 미드 행 태그 홀스터
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="101118">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.632Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/101707">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV7584-001-shoeprize-NIKE-AIR-FORCE-1-LOW-HANGTAG-HOLSTER-101707-1674797450691.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV7584-001-shoeprize-NIKE-AIR-FORCE-1-LOW-HANGTAG-HOLSTER-101707-1674797450691.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV7584-001-shoeprize-NIKE-AIR-FORCE-1-LOW-HANGTAG-HOLSTER-101707-1674797450691.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 에어 포스 1 로우 우먼스 펜던트">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NIKE
+            </div>
+            <h3 class="title">
+              나이키 에어 포스 1 로우 우먼스 펜던트
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="101707">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.632Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/101124">
         <div class="img_area">
           <picture>
@@ -678,10 +806,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[25]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.103Z</updated>
+        <updated>2023-02-24T10:11:31.635Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/105360">
         <div class="img_area">
           <picture>
@@ -710,10 +838,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
+        <title type="html"><![CDATA[26]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.104Z</updated>
+        <updated>2023-02-24T10:11:31.636Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/100816">
         <div class="img_area">
           <picture>
@@ -742,10 +870,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23]]></title>
+        <title type="html"><![CDATA[27]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.111Z</updated>
+        <updated>2023-02-24T10:11:31.637Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/105391">
         <div class="img_area">
           <picture>
@@ -774,10 +902,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[24]]></title>
+        <title type="html"><![CDATA[28]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.115Z</updated>
+        <updated>2023-02-24T10:11:31.639Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/96737">
         <div class="img_area">
           <picture>
@@ -806,10 +934,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25]]></title>
+        <title type="html"><![CDATA[29]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.117Z</updated>
+        <updated>2023-02-24T10:11:31.640Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104977">
         <div class="img_area">
           <picture>
@@ -838,10 +966,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[26]]></title>
+        <title type="html"><![CDATA[30]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.118Z</updated>
+        <updated>2023-02-24T10:11:31.640Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/105335">
         <div class="img_area">
           <picture>
@@ -870,10 +998,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[27]]></title>
+        <title type="html"><![CDATA[31]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.120Z</updated>
+        <updated>2023-02-24T10:11:31.641Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108876">
         <div class="img_area">
           <picture>
@@ -902,10 +1030,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28]]></title>
+        <title type="html"><![CDATA[32]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.121Z</updated>
+        <updated>2023-02-24T10:11:31.643Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/103042">
         <div class="img_area">
           <picture>
@@ -934,10 +1062,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29]]></title>
+        <title type="html"><![CDATA[33]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.121Z</updated>
+        <updated>2023-02-24T10:11:31.644Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/96734">
         <div class="img_area">
           <picture>
@@ -966,330 +1094,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.122Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/104482">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FD1449-100-shoeprize-NIKE-DUNK-LOW-WMNS-MEDIUM-SOFT-PINK-104482-1674578948857.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FD1449-100-shoeprize-NIKE-DUNK-LOW-WMNS-MEDIUM-SOFT-PINK-104482-1674578948857.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FD1449-100-shoeprize-NIKE-DUNK-LOW-WMNS-MEDIUM-SOFT-PINK-104482-1674578948857.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 덩크 로우 우먼스 미디엄 소프트 핑크">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NIKE
-            </div>
-            <h3 class="title">
-              나이키 덩크 로우 우먼스 미디엄 소프트 핑크
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="104482">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.123Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/99876">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV0831-002-shoeprize-NIKE-DUNK-LOW-BLACK-WHITE-99876-1674702835942.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV0831-002-shoeprize-NIKE-DUNK-LOW-BLACK-WHITE-99876-1674702835942.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV0831-002-shoeprize-NIKE-DUNK-LOW-BLACK-WHITE-99876-1674702835942.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 덩크 로우 레트로 블랙 화이트">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NIKE
-            </div>
-            <h3 class="title">
-              나이키 덩크 로우 레트로 블랙 화이트
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="99876">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.123Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/109338">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/BB550LSC-shoeprize-NEW-BALANCE-550-WHITE-SEPIA-NEW-1676995259826.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/BB550LSC-shoeprize-NEW-BALANCE-550-WHITE-SEPIA-NEW-1676995259826.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/BB550LSC-shoeprize-NEW-BALANCE-550-WHITE-SEPIA-NEW-1676995259826.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 550 화이트 세피아">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NEW BALANCE
-            </div>
-            <h3 class="title">
-              뉴발란스 550 화이트 세피아
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="109338">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.124Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/107258">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/BB550LSB-shoeprize-NEW-BALANCE-550-WHITE-BLUE-HAZE-107258-1677210510297.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/BB550LSB-shoeprize-NEW-BALANCE-550-WHITE-BLUE-HAZE-107258-1677210510297.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/BB550LSB-shoeprize-NEW-BALANCE-550-WHITE-BLUE-HAZE-107258-1677210510297.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 550 화이트 블루 헤이즈">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NEW BALANCE
-            </div>
-            <h3 class="title">
-              뉴발란스 550 화이트 블루 헤이즈
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="107258">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[34]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.132Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/107424">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/GY7339-shoeprize-ADIDAS-ORIGINALS-GAZELLE-PRELOVED-RED-CREAM-WHITE-107424-1676350559960.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/GY7339-shoeprize-ADIDAS-ORIGINALS-GAZELLE-PRELOVED-RED-CREAM-WHITE-107424-1676350559960.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/GY7339-shoeprize-ADIDAS-ORIGINALS-GAZELLE-PRELOVED-RED-CREAM-WHITE-107424-1676350559960.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 가젤 프리 러브드 레드 크림 화이트">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              ADIDAS ORIGINALS
-            </div>
-            <h3 class="title">
-              아디다스 오리지널스 가젤 프리 러브드 레드 크림 화이트
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="107424">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.134Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/86429">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/BB5478-shoeprize-ADIDAS-ORIGINALS-GAZELLE-COLLEGIATE-NAVY-86429-1666662737205.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/BB5478-shoeprize-ADIDAS-ORIGINALS-GAZELLE-COLLEGIATE-NAVY-86429-1666662737205.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/BB5478-shoeprize-ADIDAS-ORIGINALS-GAZELLE-COLLEGIATE-NAVY-86429-1666662737205.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 가젤 컬리지에이트 네이비">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              ADIDAS ORIGINALS
-            </div>
-            <h3 class="title">
-              아디다스 오리지널스 가젤 컬리지에이트 네이비
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="86429">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[36]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.135Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/86592">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/BB5476-shoeprize-ADIDAS-ORIGINALS-GAZELLE-CORE-BLACK-86592-1666697792275.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/BB5476-shoeprize-ADIDAS-ORIGINALS-GAZELLE-CORE-BLACK-86592-1666697792275.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/BB5476-shoeprize-ADIDAS-ORIGINALS-GAZELLE-CORE-BLACK-86592-1666697792275.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 가젤 코어 블랙">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              ADIDAS ORIGINALS
-            </div>
-            <h3 class="title">
-              아디다스 오리지널스 가젤 코어 블랙
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="86592">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[37]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.137Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/99969">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/BB5480-shoeprize-Adidas-Gazelle-Solid-Grey-NEW-1664329095133.png?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/BB5480-shoeprize-Adidas-Gazelle-Solid-Grey-NEW-1664329095133.png?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/BB5480-shoeprize-Adidas-Gazelle-Solid-Grey-NEW-1664329095133.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 가젤 솔리드 그레이">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              ADIDAS ORIGINALS
-            </div>
-            <h3 class="title">
-              아디다스 오리지널스 가젤 솔리드 그레이
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="99969">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[38]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.138Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/83456">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/B41645-shoeprize-ADIDAS-ORIGINALS-GAZELLE-COLLEGIATE-BURGUNDY-83456-1676351343195.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/B41645-shoeprize-ADIDAS-ORIGINALS-GAZELLE-COLLEGIATE-BURGUNDY-83456-1676351343195.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/B41645-shoeprize-ADIDAS-ORIGINALS-GAZELLE-COLLEGIATE-BURGUNDY-83456-1676351343195.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 가젤 칼리지에이트 버건디">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              ADIDAS ORIGINALS
-            </div>
-            <h3 class="title">
-              아디다스 오리지널스 가젤 칼리지에이트 버건디
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="83456">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[39]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.139Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/109558">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DZ3406-100-shoeprize-NIKE-NIKE-SB-BLAZER-LOW-X-DOYENNE-COCONUT-MILK-AND-RATTAN-109558-1677224156217.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DZ3406-100-shoeprize-NIKE-NIKE-SB-BLAZER-LOW-X-DOYENNE-COCONUT-MILK-AND-RATTAN-109558-1677224156217.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DZ3406-100-shoeprize-NIKE-NIKE-SB-BLAZER-LOW-X-DOYENNE-COCONUT-MILK-AND-RATTAN-109558-1677224156217.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="도옌 x 나이키 SB 블레이저 로우 코코넛 밀크 앤 라탄">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NIKE SB
-            </div>
-            <h3 class="title">
-              도옌 x 나이키 SB 블레이저 로우 코코넛 밀크 앤 라탄
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="109558">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.144Z</updated>
+        <updated>2023-02-24T10:11:31.645Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109302">
         <div class="img_area">
           <picture>
@@ -1322,10 +1130,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[41]]></title>
+        <title type="html"><![CDATA[35]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.145Z</updated>
+        <updated>2023-02-24T10:11:31.645Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109301">
         <div class="img_area">
           <picture>
@@ -1358,10 +1166,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[42]]></title>
+        <title type="html"><![CDATA[36]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.145Z</updated>
+        <updated>2023-02-24T10:11:31.646Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/99826">
         <div class="img_area">
           <picture>
@@ -1394,10 +1202,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[43]]></title>
+        <title type="html"><![CDATA[37]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.146Z</updated>
+        <updated>2023-02-24T10:11:31.647Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108356">
         <div class="img_area">
           <picture>
@@ -1430,46 +1238,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[44]]></title>
+        <title type="html"><![CDATA[38]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.147Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/96734">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DQ8426-060-shoeprize-AIR-JORDAN-1-MID-ALTERNATE-BRED-96734-1665540710752.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DQ8426-060-shoeprize-AIR-JORDAN-1-MID-ALTERNATE-BRED-96734-1665540710752.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DQ8426-060-shoeprize-AIR-JORDAN-1-MID-ALTERNATE-BRED-96734-1665540710752.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="에어 조던 1 미드 얼터네이트 브레드">
-          </picture>
-        </div>
-        
-          <div class="rank_count">
-            <div class="num">5</div>
-            <span class="flag up">2</span>
-          </div>
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              JORDAN
-            </div>
-            <h3 class="title">
-              에어 조던 1 미드 얼터네이트 브레드
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="96734">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.148Z</updated>
+        <updated>2023-02-24T10:11:31.647Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104051">
         <div class="img_area">
           <picture>
@@ -1480,8 +1252,8 @@
         </div>
         
           <div class="rank_count">
-            <div class="num">6</div>
-            <span class="flag same"></span>
+            <div class="num">5</div>
+            <span class="flag up">1</span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -1502,10 +1274,46 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[46]]></title>
+        <title type="html"><![CDATA[39]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.148Z</updated>
+        <updated>2023-02-24T10:11:31.648Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/96734">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DQ8426-060-shoeprize-AIR-JORDAN-1-MID-ALTERNATE-BRED-96734-1665540710752.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DQ8426-060-shoeprize-AIR-JORDAN-1-MID-ALTERNATE-BRED-96734-1665540710752.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DQ8426-060-shoeprize-AIR-JORDAN-1-MID-ALTERNATE-BRED-96734-1665540710752.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="에어 조던 1 미드 얼터네이트 브레드">
+          </picture>
+        </div>
+        
+          <div class="rank_count">
+            <div class="num">6</div>
+            <span class="flag down">1</span>
+          </div>
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              JORDAN
+            </div>
+            <h3 class="title">
+              에어 조던 1 미드 얼터네이트 브레드
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="96734">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.649Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106692">
         <div class="img_area">
           <picture>
@@ -1517,7 +1325,7 @@
         
           <div class="rank_count">
             <div class="num">7</div>
-            <span class="flag up">1</span>
+            <span class="flag same"></span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -1538,10 +1346,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[47]]></title>
+        <title type="html"><![CDATA[41]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.149Z</updated>
+        <updated>2023-02-24T10:11:31.649Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104482">
         <div class="img_area">
           <picture>
@@ -1553,7 +1361,7 @@
         
           <div class="rank_count">
             <div class="num">8</div>
-            <span class="flag up">1</span>
+            <span class="flag same"></span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -1574,22 +1382,58 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[48]]></title>
+        <title type="html"><![CDATA[42]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.150Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/109616">
+        <updated>2023-02-24T10:11:31.650Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/108180">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/HP9085-shoeprize-ADIDAS-ORIGINALS-SAMBA-ADV-CARDBOARD-109616-1677223967570.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/HP9085-shoeprize-ADIDAS-ORIGINALS-SAMBA-ADV-CARDBOARD-109616-1677223967570.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/HP9085-shoeprize-ADIDAS-ORIGINALS-SAMBA-ADV-CARDBOARD-109616-1677223967570.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 삼바 ADV 카드보드">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FD6951-300-shoeprize-NIKE-SB-DUNK-LOW-DECON-N7-108180-1677218263663.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FD6951-300-shoeprize-NIKE-SB-DUNK-LOW-DECON-N7-108180-1677218263663.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FD6951-300-shoeprize-NIKE-SB-DUNK-LOW-DECON-N7-108180-1677218263663.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 SB 덩크 로우 데콘 N7">
           </picture>
         </div>
         
           <div class="rank_count">
             <div class="num">9</div>
-            <span class="flag up">155</span>
+            <span class="flag new">NEW</span>
+          </div>
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NIKE SB
+            </div>
+            <h3 class="title">
+              나이키 SB 덩크 로우 데콘 N7
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="108180">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-02-24T10:11:31.651Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/109616">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/HP9085-shoeprize-ADIDAS-ORIGINALS-SAMBA-ADV-CARDBOARD-109616-1677232632923.jpg?w=600&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/HP9085-shoeprize-ADIDAS-ORIGINALS-SAMBA-ADV-CARDBOARD-109616-1677232632923.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/HP9085-shoeprize-ADIDAS-ORIGINALS-SAMBA-ADV-CARDBOARD-109616-1677232632923.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 삼바 ADV 카드보드">
+          </picture>
+        </div>
+        
+          <div class="rank_count">
+            <div class="num">10</div>
+            <span class="flag down">1</span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -1610,46 +1454,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[49]]></title>
+        <title type="html"><![CDATA[44]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.151Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/107203">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DZ1382-001-shoeprize-TIFFANY--CO.-X-NIKE-AIR-FORCE-1-LOW-107203-1676818194667.jpg?w=600&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DZ1382-001-shoeprize-TIFFANY--CO.-X-NIKE-AIR-FORCE-1-LOW-107203-1676818194667.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DZ1382-001-shoeprize-TIFFANY--CO.-X-NIKE-AIR-FORCE-1-LOW-107203-1676818194667.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="티파니앤코 x 나이키 에어 포스 1 로우 1837">
-          </picture>
-        </div>
-        
-          <div class="rank_count">
-            <div class="num">10</div>
-            <span class="flag down">5</span>
-          </div>
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NIKE
-            </div>
-            <h3 class="title">
-              티파니앤코 x 나이키 에어 포스 1 로우 1837
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="107203">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.152Z</updated>
+        <updated>2023-02-24T10:11:31.652Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/99826">
         <div class="img_area">
           <picture>
@@ -1667,8 +1475,8 @@
               에어 조던 1 하이 OG 화이트 시멘트
             </h3>
             <div class="detail_info">
-              <span class="info">발매처 16</span>
-              <span class="info">조회수 10,342</span>
+              <span class="info">발매처 17</span>
+              <span class="info">조회수 10,454</span>
             </div>
           </div>
           <div class="date_info">
@@ -1685,10 +1493,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[51]]></title>
+        <title type="html"><![CDATA[45]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.153Z</updated>
+        <updated>2023-02-24T10:11:31.652Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/101503">
         <div class="img_area">
           <picture>
@@ -1706,8 +1514,8 @@
               나이키 터미네이터 하이 블랙 앤 팬텀
             </h3>
             <div class="detail_info">
-              <span class="info">발매처 12</span>
-              <span class="info">조회수 6,675</span>
+              <span class="info">발매처 13</span>
+              <span class="info">조회수 6,689</span>
             </div>
           </div>
           <div class="date_info">
@@ -1724,10 +1532,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[52]]></title>
+        <title type="html"><![CDATA[46]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.154Z</updated>
+        <updated>2023-02-24T10:11:31.653Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/101172">
         <div class="img_area">
           <picture>
@@ -1746,7 +1554,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 14</span>
-              <span class="info">조회수 5,054</span>
+              <span class="info">조회수 5,082</span>
             </div>
           </div>
           <div class="date_info">
@@ -1763,10 +1571,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[53]]></title>
+        <title type="html"><![CDATA[47]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.156Z</updated>
+        <updated>2023-02-24T10:11:31.654Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106104">
         <div class="img_area">
           <picture>
@@ -1785,7 +1593,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 10</span>
-              <span class="info">조회수 4,431</span>
+              <span class="info">조회수 4,464</span>
             </div>
           </div>
           <div class="date_info">
@@ -1802,10 +1610,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[54]]></title>
+        <title type="html"><![CDATA[48]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.157Z</updated>
+        <updated>2023-02-24T10:11:31.654Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108356">
         <div class="img_area">
           <picture>
@@ -1824,7 +1632,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 3,445</span>
+              <span class="info">조회수 3,493</span>
             </div>
           </div>
           <div class="date_info">
@@ -1841,10 +1649,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[55]]></title>
+        <title type="html"><![CDATA[49]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.159Z</updated>
+        <updated>2023-02-24T10:11:31.656Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108712">
         <div class="img_area">
           <picture>
@@ -1863,7 +1671,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 12</span>
-              <span class="info">조회수 1,729</span>
+              <span class="info">조회수 1,739</span>
             </div>
           </div>
           <div class="date_info">
@@ -1880,10 +1688,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[56]]></title>
+        <title type="html"><![CDATA[50]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.160Z</updated>
+        <updated>2023-02-24T10:11:31.657Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108905">
         <div class="img_area">
           <picture>
@@ -1902,7 +1710,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 943</span>
+              <span class="info">조회수 955</span>
             </div>
           </div>
           <div class="date_info">
@@ -1919,10 +1727,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[57]]></title>
+        <title type="html"><![CDATA[51]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.161Z</updated>
+        <updated>2023-02-24T10:11:31.658Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108945">
         <div class="img_area">
           <picture>
@@ -1941,7 +1749,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 920</span>
+              <span class="info">조회수 930</span>
             </div>
           </div>
           <div class="date_info">
@@ -1958,10 +1766,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[58]]></title>
+        <title type="html"><![CDATA[52]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.163Z</updated>
+        <updated>2023-02-24T10:11:31.660Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108518">
         <div class="img_area">
           <picture>
@@ -1980,7 +1788,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 900</span>
+              <span class="info">조회수 905</span>
             </div>
           </div>
           <div class="date_info">
@@ -1997,10 +1805,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[59]]></title>
+        <title type="html"><![CDATA[53]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.164Z</updated>
+        <updated>2023-02-24T10:11:31.661Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109247">
         <div class="img_area">
           <picture>
@@ -2019,7 +1827,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 897</span>
+              <span class="info">조회수 904</span>
             </div>
           </div>
           <div class="date_info">
@@ -2036,10 +1844,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[60]]></title>
+        <title type="html"><![CDATA[54]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.165Z</updated>
+        <updated>2023-02-24T10:11:31.662Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108514">
         <div class="img_area">
           <picture>
@@ -2058,7 +1866,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 775</span>
+              <span class="info">조회수 779</span>
             </div>
           </div>
           <div class="date_info">
@@ -2075,10 +1883,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[61]]></title>
+        <title type="html"><![CDATA[55]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.167Z</updated>
+        <updated>2023-02-24T10:11:31.664Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108906">
         <div class="img_area">
           <picture>
@@ -2097,7 +1905,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 661</span>
+              <span class="info">조회수 665</span>
             </div>
           </div>
           <div class="date_info">
@@ -2114,10 +1922,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[62]]></title>
+        <title type="html"><![CDATA[56]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.168Z</updated>
+        <updated>2023-02-24T10:11:31.665Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104450">
         <div class="img_area">
           <picture>
@@ -2136,7 +1944,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 609</span>
+              <span class="info">조회수 611</span>
             </div>
           </div>
           <div class="date_info">
@@ -2153,10 +1961,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[63]]></title>
+        <title type="html"><![CDATA[57]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.170Z</updated>
+        <updated>2023-02-24T10:11:31.666Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108516">
         <div class="img_area">
           <picture>
@@ -2175,7 +1983,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 571</span>
+              <span class="info">조회수 573</span>
             </div>
           </div>
           <div class="date_info">
@@ -2192,10 +2000,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[64]]></title>
+        <title type="html"><![CDATA[58]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.171Z</updated>
+        <updated>2023-02-24T10:11:31.668Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108916">
         <div class="img_area">
           <picture>
@@ -2214,7 +2022,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 3</span>
-              <span class="info">조회수 544</span>
+              <span class="info">조회수 551</span>
             </div>
           </div>
           <div class="date_info">
@@ -2231,10 +2039,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[65]]></title>
+        <title type="html"><![CDATA[59]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.172Z</updated>
+        <updated>2023-02-24T10:11:31.669Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108915">
         <div class="img_area">
           <picture>
@@ -2253,7 +2061,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 3</span>
-              <span class="info">조회수 535</span>
+              <span class="info">조회수 539</span>
             </div>
           </div>
           <div class="date_info">
@@ -2270,10 +2078,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[66]]></title>
+        <title type="html"><![CDATA[60]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.173Z</updated>
+        <updated>2023-02-24T10:11:31.670Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108519">
         <div class="img_area">
           <picture>
@@ -2292,7 +2100,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 534</span>
+              <span class="info">조회수 536</span>
             </div>
           </div>
           <div class="date_info">
@@ -2309,10 +2117,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[67]]></title>
+        <title type="html"><![CDATA[61]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.175Z</updated>
+        <updated>2023-02-24T10:11:31.672Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108910">
         <div class="img_area">
           <picture>
@@ -2331,7 +2139,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 517</span>
+              <span class="info">조회수 519</span>
             </div>
           </div>
           <div class="date_info">
@@ -2348,10 +2156,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[68]]></title>
+        <title type="html"><![CDATA[62]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.176Z</updated>
+        <updated>2023-02-24T10:11:31.673Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108913">
         <div class="img_area">
           <picture>
@@ -2370,7 +2178,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 516</span>
+              <span class="info">조회수 518</span>
             </div>
           </div>
           <div class="date_info">
@@ -2387,10 +2195,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[69]]></title>
+        <title type="html"><![CDATA[63]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.178Z</updated>
+        <updated>2023-02-24T10:11:31.678Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108446">
         <div class="img_area">
           <picture>
@@ -2409,7 +2217,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 513</span>
+              <span class="info">조회수 516</span>
             </div>
           </div>
           <div class="date_info">
@@ -2426,10 +2234,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[70]]></title>
+        <title type="html"><![CDATA[64]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.180Z</updated>
+        <updated>2023-02-24T10:11:31.679Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109556">
         <div class="img_area">
           <picture>
@@ -2448,7 +2256,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 30</span>
+              <span class="info">조회수 34</span>
             </div>
           </div>
           <div class="date_info">
@@ -2464,10 +2272,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[71]]></title>
+        <title type="html"><![CDATA[65]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.182Z</updated>
+        <updated>2023-02-24T10:11:31.681Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109535">
         <div class="img_area">
           <picture>
@@ -2502,10 +2310,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[72]]></title>
+        <title type="html"><![CDATA[66]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.182Z</updated>
+        <updated>2023-02-24T10:11:31.682Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109493">
         <div class="img_area">
           <picture>
@@ -2540,10 +2348,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[73]]></title>
+        <title type="html"><![CDATA[67]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.183Z</updated>
+        <updated>2023-02-24T10:11:31.683Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109342">
         <div class="img_area">
           <picture>
@@ -2578,10 +2386,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[74]]></title>
+        <title type="html"><![CDATA[68]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.185Z</updated>
+        <updated>2023-02-24T10:11:31.685Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109341">
         <div class="img_area">
           <picture>
@@ -2616,10 +2424,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[75]]></title>
+        <title type="html"><![CDATA[69]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.186Z</updated>
+        <updated>2023-02-24T10:11:31.686Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109335">
         <div class="img_area">
           <picture>
@@ -2654,10 +2462,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[76]]></title>
+        <title type="html"><![CDATA[70]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.187Z</updated>
+        <updated>2023-02-24T10:11:31.687Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109334">
         <div class="img_area">
           <picture>
@@ -2692,10 +2500,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[77]]></title>
+        <title type="html"><![CDATA[71]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.194Z</updated>
+        <updated>2023-02-24T10:11:31.689Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109316">
         <div class="img_area">
           <picture>
@@ -2714,7 +2522,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 295</span>
+              <span class="info">조회수 297</span>
             </div>
           </div>
           <div class="date_info">
@@ -2730,10 +2538,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[78]]></title>
+        <title type="html"><![CDATA[72]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.196Z</updated>
+        <updated>2023-02-24T10:11:31.690Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109279">
         <div class="img_area">
           <picture>
@@ -2768,10 +2576,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[79]]></title>
+        <title type="html"><![CDATA[73]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.197Z</updated>
+        <updated>2023-02-24T10:11:31.693Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109176">
         <div class="img_area">
           <picture>
@@ -2806,10 +2614,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[80]]></title>
+        <title type="html"><![CDATA[74]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.198Z</updated>
+        <updated>2023-02-24T10:11:31.693Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/109175">
         <div class="img_area">
           <picture>
@@ -2844,10 +2652,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[81]]></title>
+        <title type="html"><![CDATA[75]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.198Z</updated>
+        <updated>2023-02-24T10:11:31.695Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108950">
         <div class="img_area">
           <picture>
@@ -2882,10 +2690,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[82]]></title>
+        <title type="html"><![CDATA[76]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.199Z</updated>
+        <updated>2023-02-24T10:11:31.697Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108947">
         <div class="img_area">
           <picture>
@@ -2920,10 +2728,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[83]]></title>
+        <title type="html"><![CDATA[77]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.200Z</updated>
+        <updated>2023-02-24T10:11:31.698Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108946">
         <div class="img_area">
           <picture>
@@ -2942,7 +2750,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 2,079</span>
+              <span class="info">조회수 2,080</span>
             </div>
           </div>
           <div class="date_info">
@@ -2958,10 +2766,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[84]]></title>
+        <title type="html"><![CDATA[78]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.201Z</updated>
+        <updated>2023-02-24T10:11:31.699Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108944">
         <div class="img_area">
           <picture>
@@ -2996,10 +2804,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[85]]></title>
+        <title type="html"><![CDATA[79]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.202Z</updated>
+        <updated>2023-02-24T10:11:31.701Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108943">
         <div class="img_area">
           <picture>
@@ -3034,10 +2842,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[86]]></title>
+        <title type="html"><![CDATA[80]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.217Z</updated>
+        <updated>2023-02-24T10:11:31.702Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108942">
         <div class="img_area">
           <picture>
@@ -3056,7 +2864,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 1,897</span>
+              <span class="info">조회수 1,900</span>
             </div>
           </div>
           <div class="date_info">
@@ -3072,10 +2880,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[87]]></title>
+        <title type="html"><![CDATA[81]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.217Z</updated>
+        <updated>2023-02-24T10:11:31.704Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108891">
         <div class="img_area">
           <picture>
@@ -3110,10 +2918,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[88]]></title>
+        <title type="html"><![CDATA[82]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.217Z</updated>
+        <updated>2023-02-24T10:11:31.705Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108890">
         <div class="img_area">
           <picture>
@@ -3148,10 +2956,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[89]]></title>
+        <title type="html"><![CDATA[83]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-02-24T09:11:28.217Z</updated>
+        <updated>2023-02-24T10:11:31.706Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108888">
         <div class="img_area">
           <picture>
