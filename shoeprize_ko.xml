@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-02-25T10:12:30.220Z</updated>
+    <updated>2023-02-25T11:09:09.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 터미네이터 하이 블랙 앤 팬텀]]></title>
-        <id>https://www.shoeprize.com/raffles/101503</id>
-        <link href="https://www.shoeprize.com/raffles/101503"/>
-        <updated>2023-02-24T16:13:39.813Z</updated>
-        <content type="html"><![CDATA[TOPS &amp; BOTTOMS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[언더마이카 에틀레 슬림 핏 글로시 필름 코팅 진 블랙 잉크]]></title>
         <id>https://www.shoeprize.com/raffles/107557</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/108115"/>
         <updated>2023-02-25T09:10:55.535Z</updated>
         <content type="html"><![CDATA[BODEGA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 폼포짓 원 페니 PE]]></title>
+        <id>https://www.shoeprize.com/raffles/105608</id>
+        <link href="https://www.shoeprize.com/raffles/105608"/>
+        <updated>2023-02-25T11:08:53.383Z</updated>
+        <content type="html"><![CDATA[FOOTLOCKER UK]]></content>
     </entry>
 </feed>
