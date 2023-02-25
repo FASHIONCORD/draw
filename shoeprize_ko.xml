@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-02-25T06:13:27.849Z</updated>
+    <updated>2023-02-25T07:10:05.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 화이트 시멘트]]></title>
-        <id>https://www.shoeprize.com/raffles/99826</id>
-        <link href="https://www.shoeprize.com/raffles/99826"/>
-        <updated>2023-02-24T16:13:39.824Z</updated>
-        <content type="html"><![CDATA[나이키 서면 제일점]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[배드 버니 x 아디다스 오리지널스 캠퍼스 라이트 클라우드 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/106104</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/108712"/>
         <updated>2023-02-24T15:09:57.302Z</updated>
         <content type="html"><![CDATA[END]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴발란스 2002R 고어텍스 마그넷 무드 인디고]]></title>
+        <id>https://www.shoeprize.com/raffles/96365</id>
+        <link href="https://www.shoeprize.com/raffles/96365"/>
+        <updated>2023-02-25T07:09:42.684Z</updated>
+        <content type="html"><![CDATA[SOLESTOP]]></content>
     </entry>
 </feed>
