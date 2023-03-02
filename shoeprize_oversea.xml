@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-03-02T09:11:53.281Z</updated>
+    <updated>2023-03-02T10:12:31.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 1 우먼스 사파리 써밋 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/107652</id>
-        <link href="https://www.shoeprize.com/raffles/107652"/>
-        <updated>2023-03-02T00:56:17.621Z</updated>
-        <content type="html"><![CDATA[STASHED SF]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 550 시 솔트 팀 로얄]]></title>
         <id>https://www.shoeprize.com/raffles/106303</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/103096"/>
         <updated>2023-03-02T08:14:35.653Z</updated>
         <content type="html"><![CDATA[FINISHLINE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 미드 GS 퍼플 모카]]></title>
+        <id>https://www.shoeprize.com/raffles/101123</id>
+        <link href="https://www.shoeprize.com/raffles/101123"/>
+        <updated>2023-03-02T10:12:18.207Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
     </entry>
 </feed>
