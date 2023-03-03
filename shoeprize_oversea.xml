@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-03-03T04:27:35.426Z</updated>
+    <updated>2023-03-03T05:17:15.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 1 우먼스 사파리 써밋 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/107652</id>
-        <link href="https://www.shoeprize.com/raffles/107652"/>
-        <updated>2023-03-02T15:12:40.042Z</updated>
-        <content type="html"><![CDATA[KITH *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 그레이 포그]]></title>
         <id>https://www.shoeprize.com/raffles/19798</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/105124"/>
         <updated>2023-03-03T04:27:18.246Z</updated>
         <content type="html"><![CDATA[CROCS US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 삼바 OG 크리스탈 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/96725</id>
+        <link href="https://www.shoeprize.com/raffles/96725"/>
+        <updated>2023-03-03T05:16:49.818Z</updated>
+        <content type="html"><![CDATA[ADIDAS UK]]></content>
     </entry>
 </feed>
