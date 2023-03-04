@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-03-04T09:10:46.214Z</updated>
+    <updated>2023-03-04T10:11:12.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/culture/4005"/>
         <updated>2023-03-04T03:13:12.017Z</updated>
         <content type="html"><![CDATA[세련됨과 후줄근함]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미시간 컬러웨이에 뱀피 스우시를 갖춘 에어 맥스 1]]></title>
+        <id>https://www.shoeprize.com/culture/4026</id>
+        <link href="https://www.shoeprize.com/culture/4026"/>
+        <updated>2023-03-04T10:11:12.062Z</updated>
+        <content type="html"><![CDATA[근-본 컬러웨이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 줌 보메로 5 벨벳 브라운 오피셜 이미지]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.shoeprize.com/culture/4016"/>
         <updated>2023-03-03T02:43:02.841Z</updated>
         <content type="html"><![CDATA[5월이 기다려지는 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 - '리버스 브라질' 국내 공식 출시 확정]]></title>
-        <id>https://www.shoeprize.com/culture/3382</id>
-        <link href="https://www.shoeprize.com/culture/3382"/>
-        <updated>2023-03-02T09:11:52.562Z</updated>
-        <content type="html"><![CDATA[삼바 스타일의 덩크 로우]]></content>
     </entry>
 </feed>
