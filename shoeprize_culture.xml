@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-03-05T10:11:06.285Z</updated>
+    <updated>2023-03-05T11:10:47.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/culture/4020"/>
         <updated>2023-03-05T04:14:09.517Z</updated>
         <content type="html"><![CDATA[맨발이 전부가 아니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3월 2주 차 주요 발매 소식]]></title>
+        <id>https://www.shoeprize.com/culture/4032</id>
+        <link href="https://www.shoeprize.com/culture/4032"/>
+        <updated>2023-03-05T11:10:47.151Z</updated>
+        <content type="html"><![CDATA[대장은 티파니와 앰부쉬?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EP.34 크림 티켓리셀까지]]></title>
@@ -32,7 +39,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">3,103</span>
+                    <span class="count">3,724</span>
                   </div>
                 <div class="info date">
                   2023.03.05
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4025"/>
         <updated>2023-03-04T03:13:12.018Z</updated>
         <content type="html"><![CDATA[GPS부터 슈프림 포스, 보메로까지 브라운 열풍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프라이즈가 들여다본 카시나, 그리고 아디다스 컨소시엄 컵]]></title>
-        <id>https://www.shoeprize.com/culture/4022</id>
-        <link href="https://www.shoeprize.com/culture/4022"/>
-        <updated>2023-03-03T11:10:15.385Z</updated>
-        <content type="html"><![CDATA[카시나 우승 기원]]></content>
     </entry>
 </feed>
