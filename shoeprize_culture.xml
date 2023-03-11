@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-03-11T08:13:10.786Z</updated>
+    <updated>2023-03-11T09:10:03.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재현하는 문화의 가치]]></title>
+        <id>https://www.shoeprize.com/culture/4061</id>
+        <link href="https://www.shoeprize.com/culture/4061"/>
+        <updated>2023-03-11T09:10:03.013Z</updated>
+        <content type="html"><![CDATA[따라하는 즐거움]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드윙, 마리오의 부츠 선보이다]]></title>
         <id>https://www.shoeprize.com/culture/4077</id>
@@ -81,12 +88,5 @@
         <link href="https://www.shoeprize.com/culture/4069"/>
         <updated>2023-03-10T03:23:28.462Z</updated>
         <content type="html"><![CDATA[카시나 맛?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[녹타, 오리발이 포함된 스프링 브릭 컬렉션 출시 예정]]></title>
-        <id>https://www.shoeprize.com/culture/4068</id>
-        <link href="https://www.shoeprize.com/culture/4068"/>
-        <updated>2023-03-10T03:23:28.464Z</updated>
-        <content type="html"><![CDATA[올해 수영은 이 신발로]]></content>
     </entry>
 </feed>
