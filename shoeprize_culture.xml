@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-03-19T09:11:33.090Z</updated>
+    <updated>2023-03-19T10:11:40.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 4주 차 주요 발매 소식]]></title>
+        <id>https://www.shoeprize.com/culture/4138</id>
+        <link href="https://www.shoeprize.com/culture/4138"/>
+        <updated>2023-03-19T10:11:39.698Z</updated>
+        <content type="html"><![CDATA[하루도 빠짐 없이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미쳤습니까 슈먼? ep35: 3월 20일. 마스크 완전 해방!]]></title>
         <id>https://www.shoeprize.com/culture/4143</id>
@@ -25,7 +32,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">79</span>
+                    <span class="count">95</span>
                   </div>
                 <div class="info date">
                   2023.03.19
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/3903"/>
         <updated>2023-03-18T06:13:24.728Z</updated>
         <content type="html"><![CDATA[※ 협업이 아니었다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 CO.JP 오피셜 이미지 공개]]></title>
-        <id>https://www.shoeprize.com/culture/4135</id>
-        <link href="https://www.shoeprize.com/culture/4135"/>
-        <updated>2023-03-18T06:13:24.728Z</updated>
-        <content type="html"><![CDATA[새로운 모카맛 덩크]]></content>
     </entry>
 </feed>
