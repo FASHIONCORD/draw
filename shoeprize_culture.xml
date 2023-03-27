@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-03-27T07:12:05.486Z</updated>
+    <updated>2023-03-27T08:14:22.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 '플레밍 스우시' 오피셜 이미지 공개되다]]></title>
+        <id>https://www.shoeprize.com/culture/4212</id>
+        <link href="https://www.shoeprize.com/culture/4212"/>
+        <updated>2023-03-27T08:14:21.432Z</updated>
+        <content type="html"><![CDATA[불꽃 카리스마 스우시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이프 x 아디다스 캠퍼스 80s & 포럼 로우 발매 정보]]></title>
         <id>https://www.shoeprize.com/culture/4211</id>
@@ -81,35 +88,5 @@
         <link href="https://www.shoeprize.com/culture/4199"/>
         <updated>2023-03-26T11:09:38.672Z</updated>
         <content type="html"><![CDATA[협업부터 기념까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳤습니까 슈먼? ep37: 하루 남았다! LG전자 티파니 드로우]]></title>
-        <id>https://www.shoeprize.com/culture/4200</id>
-        <link href="https://www.shoeprize.com/culture/4200"/>
-        <updated>2023-03-26T09:10:00.282Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/4200">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2906983e-cb7b-11ed-803f-0a1d68a4f528.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2906983e-cb7b-11ed-803f-0a1d68a4f528.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2906983e-cb7b-11ed-803f-0a1d68a4f528.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep37: 하루 남았다! LG전자 티파니 드로우">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">웹툰</div>
-            <div class="post_title">미쳤습니까 슈먼? ep37: 하루 남았다! LG전자 티파니 드로우</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">3,537</span>
-                  </div>
-                <div class="info date">
-                  2023.03.26
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
