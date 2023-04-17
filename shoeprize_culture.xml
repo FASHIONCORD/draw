@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-04-17T15:11:34.993Z</updated>
+    <updated>2023-04-17T16:14:16.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,36 @@
         <link href="https://www.shoeprize.com/culture/4363"/>
         <updated>2023-04-17T15:11:34.421Z</updated>
         <content type="html"><![CDATA[슈팸 여러분의 패션 영양제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈프라이즈가 선정한 2023년 1분기 스니커 Top 10]]></title>
+        <id>https://www.shoeprize.com/culture/4364</id>
+        <link href="https://www.shoeprize.com/culture/4364"/>
+        <updated>2023-04-17T16:14:16.218Z</updated>
+        <content type="html"><![CDATA[<a href="/culture/4364">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9559907e-dd35-11ed-a4c2-0a8c269a8db4.jpeg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9559907e-dd35-11ed-a4c2-0a8c269a8db4.jpeg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9559907e-dd35-11ed-a4c2-0a8c269a8db4.jpeg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9559907e-dd35-11ed-a4c2-0a8c269a8db4.jpeg?w=600">
+            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9559907e-dd35-11ed-a4c2-0a8c269a8db4.jpeg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9559907e-dd35-11ed-a4c2-0a8c269a8db4.jpeg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="슈프라이즈가 선정한 2023년 1분기 스니커 Top 10">
+          </picture>
+        </div>
+        <div class="info_area">
+            <div class="category">기획</div>
+            <div class="post_title">슈프라이즈가 선정한 2023년 1분기 스니커 Top 10</div>
+            
+                <div class="detail_info">
+                  <div class="info">
+                    <span class="title">읽음</span>
+                    <span class="count">9</span>
+                  </div>
+                <div class="info date">
+                  2023.04.17
+                </div>
+
+            </div>
+        </div>
+    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 '팀 레드 앤 화이트' 나이키 코리아 공식 출시]]></title>
@@ -81,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4355"/>
         <updated>2023-04-16T11:09:30.554Z</updated>
         <content type="html"><![CDATA[범고래 조던부터 범고래 퀀도까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌드에 민감한 25살 <김슈붕> 그는 누구인가?]]></title>
-        <id>https://www.shoeprize.com/culture/4357</id>
-        <link href="https://www.shoeprize.com/culture/4357"/>
-        <updated>2023-04-16T07:09:05.458Z</updated>
-        <content type="html"><![CDATA[본격 슈붕이 소개]]></content>
     </entry>
 </feed>
