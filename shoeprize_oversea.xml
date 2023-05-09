@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-05-09T03:11:09.859Z</updated>
+    <updated>2023-05-09T04:11:57.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 1 우먼스 샌드드리프트]]></title>
-        <id>https://www.shoeprize.com/raffles/113078</id>
-        <link href="https://www.shoeprize.com/raffles/113078"/>
-        <updated>2023-05-09T03:10:55.395Z</updated>
-        <content type="html"><![CDATA[카시나]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 에어 포스 1 로우 사틴 화이트 레드]]></title>
         <id>https://www.shoeprize.com/raffles/108705</id>
@@ -39,6 +32,34 @@
         <link href="https://www.shoeprize.com/raffles/108888"/>
         <updated>2023-05-08T23:10:47.279Z</updated>
         <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언더마이카 왈루스 캐슬락 더티 페인트 코티드 데미지 스웨트 팬츠]]></title>
+        <id>https://www.shoeprize.com/raffles/113844</id>
+        <link href="https://www.shoeprize.com/raffles/113844"/>
+        <updated>2023-05-09T04:11:45.176Z</updated>
+        <content type="html"><![CDATA[UNDERMYCAR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언더마이카 리치 다운 블루 멀티플 탱글스 더블 로고 키링]]></title>
+        <id>https://www.shoeprize.com/raffles/113843</id>
+        <link href="https://www.shoeprize.com/raffles/113843"/>
+        <updated>2023-05-09T04:11:45.190Z</updated>
+        <content type="html"><![CDATA[UNDERMYCAR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언더마이카 카오루마 더티 블랙 빈티지 코티드 오버사이즈 M65 자켓]]></title>
+        <id>https://www.shoeprize.com/raffles/112288</id>
+        <link href="https://www.shoeprize.com/raffles/112288"/>
+        <updated>2023-05-09T04:11:45.191Z</updated>
+        <content type="html"><![CDATA[UNDERMYCAR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언더마이카 도희 살사 오버사이즈 버팔로 체크 셔츠]]></title>
+        <id>https://www.shoeprize.com/raffles/111459</id>
+        <link href="https://www.shoeprize.com/raffles/111459"/>
+        <updated>2023-05-09T04:11:45.191Z</updated>
+        <content type="html"><![CDATA[UNDERMYCAR]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브레인 데드 x 오클리 팩토리 팀 플레시 샌들 블루]]></title>
@@ -149,7 +170,7 @@
         <title type="html"><![CDATA[조던 헥스 뮬 SP 우먼스 유니버시티 레드]]></title>
         <id>https://www.shoeprize.com/raffles/111884</id>
         <link href="https://www.shoeprize.com/raffles/111884"/>
-        <updated>2023-05-09T03:10:55.416Z</updated>
+        <updated>2023-05-09T03:10:55.415Z</updated>
         <content type="html"><![CDATA[SOCIAL STATUS]]></content>
     </entry>
     <entry>
@@ -193,26 +214,5 @@
         <link href="https://www.shoeprize.com/raffles/101964"/>
         <updated>2023-05-09T00:46:07.741Z</updated>
         <content type="html"><![CDATA[SHOP NICEKICKS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 포스 1 로우 로터스 플라워]]></title>
-        <id>https://www.shoeprize.com/raffles/101709</id>
-        <link href="https://www.shoeprize.com/raffles/101709"/>
-        <updated>2023-05-08T15:10:21.701Z</updated>
-        <content type="html"><![CDATA[SHOP NICEKICKS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 포스 1 로우 GS 로터스 플라워]]></title>
-        <id>https://www.shoeprize.com/raffles/113439</id>
-        <link href="https://www.shoeprize.com/raffles/113439"/>
-        <updated>2023-05-08T15:10:21.703Z</updated>
-        <content type="html"><![CDATA[SHOP NICEKICKS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 하이 골드 마운틴]]></title>
-        <id>https://www.shoeprize.com/raffles/101964</id>
-        <link href="https://www.shoeprize.com/raffles/101964"/>
-        <updated>2023-05-09T00:46:07.741Z</updated>
-        <content type="html"><![CDATA[BODEGA]]></content>
     </entry>
 </feed>
