@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-05-15T02:05:04.889Z</updated>
+    <updated>2023-05-15T03:10:38.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 구매 가능한, 아디다스 가젤 '클리어 아쿠아 / 테크 퍼플' 둘러보기]]></title>
+        <id>https://www.shoeprize.com/culture/4520</id>
+        <link href="https://www.shoeprize.com/culture/4520"/>
+        <updated>2023-05-15T03:10:37.893Z</updated>
+        <content type="html"><![CDATA[ZX8000의 상징적인 컬러를 입은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 줌 보메로 5 '트리플 블랙' 첫 번째 비주얼 살펴보기]]></title>
+        <id>https://www.shoeprize.com/culture/4519</id>
+        <link href="https://www.shoeprize.com/culture/4519"/>
+        <updated>2023-05-15T03:10:37.893Z</updated>
+        <content type="html"><![CDATA[트리플 블랙은 못참아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탠탠'의 데일리 발매 정보 - 5월 15일]]></title>
         <id>https://www.shoeprize.com/culture/4515</id>
@@ -27,9 +41,9 @@
         <content type="html"><![CDATA[<a href="/culture/4517">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep41: 신발 이상한 데서 사지 마세요">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-08c704f4-f200-11ed-af34-021b959476ae.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep41: 신발 이상한 데서 사지 마세요">
           </picture>
         </div>
         <div class="info_area">
@@ -39,7 +53,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">3,695</span>
+                    <span class="count">3,722</span>
                   </div>
                 <div class="info date">
                   2023.05.14
@@ -97,19 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4513"/>
         <updated>2023-05-13T06:12:51.184Z</updated>
         <content type="html"><![CDATA[더 뜨거워질 아식스 트렌드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탠탠'의 데일리 발매 정보 - 5월 13일]]></title>
-        <id>https://www.shoeprize.com/culture/4503</id>
-        <link href="https://www.shoeprize.com/culture/4503"/>
-        <updated>2023-05-12T15:09:50.796Z</updated>
-        <content type="html"><![CDATA[슈팸 여러분의 패션 영양제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낭만파 비주얼 토탈 아티스트, 275C x 아디다스 협업 컬렉션 출시된다]]></title>
-        <id>https://www.shoeprize.com/culture/4510</id>
-        <link href="https://www.shoeprize.com/culture/4510"/>
-        <updated>2023-05-12T10:10:36.607Z</updated>
-        <content type="html"><![CDATA[275C 작가의 재치있는 손길이 더해졌다]]></content>
     </entry>
 </feed>
