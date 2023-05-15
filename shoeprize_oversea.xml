@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-05-15T22:10:21.731Z</updated>
+    <updated>2023-05-15T23:10:13.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 860v2 화이트 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/9789</id>
-        <link href="https://www.shoeprize.com/raffles/9789"/>
-        <updated>2023-05-15T17:09:05.825Z</updated>
-        <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 플러스 우먼스 샌드 드리프트]]></title>
-        <id>https://www.shoeprize.com/raffles/106353</id>
-        <link href="https://www.shoeprize.com/raffles/106353"/>
-        <updated>2023-05-15T17:09:05.826Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 ISPA 유니버셜 내츄럴 앤 데저트 더스트]]></title>
         <id>https://www.shoeprize.com/raffles/107140</id>
@@ -214,5 +200,19 @@
         <link href="https://www.shoeprize.com/raffles/109279"/>
         <updated>2023-05-15T22:10:11.376Z</updated>
         <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 미드 GS 블랙 휘트 워터멜론]]></title>
+        <id>https://www.shoeprize.com/raffles/106301</id>
+        <link href="https://www.shoeprize.com/raffles/106301"/>
+        <updated>2023-05-15T23:10:03.028Z</updated>
+        <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 플러스 우먼스 샌드 드리프트]]></title>
+        <id>https://www.shoeprize.com/raffles/106353</id>
+        <link href="https://www.shoeprize.com/raffles/106353"/>
+        <updated>2023-05-15T17:09:05.826Z</updated>
+        <content type="html"><![CDATA[NIKE GB]]></content>
     </entry>
 </feed>
