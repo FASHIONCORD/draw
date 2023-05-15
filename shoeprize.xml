@@ -2,46 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/</id>
     <title>슈프라이즈</title>
-    <updated>2023-05-15T06:13:34.285Z</updated>
+    <updated>2023-05-15T07:11:10.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.273Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/106310">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200&amp;f=webp" srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200" srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200">
-            <img class="" src="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 코르테즈 우먼스 고지 그린 앤 말라카이트">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NIKE
-            </div>
-            <h3 class="title">
-              나이키 코르테즈 우먼스 고지 그린 앤 말라카이트
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="106310">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.275Z</updated>
+        <updated>2023-05-15T07:10:41.699Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106281">
         <div class="img_area">
           <picture>
@@ -70,10 +38,42 @@
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.700Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/106310">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200&amp;f=webp" srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200" srcset="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg?w=1200">
+            <img class="" src="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DN1791-101-shoeprize-NIKE-CORTEZ-GORGE-GREEN-MALACHITE-NEW-1673180257942.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="나이키 코르테즈 우먼스 고지 그린 앤 말라카이트">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NIKE
+            </div>
+            <h3 class="title">
+              나이키 코르테즈 우먼스 고지 그린 앤 말라카이트
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="106310">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.279Z</updated>
+        <updated>2023-05-15T07:10:41.701Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112923">
         <div class="img_area">
           <picture>
@@ -105,7 +105,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.280Z</updated>
+        <updated>2023-05-15T07:10:41.701Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/105115">
         <div class="img_area">
           <picture>
@@ -137,7 +137,7 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.280Z</updated>
+        <updated>2023-05-15T07:10:41.702Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113421">
         <div class="img_area">
           <picture>
@@ -169,7 +169,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.284Z</updated>
+        <updated>2023-05-15T07:10:41.715Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113420">
         <div class="img_area">
           <picture>
@@ -201,7 +201,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.284Z</updated>
+        <updated>2023-05-15T07:10:41.715Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112940">
         <div class="img_area">
           <picture>
@@ -233,7 +233,7 @@
         <title type="html"><![CDATA[7]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.284Z</updated>
+        <updated>2023-05-15T07:10:41.715Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113828">
         <div class="img_area">
           <picture>
@@ -265,7 +265,135 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.284Z</updated>
+        <updated>2023-05-15T07:10:41.716Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/113580">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/FZ6003-shoeprize-DIME-X-ADIDAS-ORIGINALS-SUPERSTAR-ADV-CARBON-BROWN-113580-1683711913920.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/FZ6003-shoeprize-DIME-X-ADIDAS-ORIGINALS-SUPERSTAR-ADV-CARBON-BROWN-113580-1683711913920.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/FZ6003-shoeprize-DIME-X-ADIDAS-ORIGINALS-SUPERSTAR-ADV-CARBON-BROWN-113580-1683711913920.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="다임 x 아디다스 오리지널스 슈퍼스타 ADV 카본 브라운">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              ADIDAS ORIGINALS
+            </div>
+            <h3 class="title">
+              다임 x 아디다스 오리지널스 슈퍼스타 ADV 카본 브라운
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="113580">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.717Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/113880">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/IE0020-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-WHITE-MAROON-ROYAL-113880-1683679868106.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/IE0020-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-WHITE-MAROON-ROYAL-113880-1683679868106.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/IE0020-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-WHITE-MAROON-ROYAL-113880-1683679868106.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 슈퍼스타 82 화이트 마룬 로얄">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              ADIDAS ORIGINALS
+            </div>
+            <h3 class="title">
+              아디다스 오리지널스 슈퍼스타 82 화이트 마룬 로얄
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="113880">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.718Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/113880">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/IE0020-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-WHITE-MAROON-ROYAL-113880-1683679868106.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/IE0020-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-WHITE-MAROON-ROYAL-113880-1683679868106.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/IE0020-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-WHITE-MAROON-ROYAL-113880-1683679868106.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 슈퍼스타 82 화이트 마룬 로얄">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              ADIDAS ORIGINALS
+            </div>
+            <h3 class="title">
+              아디다스 오리지널스 슈퍼스타 82 화이트 마룬 로얄
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="113880">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.720Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/113877">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/IE0021-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-BLACK-GREEN-BURGUNDY-113877-1683680333628.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/IE0021-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-BLACK-GREEN-BURGUNDY-113877-1683680333628.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/IE0021-shoeprize-ADIDAS-ORIGINALS-SUPERSTAR-82-BLACK-GREEN-BURGUNDY-113877-1683680333628.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="아디다스 오리지널스 슈퍼스타 82 블랙 그린 버건디">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              ADIDAS ORIGINALS
+            </div>
+            <h3 class="title">
+              아디다스 오리지널스 슈퍼스타 82 블랙 그린 버건디
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="113877">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.721Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112252">
         <div class="img_area">
           <picture>
@@ -294,10 +422,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
+        <title type="html"><![CDATA[13]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.284Z</updated>
+        <updated>2023-05-15T07:10:41.722Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112251">
         <div class="img_area">
           <picture>
@@ -326,10 +454,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
+        <title type="html"><![CDATA[14]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.288Z</updated>
+        <updated>2023-05-15T07:10:41.722Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114091">
         <div class="img_area">
           <picture>
@@ -358,10 +486,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
+        <title type="html"><![CDATA[15]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.289Z</updated>
+        <updated>2023-05-15T07:10:41.723Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/88879">
         <div class="img_area">
           <picture>
@@ -390,10 +518,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12]]></title>
+        <title type="html"><![CDATA[16]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.290Z</updated>
+        <updated>2023-05-15T07:10:41.724Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/98110">
         <div class="img_area">
           <picture>
@@ -422,10 +550,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13]]></title>
+        <title type="html"><![CDATA[17]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.291Z</updated>
+        <updated>2023-05-15T07:10:41.725Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/98111">
         <div class="img_area">
           <picture>
@@ -454,10 +582,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[14]]></title>
+        <title type="html"><![CDATA[18]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.292Z</updated>
+        <updated>2023-05-15T07:10:41.725Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/97490">
         <div class="img_area">
           <picture>
@@ -486,10 +614,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.296Z</updated>
+        <updated>2023-05-15T07:10:41.726Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/98873">
         <div class="img_area">
           <picture>
@@ -518,10 +646,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.297Z</updated>
+        <updated>2023-05-15T07:10:41.727Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112731">
         <div class="img_area">
           <picture>
@@ -550,10 +678,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.299Z</updated>
+        <updated>2023-05-15T07:10:41.727Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112494">
         <div class="img_area">
           <picture>
@@ -582,10 +710,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.301Z</updated>
+        <updated>2023-05-15T07:10:41.728Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104029">
         <div class="img_area">
           <picture>
@@ -614,10 +742,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[23]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.303Z</updated>
+        <updated>2023-05-15T07:10:41.729Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106056">
         <div class="img_area">
           <picture>
@@ -646,74 +774,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[24]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.304Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/102146">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/W990GL6-shoeprize-NEW-BALANCE-990V6-MADE-IN-USA-WMNS-GREY-102146-1676783881192.jpg?w=1200&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/W990GL6-shoeprize-NEW-BALANCE-990V6-MADE-IN-USA-WMNS-GREY-102146-1676783881192.jpg?w=1200">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/W990GL6-shoeprize-NEW-BALANCE-990V6-MADE-IN-USA-WMNS-GREY-102146-1676783881192.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 990v6 메이드 인 USA 우먼스 그레이">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NEW BALANCE
-            </div>
-            <h3 class="title">
-              뉴발란스 990v6 메이드 인 USA 우먼스 그레이
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="102146">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.306Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/114095">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/MTMORNM1-shoeprize-NEW-BALANCE-FRESH-FOAM-X-MORE-TRAIL-V3-SLATE-GREY-114095-1684125624091.jpg?w=1200&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/MTMORNM1-shoeprize-NEW-BALANCE-FRESH-FOAM-X-MORE-TRAIL-V3-SLATE-GREY-114095-1684125624091.jpg?w=1200">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/MTMORNM1-shoeprize-NEW-BALANCE-FRESH-FOAM-X-MORE-TRAIL-V3-SLATE-GREY-114095-1684125624091.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 프레쉬 폼 X 모어 트레일 V3 슬레이트 그레이">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              NEW BALANCE
-            </div>
-            <h3 class="title">
-              뉴발란스 프레쉬 폼 X 모어 트레일 V3 슬레이트 그레이
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="114095">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.308Z</updated>
+        <updated>2023-05-15T07:10:41.730Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108464">
         <div class="img_area">
           <picture>
@@ -742,74 +806,74 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.310Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/101673">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/DV1748-601-shoeprize-SPIDER-MAN-X-AIR-JORDAN-1-HI-ACROSS-THE-SPIDER-VERSE-101673-1682961169595.jpg?w=1200&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/DV1748-601-shoeprize-SPIDER-MAN-X-AIR-JORDAN-1-HI-ACROSS-THE-SPIDER-VERSE-101673-1682961169595.jpg?w=1200">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/DV1748-601-shoeprize-SPIDER-MAN-X-AIR-JORDAN-1-HI-ACROSS-THE-SPIDER-VERSE-101673-1682961169595.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="스파이더맨 x 에어 조던 1 하이 넥스트 챕터">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              JORDAN
-            </div>
-            <h3 class="title">
-              스파이더맨 x 에어 조던 1 하이 넥스트 챕터
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="101673">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.311Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/97905">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/487471-407-shoeprize-AIR-JORDAN-14-LANEY-97905-1683996066335.jpg?w=1200&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/487471-407-shoeprize-AIR-JORDAN-14-LANEY-97905-1683996066335.jpg?w=1200">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/487471-407-shoeprize-AIR-JORDAN-14-LANEY-97905-1683996066335.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="에어 조던 14 레이니">
-          </picture>
-        </div>
-        
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              JORDAN
-            </div>
-            <h3 class="title">
-              에어 조던 14 레이니
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="97905">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[25]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.314Z</updated>
+        <updated>2023-05-15T07:10:41.730Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/102146">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/W990GL6-shoeprize-NEW-BALANCE-990V6-MADE-IN-USA-WMNS-GREY-102146-1676783881192.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/W990GL6-shoeprize-NEW-BALANCE-990V6-MADE-IN-USA-WMNS-GREY-102146-1676783881192.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/W990GL6-shoeprize-NEW-BALANCE-990V6-MADE-IN-USA-WMNS-GREY-102146-1676783881192.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 990v6 메이드 인 USA 우먼스 그레이">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NEW BALANCE
+            </div>
+            <h3 class="title">
+              뉴발란스 990v6 메이드 인 USA 우먼스 그레이
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="102146">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.731Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/114095">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/MTMORNM1-shoeprize-NEW-BALANCE-FRESH-FOAM-X-MORE-TRAIL-V3-SLATE-GREY-114095-1684125624091.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/MTMORNM1-shoeprize-NEW-BALANCE-FRESH-FOAM-X-MORE-TRAIL-V3-SLATE-GREY-114095-1684125624091.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/MTMORNM1-shoeprize-NEW-BALANCE-FRESH-FOAM-X-MORE-TRAIL-V3-SLATE-GREY-114095-1684125624091.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="뉴발란스 프레쉬 폼 X 모어 트레일 V3 슬레이트 그레이">
+          </picture>
+        </div>
+        
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              NEW BALANCE
+            </div>
+            <h3 class="title">
+              뉴발란스 프레쉬 폼 X 모어 트레일 V3 슬레이트 그레이
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="114095">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.732Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/98102">
         <div class="img_area">
           <picture>
@@ -845,10 +909,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[26]]></title>
+        <title type="html"><![CDATA[28]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.332Z</updated>
+        <updated>2023-05-15T07:10:41.733Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/103800">
         <div class="img_area">
           <picture>
@@ -884,10 +948,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[27]]></title>
+        <title type="html"><![CDATA[29]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.333Z</updated>
+        <updated>2023-05-15T07:10:41.733Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/90527">
         <div class="img_area">
           <picture>
@@ -923,10 +987,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28]]></title>
+        <title type="html"><![CDATA[30]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.335Z</updated>
+        <updated>2023-05-15T07:10:41.734Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/90526">
         <div class="img_area">
           <picture>
@@ -962,10 +1026,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29]]></title>
+        <title type="html"><![CDATA[31]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.336Z</updated>
+        <updated>2023-05-15T07:10:41.734Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/111900">
         <div class="img_area">
           <picture>
@@ -1001,10 +1065,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30]]></title>
+        <title type="html"><![CDATA[32]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.338Z</updated>
+        <updated>2023-05-15T07:10:41.735Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112949">
         <div class="img_area">
           <picture>
@@ -1040,10 +1104,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[31]]></title>
+        <title type="html"><![CDATA[33]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.339Z</updated>
+        <updated>2023-05-15T07:10:41.736Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/98388">
         <div class="img_area">
           <picture>
@@ -1079,10 +1143,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[32]]></title>
+        <title type="html"><![CDATA[34]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.341Z</updated>
+        <updated>2023-05-15T07:10:41.736Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106996">
         <div class="img_area">
           <picture>
@@ -1118,10 +1182,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[33]]></title>
+        <title type="html"><![CDATA[35]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.342Z</updated>
+        <updated>2023-05-15T07:10:41.737Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106997">
         <div class="img_area">
           <picture>
@@ -1157,10 +1221,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34]]></title>
+        <title type="html"><![CDATA[36]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.343Z</updated>
+        <updated>2023-05-15T07:10:41.738Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112632">
         <div class="img_area">
           <picture>
@@ -1196,10 +1260,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[35]]></title>
+        <title type="html"><![CDATA[37]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.344Z</updated>
+        <updated>2023-05-15T07:10:41.738Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112633">
         <div class="img_area">
           <picture>
@@ -1235,10 +1299,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36]]></title>
+        <title type="html"><![CDATA[38]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.344Z</updated>
+        <updated>2023-05-15T07:10:41.739Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110741">
         <div class="img_area">
           <picture>
@@ -1274,10 +1338,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[37]]></title>
+        <title type="html"><![CDATA[39]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.345Z</updated>
+        <updated>2023-05-15T07:10:41.740Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/101840">
         <div class="img_area">
           <picture>
@@ -1313,10 +1377,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[38]]></title>
+        <title type="html"><![CDATA[40]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.346Z</updated>
+        <updated>2023-05-15T07:10:41.740Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/97909">
         <div class="img_area">
           <picture>
@@ -1352,10 +1416,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[39]]></title>
+        <title type="html"><![CDATA[41]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.349Z</updated>
+        <updated>2023-05-15T07:10:41.741Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/105040">
         <div class="img_area">
           <picture>
@@ -1391,10 +1455,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40]]></title>
+        <title type="html"><![CDATA[42]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.351Z</updated>
+        <updated>2023-05-15T07:10:41.742Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/93300">
         <div class="img_area">
           <picture>
@@ -1430,10 +1494,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[41]]></title>
+        <title type="html"><![CDATA[43]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.352Z</updated>
+        <updated>2023-05-15T07:10:41.743Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112237">
         <div class="img_area">
           <picture>
@@ -1469,10 +1533,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[42]]></title>
+        <title type="html"><![CDATA[44]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.353Z</updated>
+        <updated>2023-05-15T07:10:41.744Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112241">
         <div class="img_area">
           <picture>
@@ -1508,10 +1572,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[43]]></title>
+        <title type="html"><![CDATA[45]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.354Z</updated>
+        <updated>2023-05-15T07:10:41.744Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112240">
         <div class="img_area">
           <picture>
@@ -1547,10 +1611,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[44]]></title>
+        <title type="html"><![CDATA[46]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.356Z</updated>
+        <updated>2023-05-15T07:10:41.745Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104640">
         <div class="img_area">
           <picture>
@@ -1586,10 +1650,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[45]]></title>
+        <title type="html"><![CDATA[47]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.358Z</updated>
+        <updated>2023-05-15T07:10:41.746Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/97916">
         <div class="img_area">
           <picture>
@@ -1625,10 +1689,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[46]]></title>
+        <title type="html"><![CDATA[48]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.360Z</updated>
+        <updated>2023-05-15T07:10:41.747Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108260">
         <div class="img_area">
           <picture>
@@ -1664,10 +1728,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[47]]></title>
+        <title type="html"><![CDATA[49]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.362Z</updated>
+        <updated>2023-05-15T07:10:41.747Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/108261">
         <div class="img_area">
           <picture>
@@ -1703,10 +1767,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[48]]></title>
+        <title type="html"><![CDATA[50]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.363Z</updated>
+        <updated>2023-05-15T07:10:41.748Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104340">
         <div class="img_area">
           <picture>
@@ -1742,10 +1806,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[49]]></title>
+        <title type="html"><![CDATA[51]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.365Z</updated>
+        <updated>2023-05-15T07:10:41.749Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/102449">
         <div class="img_area">
           <picture>
@@ -1781,10 +1845,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50]]></title>
+        <title type="html"><![CDATA[52]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.367Z</updated>
+        <updated>2023-05-15T07:10:41.750Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112388">
         <div class="img_area">
           <picture>
@@ -1820,10 +1884,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[51]]></title>
+        <title type="html"><![CDATA[53]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.369Z</updated>
+        <updated>2023-05-15T07:10:41.758Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104640">
         <div class="img_area">
           <picture>
@@ -1859,10 +1923,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[52]]></title>
+        <title type="html"><![CDATA[54]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.370Z</updated>
+        <updated>2023-05-15T07:10:41.759Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/95025">
         <div class="img_area">
           <picture>
@@ -1898,10 +1962,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[53]]></title>
+        <title type="html"><![CDATA[55]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.372Z</updated>
+        <updated>2023-05-15T07:10:41.766Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/98857">
         <div class="img_area">
           <picture>
@@ -1937,10 +2001,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[54]]></title>
+        <title type="html"><![CDATA[56]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.374Z</updated>
+        <updated>2023-05-15T07:10:41.768Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106354">
         <div class="img_area">
           <picture>
@@ -1976,10 +2040,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[55]]></title>
+        <title type="html"><![CDATA[57]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.376Z</updated>
+        <updated>2023-05-15T07:10:41.768Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/104051">
         <div class="img_area">
           <picture>
@@ -2015,10 +2079,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[56]]></title>
+        <title type="html"><![CDATA[58]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.378Z</updated>
+        <updated>2023-05-15T07:10:41.768Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/106065">
         <div class="img_area">
           <picture>
@@ -2054,10 +2118,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[57]]></title>
+        <title type="html"><![CDATA[59]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.379Z</updated>
+        <updated>2023-05-15T07:10:41.768Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110799">
         <div class="img_area">
           <picture>
@@ -2093,10 +2157,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[58]]></title>
+        <title type="html"><![CDATA[60]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.381Z</updated>
+        <updated>2023-05-15T07:10:41.768Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110800">
         <div class="img_area">
           <picture>
@@ -2132,10 +2196,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[59]]></title>
+        <title type="html"><![CDATA[61]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.383Z</updated>
+        <updated>2023-05-15T07:10:41.769Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110801">
         <div class="img_area">
           <picture>
@@ -2171,10 +2235,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[60]]></title>
+        <title type="html"><![CDATA[62]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.384Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/101673">
         <div class="img_area">
           <picture>
@@ -2207,10 +2271,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[61]]></title>
+        <title type="html"><![CDATA[63]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.390Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110756">
         <div class="img_area">
           <picture>
@@ -2243,10 +2307,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[62]]></title>
+        <title type="html"><![CDATA[64]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.392Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110755">
         <div class="img_area">
           <picture>
@@ -2279,10 +2343,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[63]]></title>
+        <title type="html"><![CDATA[65]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.394Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112701">
         <div class="img_area">
           <picture>
@@ -2315,10 +2379,46 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[64]]></title>
+        <title type="html"><![CDATA[66]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.396Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
+        <content type="html"><![CDATA[<a href="/raffles/108464">
+        <div class="img_area">
+          <picture>
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/VN0A4P3XBMW1-shoeprize-GALLERY-DEPT.-X-VANS-VAULT-OG-OLD-SKOOL-LX-108464-1682685768064.jpg?w=1200&amp;f=webp">
+            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/VN0A4P3XBMW1-shoeprize-GALLERY-DEPT.-X-VANS-VAULT-OG-OLD-SKOOL-LX-108464-1682685768064.jpg?w=1200">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/VN0A4P3XBMW1-shoeprize-GALLERY-DEPT.-X-VANS-VAULT-OG-OLD-SKOOL-LX-108464-1682685768064.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="갤러리 디파트먼트 x 반스 볼트 OG 올드스쿨 LX">
+          </picture>
+        </div>
+        
+          <div class="rank_count">
+            <div class="num">5</div>
+            <span class="flag up">4</span>
+          </div>
+        <div class="info_area">
+          <div class="product_info">
+            <div class="brand">
+              VANS
+            </div>
+            <h3 class="title">
+              갤러리 디파트먼트 x 반스 볼트 OG 올드스쿨 LX
+            </h3>
+          </div>
+        </div>
+      </a>
+      <div class="btn_area">
+        <label class="btn_favorite type2" data-id="108464">
+          <input type="checkbox">
+          <span class="icon"></span>
+        </label>
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[67]]></title>
+        <id>https://www.shoeprize.com/</id>
+        <link href="https://www.shoeprize.com/"/>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114067">
         <div class="img_area">
           <picture>
@@ -2329,8 +2429,8 @@
         </div>
         
           <div class="rank_count">
-            <div class="num">5</div>
-            <span class="flag same"></span>
+            <div class="num">6</div>
+            <span class="flag down">1</span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -2351,10 +2451,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[65]]></title>
+        <title type="html"><![CDATA[68]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.397Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110417">
         <div class="img_area">
           <picture>
@@ -2365,8 +2465,8 @@
         </div>
         
           <div class="rank_count">
-            <div class="num">6</div>
-            <span class="flag up">1</span>
+            <div class="num">7</div>
+            <span class="flag down">1</span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -2387,10 +2487,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[66]]></title>
+        <title type="html"><![CDATA[69]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.399Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/110196">
         <div class="img_area">
           <picture>
@@ -2401,7 +2501,7 @@
         </div>
         
           <div class="rank_count">
-            <div class="num">7</div>
+            <div class="num">8</div>
             <span class="flag down">1</span>
           </div>
         <div class="info_area">
@@ -2423,10 +2523,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[67]]></title>
+        <title type="html"><![CDATA[70]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.401Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114069">
         <div class="img_area">
           <picture>
@@ -2437,8 +2537,8 @@
         </div>
         
           <div class="rank_count">
-            <div class="num">8</div>
-            <span class="flag same"></span>
+            <div class="num">9</div>
+            <span class="flag down">1</span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -2459,46 +2559,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[68]]></title>
+        <title type="html"><![CDATA[71]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.402Z</updated>
-        <content type="html"><![CDATA[<a href="/raffles/108464">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/Raffle/thumb/VN0A4P3XBMW1-shoeprize-GALLERY-DEPT.-X-VANS-VAULT-OG-OLD-SKOOL-LX-108464-1682685768064.jpg?w=1200&amp;f=webp">
-            <source data-srcset="https://static.shoeprize.com/Raffle/thumb/VN0A4P3XBMW1-shoeprize-GALLERY-DEPT.-X-VANS-VAULT-OG-OLD-SKOOL-LX-108464-1682685768064.jpg?w=1200">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/Raffle/thumb/VN0A4P3XBMW1-shoeprize-GALLERY-DEPT.-X-VANS-VAULT-OG-OLD-SKOOL-LX-108464-1682685768064.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.src;" alt="갤러리 디파트먼트 x 반스 볼트 OG 올드스쿨 LX">
-          </picture>
-        </div>
-        
-          <div class="rank_count">
-            <div class="num">9</div>
-            <span class="flag up">36</span>
-          </div>
-        <div class="info_area">
-          <div class="product_info">
-            <div class="brand">
-              VANS
-            </div>
-            <h3 class="title">
-              갤러리 디파트먼트 x 반스 볼트 OG 올드스쿨 LX
-            </h3>
-          </div>
-        </div>
-      </a>
-      <div class="btn_area">
-        <label class="btn_favorite type2" data-id="108464">
-          <input type="checkbox">
-          <span class="icon"></span>
-        </label>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[69]]></title>
-        <id>https://www.shoeprize.com/</id>
-        <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.404Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114071">
         <div class="img_area">
           <picture>
@@ -2510,7 +2574,7 @@
         
           <div class="rank_count">
             <div class="num">10</div>
-            <span class="flag down">1</span>
+            <span class="flag same"></span>
           </div>
         <div class="info_area">
           <div class="product_info">
@@ -2531,10 +2595,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[70]]></title>
+        <title type="html"><![CDATA[72]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.406Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/107030">
         <div class="img_area">
           <picture>
@@ -2553,7 +2617,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 3</span>
-              <span class="info">조회수 1,987</span>
+              <span class="info">조회수 1,996</span>
             </div>
           </div>
           <div class="date_info">
@@ -2570,10 +2634,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[71]]></title>
+        <title type="html"><![CDATA[73]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.416Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/107140">
         <div class="img_area">
           <picture>
@@ -2592,7 +2656,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 5</span>
-              <span class="info">조회수 1,753</span>
+              <span class="info">조회수 1,765</span>
             </div>
           </div>
           <div class="date_info">
@@ -2609,10 +2673,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[72]]></title>
+        <title type="html"><![CDATA[74]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.418Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/112857">
         <div class="img_area">
           <picture>
@@ -2631,7 +2695,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 905</span>
+              <span class="info">조회수 913</span>
             </div>
           </div>
           <div class="date_info">
@@ -2648,10 +2712,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[73]]></title>
+        <title type="html"><![CDATA[75]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.418Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113962">
         <div class="img_area">
           <picture>
@@ -2670,7 +2734,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 698</span>
+              <span class="info">조회수 707</span>
             </div>
           </div>
           <div class="date_info">
@@ -2687,10 +2751,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[74]]></title>
+        <title type="html"><![CDATA[76]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.420Z</updated>
+        <updated>2023-05-15T07:10:41.782Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113963">
         <div class="img_area">
           <picture>
@@ -2709,7 +2773,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 694</span>
+              <span class="info">조회수 696</span>
             </div>
           </div>
           <div class="date_info">
@@ -2726,10 +2790,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[75]]></title>
+        <title type="html"><![CDATA[77]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.422Z</updated>
+        <updated>2023-05-15T07:10:41.783Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113888">
         <div class="img_area">
           <picture>
@@ -2748,7 +2812,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 621</span>
+              <span class="info">조회수 628</span>
             </div>
           </div>
           <div class="date_info">
@@ -2765,10 +2829,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[76]]></title>
+        <title type="html"><![CDATA[78]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.424Z</updated>
+        <updated>2023-05-15T07:10:41.784Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113889">
         <div class="img_area">
           <picture>
@@ -2787,7 +2851,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 494</span>
+              <span class="info">조회수 498</span>
             </div>
           </div>
           <div class="date_info">
@@ -2804,10 +2868,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[77]]></title>
+        <title type="html"><![CDATA[79]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.425Z</updated>
+        <updated>2023-05-15T07:10:41.785Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/107079">
         <div class="img_area">
           <picture>
@@ -2826,7 +2890,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 356</span>
+              <span class="info">조회수 360</span>
             </div>
           </div>
           <div class="date_info">
@@ -2843,10 +2907,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[78]]></title>
+        <title type="html"><![CDATA[80]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.427Z</updated>
+        <updated>2023-05-15T07:10:41.786Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113891">
         <div class="img_area">
           <picture>
@@ -2865,7 +2929,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 297</span>
+              <span class="info">조회수 301</span>
             </div>
           </div>
           <div class="date_info">
@@ -2882,10 +2946,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[79]]></title>
+        <title type="html"><![CDATA[81]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.429Z</updated>
+        <updated>2023-05-15T07:10:41.786Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113890">
         <div class="img_area">
           <picture>
@@ -2904,7 +2968,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 172</span>
+              <span class="info">조회수 175</span>
             </div>
           </div>
           <div class="date_info">
@@ -2921,10 +2985,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[80]]></title>
+        <title type="html"><![CDATA[82]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.430Z</updated>
+        <updated>2023-05-15T07:10:41.787Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114078">
         <div class="img_area">
           <picture>
@@ -2943,7 +3007,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 140</span>
+              <span class="info">조회수 143</span>
             </div>
           </div>
           <div class="date_info">
@@ -2960,10 +3024,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[81]]></title>
+        <title type="html"><![CDATA[83]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.432Z</updated>
+        <updated>2023-05-15T07:10:41.787Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114079">
         <div class="img_area">
           <picture>
@@ -2982,7 +3046,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 101</span>
+              <span class="info">조회수 103</span>
             </div>
           </div>
           <div class="date_info">
@@ -2999,10 +3063,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[82]]></title>
+        <title type="html"><![CDATA[84]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.434Z</updated>
+        <updated>2023-05-15T07:10:41.792Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114080">
         <div class="img_area">
           <picture>
@@ -3021,7 +3085,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 78</span>
+              <span class="info">조회수 81</span>
             </div>
           </div>
           <div class="date_info">
@@ -3038,10 +3102,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[83]]></title>
+        <title type="html"><![CDATA[85]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.436Z</updated>
+        <updated>2023-05-15T07:10:41.794Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114081">
         <div class="img_area">
           <picture>
@@ -3060,7 +3124,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 2</span>
-              <span class="info">조회수 58</span>
+              <span class="info">조회수 63</span>
             </div>
           </div>
           <div class="date_info">
@@ -3077,10 +3141,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[84]]></title>
+        <title type="html"><![CDATA[86]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.443Z</updated>
+        <updated>2023-05-15T07:10:41.796Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/105115">
         <div class="img_area">
           <picture>
@@ -3099,7 +3163,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 14</span>
-              <span class="info">조회수 1,054</span>
+              <span class="info">조회수 1,083</span>
             </div>
           </div>
           <div class="date_info">
@@ -3116,10 +3180,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[85]]></title>
+        <title type="html"><![CDATA[87]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.443Z</updated>
+        <updated>2023-05-15T07:10:41.799Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113574">
         <div class="img_area">
           <picture>
@@ -3138,7 +3202,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 4</span>
-              <span class="info">조회수 185</span>
+              <span class="info">조회수 188</span>
             </div>
           </div>
           <div class="date_info">
@@ -3155,10 +3219,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[86]]></title>
+        <title type="html"><![CDATA[88]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.443Z</updated>
+        <updated>2023-05-15T07:10:41.804Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113948">
         <div class="img_area">
           <picture>
@@ -3177,7 +3241,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 556</span>
+              <span class="info">조회수 563</span>
             </div>
           </div>
           <div class="date_info">
@@ -3194,10 +3258,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[87]]></title>
+        <title type="html"><![CDATA[89]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.444Z</updated>
+        <updated>2023-05-15T07:10:41.805Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/111899">
         <div class="img_area">
           <picture>
@@ -3216,7 +3280,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 464</span>
+              <span class="info">조회수 467</span>
             </div>
           </div>
           <div class="date_info">
@@ -3233,10 +3297,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[88]]></title>
+        <title type="html"><![CDATA[90]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.445Z</updated>
+        <updated>2023-05-15T07:10:41.806Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114072">
         <div class="img_area">
           <picture>
@@ -3255,7 +3319,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 1</span>
-              <span class="info">조회수 212</span>
+              <span class="info">조회수 214</span>
             </div>
           </div>
           <div class="date_info">
@@ -3272,10 +3336,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[89]]></title>
+        <title type="html"><![CDATA[91]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.447Z</updated>
+        <updated>2023-05-15T07:10:41.808Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113973">
         <div class="img_area">
           <picture>
@@ -3294,7 +3358,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 177</span>
+              <span class="info">조회수 182</span>
             </div>
           </div>
           <div class="date_info">
@@ -3311,10 +3375,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90]]></title>
+        <title type="html"><![CDATA[92]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.465Z</updated>
+        <updated>2023-05-15T07:10:41.812Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114089">
         <div class="img_area">
           <picture>
@@ -3333,7 +3397,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 49</span>
+              <span class="info">조회수 54</span>
             </div>
           </div>
           <div class="date_info">
@@ -3349,10 +3413,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[91]]></title>
+        <title type="html"><![CDATA[93]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.466Z</updated>
+        <updated>2023-05-15T07:10:41.813Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114014">
         <div class="img_area">
           <picture>
@@ -3371,7 +3435,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 57</span>
+              <span class="info">조회수 58</span>
             </div>
           </div>
           <div class="date_info">
@@ -3387,10 +3451,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[92]]></title>
+        <title type="html"><![CDATA[94]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.466Z</updated>
+        <updated>2023-05-15T07:10:41.815Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114013">
         <div class="img_area">
           <picture>
@@ -3409,7 +3473,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 67</span>
+              <span class="info">조회수 68</span>
             </div>
           </div>
           <div class="date_info">
@@ -3425,10 +3489,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[93]]></title>
+        <title type="html"><![CDATA[95]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.467Z</updated>
+        <updated>2023-05-15T07:10:41.835Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114012">
         <div class="img_area">
           <picture>
@@ -3447,7 +3511,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 47</span>
+              <span class="info">조회수 50</span>
             </div>
           </div>
           <div class="date_info">
@@ -3463,10 +3527,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[94]]></title>
+        <title type="html"><![CDATA[96]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.468Z</updated>
+        <updated>2023-05-15T07:10:41.836Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/114011">
         <div class="img_area">
           <picture>
@@ -3501,10 +3565,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[95]]></title>
+        <title type="html"><![CDATA[97]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.469Z</updated>
+        <updated>2023-05-15T07:10:41.836Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113972">
         <div class="img_area">
           <picture>
@@ -3539,10 +3603,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[96]]></title>
+        <title type="html"><![CDATA[98]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.471Z</updated>
+        <updated>2023-05-15T07:10:41.837Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113971">
         <div class="img_area">
           <picture>
@@ -3561,7 +3625,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 217</span>
+              <span class="info">조회수 219</span>
             </div>
           </div>
           <div class="date_info">
@@ -3577,10 +3641,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[97]]></title>
+        <title type="html"><![CDATA[99]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.472Z</updated>
+        <updated>2023-05-15T07:10:41.837Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113970">
         <div class="img_area">
           <picture>
@@ -3599,7 +3663,7 @@
             </h3>
             <div class="detail_info">
               <span class="info">발매처 0</span>
-              <span class="info">조회수 1,062</span>
+              <span class="info">조회수 1,077</span>
             </div>
           </div>
           <div class="date_info">
@@ -3615,10 +3679,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[98]]></title>
+        <title type="html"><![CDATA[100]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.473Z</updated>
+        <updated>2023-05-15T07:10:41.838Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113964">
         <div class="img_area">
           <picture>
@@ -3653,10 +3717,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[99]]></title>
+        <title type="html"><![CDATA[101]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.473Z</updated>
+        <updated>2023-05-15T07:10:41.839Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113940">
         <div class="img_area">
           <picture>
@@ -3691,10 +3755,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100]]></title>
+        <title type="html"><![CDATA[102]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.474Z</updated>
+        <updated>2023-05-15T07:10:41.841Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113938">
         <div class="img_area">
           <picture>
@@ -3729,10 +3793,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[101]]></title>
+        <title type="html"><![CDATA[103]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.481Z</updated>
+        <updated>2023-05-15T07:10:41.842Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113914">
         <div class="img_area">
           <picture>
@@ -3767,10 +3831,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[102]]></title>
+        <title type="html"><![CDATA[104]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.481Z</updated>
+        <updated>2023-05-15T07:10:41.844Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113912">
         <div class="img_area">
           <picture>
@@ -3805,10 +3869,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[103]]></title>
+        <title type="html"><![CDATA[105]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.482Z</updated>
+        <updated>2023-05-15T07:10:41.844Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113909">
         <div class="img_area">
           <picture>
@@ -3843,10 +3907,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[104]]></title>
+        <title type="html"><![CDATA[106]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.484Z</updated>
+        <updated>2023-05-15T07:10:41.847Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113907">
         <div class="img_area">
           <picture>
@@ -3881,10 +3945,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[105]]></title>
+        <title type="html"><![CDATA[107]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.484Z</updated>
+        <updated>2023-05-15T07:10:41.848Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113906">
         <div class="img_area">
           <picture>
@@ -3919,10 +3983,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[106]]></title>
+        <title type="html"><![CDATA[108]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.485Z</updated>
+        <updated>2023-05-15T07:10:41.850Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113905">
         <div class="img_area">
           <picture>
@@ -3957,10 +4021,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[107]]></title>
+        <title type="html"><![CDATA[109]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.486Z</updated>
+        <updated>2023-05-15T07:10:41.851Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113904">
         <div class="img_area">
           <picture>
@@ -3995,10 +4059,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[108]]></title>
+        <title type="html"><![CDATA[110]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.487Z</updated>
+        <updated>2023-05-15T07:10:41.853Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113849">
         <div class="img_area">
           <picture>
@@ -4033,10 +4097,10 @@
       </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[109]]></title>
+        <title type="html"><![CDATA[111]]></title>
         <id>https://www.shoeprize.com/</id>
         <link href="https://www.shoeprize.com/"/>
-        <updated>2023-05-15T06:13:03.487Z</updated>
+        <updated>2023-05-15T07:10:41.854Z</updated>
         <content type="html"><![CDATA[<a href="/raffles/113781">
         <div class="img_area">
           <picture>
