@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-05-26T11:09:03.686Z</updated>
+    <updated>2023-05-26T12:17:21.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://www.shoeprize.com/raffles/106046"/>
         <updated>2023-05-26T05:09:25.678Z</updated>
         <content type="html"><![CDATA[SHOP NICEKICKS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 발렌타인 데이 옐로우 하트]]></title>
+        <id>https://www.shoeprize.com/raffles/107051</id>
+        <link href="https://www.shoeprize.com/raffles/107051"/>
+        <updated>2023-05-26T12:16:57.773Z</updated>
+        <content type="html"><![CDATA[DTLR]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리복 샤크 빅토리 펌프 바스켓볼 코어 블랙 에너지 블루]]></title>
@@ -207,12 +214,5 @@
         <link href="https://www.shoeprize.com/raffles/109877"/>
         <updated>2023-05-26T09:09:28.822Z</updated>
         <content type="html"><![CDATA[ADIDAS UK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리복 퀘스천 미드 마레드 초크]]></title>
-        <id>https://www.shoeprize.com/raffles/113465</id>
-        <link href="https://www.shoeprize.com/raffles/113465"/>
-        <updated>2023-05-26T08:12:00.027Z</updated>
-        <content type="html"><![CDATA[REEBOK US]]></content>
     </entry>
 </feed>
