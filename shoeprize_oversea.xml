@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-06-15T11:10:03.469Z</updated>
+    <updated>2023-06-15T12:18:08.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 550 씨 솔트]]></title>
-        <id>https://www.shoeprize.com/raffles/113080</id>
-        <link href="https://www.shoeprize.com/raffles/113080"/>
-        <updated>2023-06-15T08:13:00.015Z</updated>
-        <content type="html"><![CDATA[UPTOWN Deluxe]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스투시 x 나이키 반달 하이 SP 딥 로얄 블루]]></title>
         <id>https://www.shoeprize.com/raffles/114510</id>
@@ -213,6 +206,13 @@
         <id>https://www.shoeprize.com/raffles/115452</id>
         <link href="https://www.shoeprize.com/raffles/115452"/>
         <updated>2023-06-15T11:09:55.292Z</updated>
+        <content type="html"><![CDATA[크록스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크록스 딜런 클로그 에스프레소]]></title>
+        <id>https://www.shoeprize.com/raffles/115451</id>
+        <link href="https://www.shoeprize.com/raffles/115451"/>
+        <updated>2023-06-15T12:17:57.282Z</updated>
         <content type="html"><![CDATA[크록스 코리아]]></content>
     </entry>
 </feed>
