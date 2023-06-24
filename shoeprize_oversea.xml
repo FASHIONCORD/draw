@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-06-24T00:57:53.223Z</updated>
+    <updated>2023-06-24T02:25:34.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[배드 버니 x 아디다스 오리지널스 리스폰스 CL 트리플 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/114633</id>
-        <link href="https://www.shoeprize.com/raffles/114633"/>
-        <updated>2023-06-23T15:11:34.478Z</updated>
-        <content type="html"><![CDATA[케이스스터디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 6 토로 브라보]]></title>
-        <id>https://www.shoeprize.com/raffles/97908</id>
-        <link href="https://www.shoeprize.com/raffles/97908"/>
-        <updated>2023-06-23T15:11:34.512Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 6 GS 토로 브라보]]></title>
-        <id>https://www.shoeprize.com/raffles/113922</id>
-        <link href="https://www.shoeprize.com/raffles/113922"/>
-        <updated>2023-06-23T15:11:34.501Z</updated>
-        <content type="html"><![CDATA[나이키 코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아식스 젤-벤처 6 그레시어 그레이 시트 락]]></title>
         <id>https://www.shoeprize.com/raffles/107270</id>
@@ -167,6 +146,20 @@
         <content type="html"><![CDATA[뉴발란스 북촌 직영점]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에어 조던 6 토로 브라보]]></title>
+        <id>https://www.shoeprize.com/raffles/97908</id>
+        <link href="https://www.shoeprize.com/raffles/97908"/>
+        <updated>2023-06-23T15:11:34.512Z</updated>
+        <content type="html"><![CDATA[카시나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 6 GS 토로 브라보]]></title>
+        <id>https://www.shoeprize.com/raffles/113922</id>
+        <link href="https://www.shoeprize.com/raffles/113922"/>
+        <updated>2023-06-23T15:11:34.501Z</updated>
+        <content type="html"><![CDATA[카시나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[배드 버니 x 아디다스 오리지널스 리스폰스 CL 트리플 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/114633</id>
         <link href="https://www.shoeprize.com/raffles/114633"/>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/115275"/>
         <updated>2023-06-23T15:11:34.493Z</updated>
         <content type="html"><![CDATA[AFEW-STORE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 OG 우먼스 블랙 시멘트]]></title>
+        <id>https://www.shoeprize.com/raffles/115275</id>
+        <link href="https://www.shoeprize.com/raffles/115275"/>
+        <updated>2023-06-23T15:11:34.493Z</updated>
+        <content type="html"><![CDATA[NAKED]]></content>
     </entry>
 </feed>
