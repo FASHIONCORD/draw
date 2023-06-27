@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-06-27T07:10:38.179Z</updated>
+    <updated>2023-06-27T08:14:14.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[업데이트 - 에어 조던 11 '나폴리탄' 예상 출시일 & 실물 비주얼 공개]]></title>
+        <id>https://www.shoeprize.com/culture/3715</id>
+        <link href="https://www.shoeprize.com/culture/3715"/>
+        <updated>2023-06-27T08:14:13.983Z</updated>
+        <content type="html"><![CDATA[인기 아이스크림 나폴리탄을 담아냈다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베이프 x 아디다스 캠퍼스 80s '브라운' 발매 정보]]></title>
+        <id>https://www.shoeprize.com/culture/4813</id>
+        <link href="https://www.shoeprize.com/culture/4813"/>
+        <updated>2023-06-27T08:14:13.985Z</updated>
+        <content type="html"><![CDATA[현재 응모 진행 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다임 x 아식스 GT-2160 2종 퍼스트 룩]]></title>
         <id>https://www.shoeprize.com/culture/4812</id>
@@ -27,9 +41,9 @@
         <content type="html"><![CDATA[<a href="/culture/4810">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="아 마 마니에르 x 에어 조던 17 로우 ‘비치’ 목업 이미지 내보이다">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="아 마 마니에르 x 에어 조던 17 로우 ‘비치’ 목업 이미지 내보이다">
           </picture>
         </div>
         <div class="info_area">
@@ -39,7 +53,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">78</span>
+                    <span class="count">113</span>
                   </div>
                 <div class="info date">
                   2023.06.27
@@ -97,19 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4805"/>
         <updated>2023-06-26T06:15:07.472Z</updated>
         <content type="html"><![CDATA[매력적으로 다가오는 날렵한 쉐입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 - 에어 조던 4 '밀리터리 블루' 출시일은 언제?]]></title>
-        <id>https://www.shoeprize.com/culture/4386</id>
-        <link href="https://www.shoeprize.com/culture/4386"/>
-        <updated>2023-06-26T05:11:37.746Z</updated>
-        <content type="html"><![CDATA[점점 구체화되고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꼼데가르송 옴므 x 뉴발란스 협업 스니커 2종 출시한다]]></title>
-        <id>https://www.shoeprize.com/culture/4804</id>
-        <link href="https://www.shoeprize.com/culture/4804"/>
-        <updated>2023-06-26T05:11:37.748Z</updated>
-        <content type="html"><![CDATA[2024 봄, 여름 컬렉션에 포함될]]></content>
     </entry>
 </feed>
