@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-06-29T14:10:23.912Z</updated>
+    <updated>2023-06-29T15:12:22.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[슈프라이즈 데일리 발매 정보 - 6월 30일]]></title>
+        <id>https://www.shoeprize.com/culture/4822</id>
+        <link href="https://www.shoeprize.com/culture/4822"/>
+        <updated>2023-06-29T15:12:21.175Z</updated>
+        <content type="html"><![CDATA[뉴발란스 신규 컬러 포함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무료 주식 제공 이벤트 포함, 나무증권과 함께하는 '나이키' 기업 분석]]></title>
         <id>https://www.shoeprize.com/culture/4721</id>
@@ -81,35 +88,5 @@
         <link href="https://www.shoeprize.com/culture/4811"/>
         <updated>2023-06-27T06:20:14.796Z</updated>
         <content type="html"><![CDATA[라멜지의 아트워크가 더해져 시선을 모았던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아 마 마니에르 x 에어 조던 17 로우 ‘비치’ 목업 이미지 내보이다]]></title>
-        <id>https://www.shoeprize.com/culture/4810</id>
-        <link href="https://www.shoeprize.com/culture/4810"/>
-        <updated>2023-06-27T06:20:14.786Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/4810">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-b98b6df8-14aa-11ee-bc31-0a1720fc9c0c.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="아 마 마니에르 x 에어 조던 17 로우 ‘비치’ 목업 이미지 내보이다">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">루머</div>
-            <div class="post_title">아 마 마니에르 x 에어 조던 17 로우 ‘비치’ 목업 이미지 내보이다</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">298</span>
-                  </div>
-                <div class="info date">
-                  2023.06.27
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
