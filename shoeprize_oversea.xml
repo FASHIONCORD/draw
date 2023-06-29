@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-06-29T19:08:50.420Z</updated>
+    <updated>2023-06-29T20:11:21.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 7 화이트 인프라레드]]></title>
-        <id>https://www.shoeprize.com/raffles/97907</id>
-        <link href="https://www.shoeprize.com/raffles/97907"/>
-        <updated>2023-06-29T15:12:08.419Z</updated>
-        <content type="html"><![CDATA[SNEAKER POLITICS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 7 레트로 GS 화이트 인프라레드]]></title>
-        <id>https://www.shoeprize.com/raffles/113967</id>
-        <link href="https://www.shoeprize.com/raffles/113967"/>
-        <updated>2023-06-29T15:12:08.419Z</updated>
-        <content type="html"><![CDATA[SNEAKER POLITICS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 7 화이트 인프라레드]]></title>
         <id>https://www.shoeprize.com/raffles/97907</id>
@@ -214,5 +200,19 @@
         <link href="https://www.shoeprize.com/raffles/101680"/>
         <updated>2023-06-29T15:12:08.459Z</updated>
         <content type="html"><![CDATA[나이키 코리아 SNKRS *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스파이더맨 x 에어 조던 1 하이 넥스트 챕터]]></title>
+        <id>https://www.shoeprize.com/raffles/101673</id>
+        <link href="https://www.shoeprize.com/raffles/101673"/>
+        <updated>2023-06-29T20:11:12.633Z</updated>
+        <content type="html"><![CDATA[나이키 코리아 SNKRS *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 7 화이트 인프라레드]]></title>
+        <id>https://www.shoeprize.com/raffles/97907</id>
+        <link href="https://www.shoeprize.com/raffles/97907"/>
+        <updated>2023-06-29T15:12:08.419Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
 </feed>
