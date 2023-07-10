@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-07-10T08:14:50.193Z</updated>
+    <updated>2023-07-10T09:12:09.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[슈프라이즈 탐구 생활 : 나이키 SNKRS 팝업 스토어]]></title>
+        <id>https://www.shoeprize.com/culture/4892</id>
+        <link href="https://www.shoeprize.com/culture/4892"/>
+        <updated>2023-07-10T09:12:08.461Z</updated>
+        <content type="html"><![CDATA[볼거리로 가득했던 현장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 SNKRS 앱 구매 가이드]]></title>
         <id>https://www.shoeprize.com/culture/4852</id>
@@ -53,7 +60,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,576</span>
+                    <span class="count">1,580</span>
                   </div>
                 <div class="info date">
                   2023.07.09
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4885"/>
         <updated>2023-07-08T13:15:49.969Z</updated>
         <content type="html"><![CDATA[일요일 핵심 응모만 모았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈팸에게 제안하는: 올해부터 내년까지 주목해야 할 스니커즈]]></title>
-        <id>https://www.shoeprize.com/culture/4875</id>
-        <link href="https://www.shoeprize.com/culture/4875"/>
-        <updated>2023-07-08T02:27:15.954Z</updated>
-        <content type="html"><![CDATA[하이엔드부터 길거리까지]]></content>
     </entry>
 </feed>
