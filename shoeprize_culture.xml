@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-07-22T07:09:27.211Z</updated>
+    <updated>2023-07-22T08:11:31.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://www.shoeprize.com/culture/4988"/>
         <updated>2023-07-22T03:10:15.517Z</updated>
         <content type="html"><![CDATA[단 50명만 입학할 수 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈프라이즈 데일리 발매 정보 - 7월 22일]]></title>
+        <id>https://www.shoeprize.com/culture/4987</id>
+        <link href="https://www.shoeprize.com/culture/4987"/>
+        <updated>2023-07-22T08:11:30.678Z</updated>
+        <content type="html"><![CDATA[조던 1 하이 유니버시티 블루 발매 예정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈프림이 서울에 이르기까지 #3 Supreme의 브랜드 협업]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.shoeprize.com/culture/4979"/>
         <updated>2023-07-21T03:10:34.188Z</updated>
         <content type="html"><![CDATA[달리기와 커피의 조합]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 '바비' 오피셜 이미지 내보이다]]></title>
-        <id>https://www.shoeprize.com/culture/4978</id>
-        <link href="https://www.shoeprize.com/culture/4978"/>
-        <updated>2023-07-21T02:06:38.019Z</updated>
-        <content type="html"><![CDATA[공식적인 협업은 X]]></content>
     </entry>
 </feed>
