@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-07-23T14:08:15.955Z</updated>
+    <updated>2023-07-23T15:09:03.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[슈프라이즈 데일리 발매 정보 - 7월 24일]]></title>
+        <id>https://www.shoeprize.com/culture/4992</id>
+        <link href="https://www.shoeprize.com/culture/4992"/>
+        <updated>2023-07-23T15:09:02.569Z</updated>
+        <content type="html"><![CDATA[PSG vs 전북 현대 티켓팅 발매 예정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PSG를 직접 만날 수 있는 기회, 7월 4주 차 주요 발매 소식]]></title>
         <id>https://www.shoeprize.com/culture/4990</id>
@@ -27,9 +34,9 @@
         <content type="html"><![CDATA[<a href="/culture/4993">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep51: 슈붕이가 '옷질'을 하는 이유">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep51: 슈붕이가 '옷질'을 하는 이유">
           </picture>
         </div>
         <div class="info_area">
@@ -39,7 +46,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,906</span>
+                    <span class="count">1,922</span>
                   </div>
                 <div class="info date">
                   2023.07.23
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4983"/>
         <updated>2023-07-22T02:03:08.182Z</updated>
         <content type="html"><![CDATA[선호하는 편집숍별 맞춤 코스로.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후지와라 히로시, '프라그먼트 유니버시티' 개교한다]]></title>
-        <id>https://www.shoeprize.com/culture/4988</id>
-        <link href="https://www.shoeprize.com/culture/4988"/>
-        <updated>2023-07-22T03:10:15.517Z</updated>
-        <content type="html"><![CDATA[단 50명만 입학할 수 있다]]></content>
     </entry>
 </feed>
