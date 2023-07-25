@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-07-25T05:10:04.897Z</updated>
+    <updated>2023-07-25T06:13:45.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제이 발빈 x 에어 조던 3 '리오' 목업 이미지 내보이다]]></title>
+        <id>https://www.shoeprize.com/culture/5000</id>
+        <link href="https://www.shoeprize.com/culture/5000"/>
+        <updated>2023-07-25T06:13:44.578Z</updated>
+        <content type="html"><![CDATA[네 번째 만남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아 마 마니에르 x 조던 에어 쉽 '화이트 블랙' 오피셜 이미지 & 출시 정보]]></title>
         <id>https://www.shoeprize.com/culture/4999</id>
@@ -81,35 +88,5 @@
         <link href="https://www.shoeprize.com/culture/4986"/>
         <updated>2023-07-23T05:09:28.170Z</updated>
         <content type="html"><![CDATA[당신에게 필요한 정보 + 패션 기업 채용공고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳤습니까 슈먼? ep51: 슈붕이가 '옷질'을 하는 이유]]></title>
-        <id>https://www.shoeprize.com/culture/4993</id>
-        <link href="https://www.shoeprize.com/culture/4993"/>
-        <updated>2023-07-23T08:14:17.997Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/4993">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a60a743c-2926-11ee-bd64-02c892e612a2.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep51: 슈붕이가 '옷질'을 하는 이유">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">웹툰</div>
-            <div class="post_title">미쳤습니까 슈먼? ep51: 슈붕이가 '옷질'을 하는 이유</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">2,193</span>
-                  </div>
-                <div class="info date">
-                  2023.07.23
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
