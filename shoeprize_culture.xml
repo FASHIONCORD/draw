@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-08-03T05:09:55.003Z</updated>
+    <updated>2023-08-03T06:12:43.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지수와 안보현의 열애 소식]]></title>
+        <id>https://www.shoeprize.com/culture/5071</id>
+        <link href="https://www.shoeprize.com/culture/5071"/>
+        <updated>2023-08-03T06:12:42.660Z</updated>
+        <content type="html"><![CDATA[YG의 첫 번째 공식 열애 인정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한나절 풀코스 4선: 부산]]></title>
         <id>https://www.shoeprize.com/culture/5069</id>
@@ -81,12 +88,5 @@
         <link href="https://www.shoeprize.com/culture/5058"/>
         <updated>2023-08-03T03:10:32.622Z</updated>
         <content type="html"><![CDATA[세 번째 모델]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프라이즈 데일리 발매 정보 - 8월 2일]]></title>
-        <id>https://www.shoeprize.com/culture/5055</id>
-        <link href="https://www.shoeprize.com/culture/5055"/>
-        <updated>2023-08-03T03:10:32.624Z</updated>
-        <content type="html"><![CDATA[파워퍼프걸 x 뉴진스 머천다이즈가 포함된]]></content>
     </entry>
 </feed>
