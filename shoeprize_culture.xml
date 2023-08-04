@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-08-04T07:09:42.714Z</updated>
+    <updated>2023-08-04T08:13:13.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[슈프패치 : 루머는 팩트가 아니다!]]></title>
-        <id>https://www.shoeprize.com/culture/5084</id>
-        <link href="https://www.shoeprize.com/culture/5084"/>
-        <updated>2023-08-04T07:09:41.681Z</updated>
-        <content type="html"><![CDATA[8월 1주 차 루머 모음]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[슈프라이즈 패션 기업 채용 공고: 8월 1주 차]]></title>
         <id>https://www.shoeprize.com/culture/5066</id>
@@ -88,5 +81,12 @@
         <link href="https://www.shoeprize.com/culture/5072"/>
         <updated>2023-08-03T07:09:36.284Z</updated>
         <content type="html"><![CDATA[분기별 수익이 10억 달러를 웃돈다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지수와 안보현의 열애 소식]]></title>
+        <id>https://www.shoeprize.com/culture/5071</id>
+        <link href="https://www.shoeprize.com/culture/5071"/>
+        <updated>2023-08-04T08:13:12.856Z</updated>
+        <content type="html"><![CDATA[YG의 첫 번째 공식 열애 인정]]></content>
     </entry>
 </feed>
