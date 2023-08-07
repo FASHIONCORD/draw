@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-08-07T00:47:19.138Z</updated>
+    <updated>2023-08-07T02:02:05.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://www.shoeprize.com/culture/5090"/>
         <updated>2023-08-06T15:09:04.311Z</updated>
         <content type="html"><![CDATA[컬러 오브 더 먼스의 새로운 컬러]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업데이트 - 에이프릴 스케이트보드 x 나이키 SB 덩크 로우의 예상 출시일은?]]></title>
+        <id>https://www.shoeprize.com/culture/4069</id>
+        <link href="https://www.shoeprize.com/culture/4069"/>
+        <updated>2023-08-07T02:02:05.157Z</updated>
+        <content type="html"><![CDATA[카시나 맛?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크록스 협업 포함, 팔라스 2023 가을 컬렉션 2주 차 드롭 일정]]></title>
+        <id>https://www.shoeprize.com/culture/5092</id>
+        <link href="https://www.shoeprize.com/culture/5092"/>
+        <updated>2023-08-07T02:02:05.161Z</updated>
+        <content type="html"><![CDATA[네 번째 만남]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크록스 x 미스치프 협업 포함, 8월 2주 차 주요 발매 소식]]></title>
@@ -27,9 +41,9 @@
         <content type="html"><![CDATA[<a href="/culture/5091">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep53:요즘 유행하는 패션 특">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4cda655c-3425-11ee-b6d7-0a3aa7878f34.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep53:요즘 유행하는 패션 특">
           </picture>
         </div>
         <div class="info_area">
@@ -39,7 +53,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,876</span>
+                    <span class="count">1,914</span>
                   </div>
                 <div class="info date">
                   2023.08.06
@@ -97,19 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5082"/>
         <updated>2023-08-05T06:11:33.247Z</updated>
         <content type="html"><![CDATA[다가오는 SNKRS 데이 라인업은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프라이즈 패션 기업 채용 공고: 8월 1주 차]]></title>
-        <id>https://www.shoeprize.com/culture/5066</id>
-        <link href="https://www.shoeprize.com/culture/5066"/>
-        <updated>2023-08-04T03:10:39.961Z</updated>
-        <content type="html"><![CDATA[세이투셰, 아더에러, 라브로스, 벨벳트렁크, 라이커샵까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 - 슈프림 서울 스토어 오픈 전, 루머 총정리]]></title>
-        <id>https://www.shoeprize.com/culture/3089</id>
-        <link href="https://www.shoeprize.com/culture/3089"/>
-        <updated>2023-08-05T03:10:53.409Z</updated>
-        <content type="html"><![CDATA[오픈 시기는?]]></content>
     </entry>
 </feed>
