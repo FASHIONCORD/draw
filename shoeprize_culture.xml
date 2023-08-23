@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-08-23T12:17:06.093Z</updated>
+    <updated>2023-08-23T13:11:36.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/culture/5161"/>
         <updated>2023-08-23T07:09:46.555Z</updated>
         <content type="html"><![CDATA[돌아온 블루 틴트 포함 4종]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울에서 촬영한 슈프림의 스케이트 필름  공개]]></title>
+        <id>https://www.shoeprize.com/culture/5160</id>
+        <link href="https://www.shoeprize.com/culture/5160"/>
+        <updated>2023-08-23T13:11:35.782Z</updated>
+        <content type="html"><![CDATA[한국 로컬 스케이터들과 함께.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['머.트.발' 국내 명품 3사 합병 무산되다]]></title>
@@ -46,7 +53,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,977</span>
+                    <span class="count">1,979</span>
                   </div>
                 <div class="info date">
                   2023.08.20
@@ -127,12 +134,5 @@
         <link href="https://www.shoeprize.com/culture/5146"/>
         <updated>2023-08-18T02:15:10.929Z</updated>
         <content type="html"><![CDATA[최대 80% 할인. 카테고리별로 준비했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프림 23FW 1주 차 드롭 아이템 추천]]></title>
-        <id>https://www.shoeprize.com/culture/5153</id>
-        <link href="https://www.shoeprize.com/culture/5153"/>
-        <updated>2023-08-17T09:11:14.521Z</updated>
-        <content type="html"><![CDATA[한국에서 발매되는 첫 드롭 리스트. 그 중 눈여겨볼 만한 제품들]]></content>
     </entry>
 </feed>
