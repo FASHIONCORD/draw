@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-08-23T03:09:58.401Z</updated>
+    <updated>2023-08-23T04:10:56.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[서울에서 촬영한 슈프림의 스케이트 필름  공개]]></title>
-        <id>https://www.shoeprize.com/culture/5160</id>
-        <link href="https://www.shoeprize.com/culture/5160"/>
-        <updated>2023-08-23T02:14:28.548Z</updated>
-        <content type="html"><![CDATA[한국 로컬 스케이터들과 함께.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['머.트.발' 국내 명품 3사 합병 무산되다]]></title>
         <id>https://www.shoeprize.com/culture/5159</id>
@@ -34,9 +27,9 @@
         <content type="html"><![CDATA[<a href="/culture/5158">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep55: 슈프림 서울 매장 오픈!">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg?w=600">
+            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-9a40576a-3f34-11ee-9ad3-0a874813ab12.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep55: 슈프림 서울 매장 오픈!">
           </picture>
         </div>
         <div class="info_area">
@@ -46,7 +39,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,957</span>
+                    <span class="count">1,959</span>
                   </div>
                 <div class="info date">
                   2023.08.20
@@ -104,7 +97,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">2,724</span>
+                    <span class="count">2,725</span>
                   </div>
                 <div class="info date">
                   2023.08.18
@@ -134,5 +127,12 @@
         <link href="https://www.shoeprize.com/culture/5153"/>
         <updated>2023-08-17T09:11:14.521Z</updated>
         <content type="html"><![CDATA[한국에서 발매되는 첫 드롭 리스트. 그 중 눈여겨볼 만한 제품들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노트레 x 살로몬 XT-4 '글라스 스테인 그린 화이트 크림' 출시 정보]]></title>
+        <id>https://www.shoeprize.com/culture/5152</id>
+        <link href="https://www.shoeprize.com/culture/5152"/>
+        <updated>2023-08-23T04:10:55.930Z</updated>
+        <content type="html"><![CDATA[잔디로 얼룩진 듯한 그래픽]]></content>
     </entry>
 </feed>
