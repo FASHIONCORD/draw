@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-09-03T13:09:53.778Z</updated>
+    <updated>2023-09-03T14:08:26.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/raffles/106774"/>
         <updated>2023-09-02T15:08:39.044Z</updated>
         <content type="html"><![CDATA[BATSU SKATESHOP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 가젤 원더 베이지]]></title>
+        <id>https://www.shoeprize.com/raffles/117750</id>
+        <link href="https://www.shoeprize.com/raffles/117750"/>
+        <updated>2023-09-03T14:08:10.673Z</updated>
+        <content type="html"><![CDATA[ADIDAS US]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코스츠 x 아식스 젤-라이트 3 OG 케인 바인 브라운 피 그린]]></title>
@@ -44,7 +51,7 @@
         <title type="html"><![CDATA[나이키 ACG 워터캣+ 블랙 앤트러사이트]]></title>
         <id>https://www.shoeprize.com/raffles/116291</id>
         <link href="https://www.shoeprize.com/raffles/116291"/>
-        <updated>2023-09-03T13:09:33.124Z</updated>
+        <updated>2023-09-03T13:09:33.122Z</updated>
         <content type="html"><![CDATA[NIKE GB]]></content>
     </entry>
     <entry>
@@ -156,7 +163,7 @@
         <title type="html"><![CDATA[나이키 ACG 워터캣+ 블랙 앤트러사이트]]></title>
         <id>https://www.shoeprize.com/raffles/116291</id>
         <link href="https://www.shoeprize.com/raffles/116291"/>
-        <updated>2023-09-03T13:09:33.155Z</updated>
+        <updated>2023-09-03T13:09:33.122Z</updated>
         <content type="html"><![CDATA[SIZE? UK]]></content>
     </entry>
 </feed>
