@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-09-11T07:09:46.982Z</updated>
+    <updated>2023-09-11T08:14:14.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팔라스 × 칼하트WIP 콜라보레이션 예고]]></title>
+        <id>https://www.shoeprize.com/culture/5231</id>
+        <link href="https://www.shoeprize.com/culture/5231"/>
+        <updated>2023-09-11T08:14:13.225Z</updated>
+        <content type="html"><![CDATA[이번엔 또 뭐가 나올까]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데님 티어스 × 리바이스 9월 12일 온라인 발매]]></title>
+        <id>https://www.shoeprize.com/culture/5208</id>
+        <link href="https://www.shoeprize.com/culture/5208"/>
+        <updated>2023-09-11T08:14:13.226Z</updated>
+        <content type="html"><![CDATA[상세 제품군이 공개됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드디어 등장한 조던 4 레드 시멘트, 9월 2주 차 주요 발매 소식]]></title>
         <id>https://www.shoeprize.com/culture/5227</id>
@@ -20,9 +34,9 @@
         <content type="html"><![CDATA[<a href="/culture/5228">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep58: 충동구매">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0da377d0-4fa9-11ee-a84b-023410ca3606.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep58: 충동구매">
           </picture>
         </div>
         <div class="info_area">
@@ -32,7 +46,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,543</span>
+                    <span class="count">1,552</span>
                   </div>
                 <div class="info date">
                   2023.09.10
@@ -97,19 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5212"/>
         <updated>2023-09-07T09:09:59.767Z</updated>
         <content type="html"><![CDATA[진짜배기 빈티지숍이 한가득.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 돌아온 조 프레쉬굿즈 x 뉴발란스 협업 발매 소식]]></title>
-        <id>https://www.shoeprize.com/culture/5219</id>
-        <link href="https://www.shoeprize.com/culture/5219"/>
-        <updated>2023-09-07T09:09:59.768Z</updated>
-        <content type="html"><![CDATA[마이클 조던이 계속 뉴발란스를 신었더라면 어땠을까.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로 키티 x 아디다스 삼바 내년 봄 출시?]]></title>
-        <id>https://www.shoeprize.com/culture/5218</id>
-        <link href="https://www.shoeprize.com/culture/5218"/>
-        <updated>2023-09-07T06:12:41.599Z</updated>
-        <content type="html"><![CDATA[I need this...]]></content>
     </entry>
 </feed>
