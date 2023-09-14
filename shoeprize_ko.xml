@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-09-14T03:10:18.985Z</updated>
+    <updated>2023-09-14T04:11:55.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[나이키 줌 보메로 5 앤트러사이트 (2023)]]></title>
-        <id>https://www.shoeprize.com/raffles/106698</id>
-        <link href="https://www.shoeprize.com/raffles/106698"/>
-        <updated>2023-09-14T03:09:53.206Z</updated>
-        <content type="html"><![CDATA[훕시티]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[녹타 x 나이키 글라이드 블랙 앤 화이트]]></title>
         <id>https://www.shoeprize.com/raffles/115327</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/113239"/>
         <updated>2023-09-14T03:09:53.272Z</updated>
         <content type="html"><![CDATA[NAKED]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 1 우먼스 세일 블랙 라이트 오어우드 브라운]]></title>
+        <id>https://www.shoeprize.com/raffles/115574</id>
+        <link href="https://www.shoeprize.com/raffles/115574"/>
+        <updated>2023-09-14T00:39:00.446Z</updated>
+        <content type="html"><![CDATA[FOOTPATROL *IN APP]]></content>
     </entry>
 </feed>
