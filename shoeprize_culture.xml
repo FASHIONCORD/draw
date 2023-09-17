@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-09-17T10:09:36.042Z</updated>
+    <updated>2023-09-17T11:07:44.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제이 발빈 협업 컬렉션과 함께하는 9월 3주 차 주요 발매 소식]]></title>
+        <id>https://www.shoeprize.com/culture/5252</id>
+        <link href="https://www.shoeprize.com/culture/5252"/>
+        <updated>2023-09-17T11:07:43.967Z</updated>
+        <content type="html"><![CDATA[다양한 협업 제품이 준비된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미쳤습니까 슈먼? ep59: 가을 언제 오나]]></title>
         <id>https://www.shoeprize.com/culture/5253</id>
@@ -25,7 +32,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">595</span>
+                    <span class="count">986</span>
                   </div>
                 <div class="info date">
                   2023.09.17
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5245"/>
         <updated>2023-09-15T03:10:23.709Z</updated>
         <content type="html"><![CDATA[어딜 봐도 핑크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반나절 풀코스: 삼각지]]></title>
-        <id>https://www.shoeprize.com/culture/5240</id>
-        <link href="https://www.shoeprize.com/culture/5240"/>
-        <updated>2023-09-14T08:13:15.187Z</updated>
-        <content type="html"><![CDATA['되는 동네']]></content>
     </entry>
 </feed>
