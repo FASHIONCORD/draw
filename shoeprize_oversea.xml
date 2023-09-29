@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-09-29T04:12:14.989Z</updated>
+    <updated>2023-09-29T05:09:41.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[살레헤 벰버리 x 크록스 폴렉스 슬라이드 허클]]></title>
+        <id>https://www.shoeprize.com/raffles/365510</id>
+        <link href="https://www.shoeprize.com/raffles/365510"/>
+        <updated>2023-09-29T00:40:39.174Z</updated>
+        <content type="html"><![CDATA[카시나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 8 플레이오프]]></title>
         <id>https://www.shoeprize.com/raffles/102572</id>
@@ -188,6 +195,13 @@
         <content type="html"><![CDATA[BODEGA]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[샤를로트 카르딘 x 아식스 EX-89 크림 스틸 블루]]></title>
+        <id>https://www.shoeprize.com/raffles/382836</id>
+        <link href="https://www.shoeprize.com/raffles/382836"/>
+        <updated>2023-09-29T05:09:33.687Z</updated>
+        <content type="html"><![CDATA[DOVER LDN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이키 에어 맥스 1 '86 OG 골프 솔헤이엠 컵 EU]]></title>
         <id>https://www.shoeprize.com/raffles/366087</id>
         <link href="https://www.shoeprize.com/raffles/366087"/>
@@ -200,19 +214,5 @@
         <link href="https://www.shoeprize.com/raffles/365510"/>
         <updated>2023-09-29T00:40:39.174Z</updated>
         <content type="html"><![CDATA[CROCS US]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 우먼스 카카오 와우]]></title>
-        <id>https://www.shoeprize.com/raffles/112871</id>
-        <link href="https://www.shoeprize.com/raffles/112871"/>
-        <updated>2023-09-29T04:12:04.217Z</updated>
-        <content type="html"><![CDATA[SHIEKH]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 에어 맥스 90 블랙 리플렉티브]]></title>
-        <id>https://www.shoeprize.com/raffles/122376</id>
-        <link href="https://www.shoeprize.com/raffles/122376"/>
-        <updated>2023-09-29T04:12:04.220Z</updated>
-        <content type="html"><![CDATA[FINISHLINE]]></content>
     </entry>
 </feed>
