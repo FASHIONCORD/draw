@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-10-04T21:10:26.022Z</updated>
+    <updated>2023-10-04T22:10:48.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[앰부쉬 x 나이키 에어 모어 업템포 로우 블랙 앤 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/362788</id>
-        <link href="https://www.shoeprize.com/raffles/362788"/>
-        <updated>2023-10-04T15:10:56.211Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰부쉬 x 나이키 에어 모어 업템포 우먼스 라일락 앤 애플 그린]]></title>
-        <id>https://www.shoeprize.com/raffles/117714</id>
-        <link href="https://www.shoeprize.com/raffles/117714"/>
-        <updated>2023-10-04T15:10:56.214Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키 덩크 로우 한글날]]></title>
-        <id>https://www.shoeprize.com/raffles/362733</id>
-        <link href="https://www.shoeprize.com/raffles/362733"/>
-        <updated>2023-10-04T15:10:56.216Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 576 메이드 인 UK 이든 알로이 앤 그레이 바이올렛]]></title>
         <id>https://www.shoeprize.com/raffles/382626</id>
@@ -214,5 +193,26 @@
         <link href="https://www.shoeprize.com/raffles/381937"/>
         <updated>2023-10-04T15:10:56.258Z</updated>
         <content type="html"><![CDATA[온더스팟]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹타 x 나이키 캡 카모]]></title>
+        <id>https://www.shoeprize.com/raffles/382360</id>
+        <link href="https://www.shoeprize.com/raffles/382360"/>
+        <updated>2023-10-04T15:10:56.232Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹타 x 나이키 러닝 쇼츠 카모]]></title>
+        <id>https://www.shoeprize.com/raffles/382364</id>
+        <link href="https://www.shoeprize.com/raffles/382364"/>
+        <updated>2023-10-04T15:10:56.233Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹타 x 나이키 러닝 탑 카모]]></title>
+        <id>https://www.shoeprize.com/raffles/382358</id>
+        <link href="https://www.shoeprize.com/raffles/382358"/>
+        <updated>2023-10-04T15:10:56.234Z</updated>
+        <content type="html"><![CDATA[나이키 코리아]]></content>
     </entry>
 </feed>
