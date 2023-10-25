@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-10-25T01:44:30.955Z</updated>
+    <updated>2023-10-25T02:18:28.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 삼바 코어 블랙]]></title>
-        <id>https://www.shoeprize.com/raffles/364311</id>
-        <link href="https://www.shoeprize.com/raffles/364311"/>
-        <updated>2023-10-25T01:44:09.982Z</updated>
-        <content type="html"><![CDATA[무신사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 삼바 할블루 클래스터]]></title>
-        <id>https://www.shoeprize.com/raffles/364310</id>
-        <link href="https://www.shoeprize.com/raffles/364310"/>
-        <updated>2023-10-25T01:44:09.983Z</updated>
-        <content type="html"><![CDATA[무신사]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴발란스 576 메이드 인 UK 컨템포러리 럭스 라이트 그레이 문빔]]></title>
         <id>https://www.shoeprize.com/raffles/365697</id>
@@ -213,6 +199,20 @@
         <id>https://www.shoeprize.com/raffles/118463</id>
         <link href="https://www.shoeprize.com/raffles/118463"/>
         <updated>2023-10-25T01:44:10.031Z</updated>
+        <content type="html"><![CDATA[FINISHLINE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 90 우먼스 카키 미디엄 올리브 바로크 브라운]]></title>
+        <id>https://www.shoeprize.com/raffles/362967</id>
+        <link href="https://www.shoeprize.com/raffles/362967"/>
+        <updated>2023-10-25T02:18:04.972Z</updated>
+        <content type="html"><![CDATA[FINISHLINE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 맥스 2013 라이트 본]]></title>
+        <id>https://www.shoeprize.com/raffles/366311</id>
+        <link href="https://www.shoeprize.com/raffles/366311"/>
+        <updated>2023-10-25T02:18:04.976Z</updated>
         <content type="html"><![CDATA[FINISHLINE]]></content>
     </entry>
 </feed>
