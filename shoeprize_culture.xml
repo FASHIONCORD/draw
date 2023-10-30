@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-10-30T05:10:34.326Z</updated>
+    <updated>2023-10-30T06:13:04.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[살레헤 벰버리 x 크록스 폴렉스 '요크' 공개]]></title>
+        <id>https://www.shoeprize.com/culture/5380</id>
+        <link href="https://www.shoeprize.com/culture/5380"/>
+        <updated>2023-10-30T06:13:03.852Z</updated>
+        <content type="html"><![CDATA[계란 노른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풋락커, 다크룸, 나이키가 에어 맥스 플러스 25주년 캠페인을 진행한다]]></title>
         <id>https://www.shoeprize.com/culture/5379</id>
@@ -48,9 +55,9 @@
         <content type="html"><![CDATA[<a href="/culture/5374">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep64:눈길이 가는 발매예정 콜라보 스니커즈 3가지">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-0152cd5c-7617-11ee-861c-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep64:눈길이 가는 발매예정 콜라보 스니커즈 3가지">
           </picture>
         </div>
         <div class="info_area">
@@ -60,7 +67,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">2,555</span>
+                    <span class="count">2,580</span>
                   </div>
                 <div class="info date">
                   2023.10.29
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5368"/>
         <updated>2023-10-27T02:16:50.303Z</updated>
         <content type="html"><![CDATA[자크뮈스 한정 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프림, 국내 상표권 등록 마무리?]]></title>
-        <id>https://www.shoeprize.com/culture/5370</id>
-        <link href="https://www.shoeprize.com/culture/5370"/>
-        <updated>2023-10-27T03:10:43.238Z</updated>
-        <content type="html"><![CDATA[온라인 스토어까지 만나볼 수 있을까]]></content>
     </entry>
 </feed>
