@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2023-11-02T10:11:12.547Z</updated>
+    <updated>2023-11-02T11:09:06.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[슬램 잼 x 살로몬 XT 퀘스트 1 실버 메탈릭]]></title>
-        <id>https://www.shoeprize.com/raffles/383337</id>
-        <link href="https://www.shoeprize.com/raffles/383337"/>
-        <updated>2023-11-02T03:11:11.787Z</updated>
-        <content type="html"><![CDATA[SLAMJAM]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 케이블 니트 터틀넥 스웨터 라이트 본]]></title>
         <id>https://www.shoeprize.com/raffles/387673</id>
@@ -213,6 +206,13 @@
         <id>https://www.shoeprize.com/raffles/365383</id>
         <link href="https://www.shoeprize.com/raffles/365383"/>
         <updated>2023-11-02T10:10:53.882Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 줌 G.T. 점프 2 레드]]></title>
+        <id>https://www.shoeprize.com/raffles/386119</id>
+        <link href="https://www.shoeprize.com/raffles/386119"/>
+        <updated>2023-11-02T11:08:57.036Z</updated>
         <content type="html"><![CDATA[NIKE US]]></content>
     </entry>
 </feed>
