@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-11-02T19:08:13.426Z</updated>
+    <updated>2023-11-02T20:10:23.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[아디다스 데임 서티파이드 2.0 코어 블랙 그레이 식스]]></title>
-        <id>https://www.shoeprize.com/raffles/387268</id>
-        <link href="https://www.shoeprize.com/raffles/387268"/>
-        <updated>2023-11-02T15:10:29.399Z</updated>
-        <content type="html"><![CDATA[ADIDAS US]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[키코 코스타디노브 x 아식스 노발리스 젤-테레모아 옵시디언 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/383201</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/363940"/>
         <updated>2023-11-02T17:09:43.811Z</updated>
         <content type="html"><![CDATA[나이키 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키코 코스타디노브 x 아식스 노발리스 젤-테레모아 자바]]></title>
+        <id>https://www.shoeprize.com/raffles/386915</id>
+        <link href="https://www.shoeprize.com/raffles/386915"/>
+        <updated>2023-11-02T15:10:29.403Z</updated>
+        <content type="html"><![CDATA[END]]></content>
     </entry>
 </feed>
