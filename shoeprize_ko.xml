@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-11-10T06:12:58.090Z</updated>
+    <updated>2023-11-10T07:08:51.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 5 네이비]]></title>
+        <id>https://www.shoeprize.com/raffles/108114</id>
+        <link href="https://www.shoeprize.com/raffles/108114"/>
+        <updated>2023-11-09T15:10:24.850Z</updated>
+        <content type="html"><![CDATA[조던 월드 오브 플라이트 서울 홍대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 11 우먼스 나폴리탄]]></title>
         <id>https://www.shoeprize.com/raffles/107205</id>
@@ -206,13 +213,6 @@
         <id>https://www.shoeprize.com/raffles/388625</id>
         <link href="https://www.shoeprize.com/raffles/388625"/>
         <updated>2023-11-10T04:11:05.702Z</updated>
-        <content type="html"><![CDATA[리바이스 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스투시 x 리바이스 자카드 진 핑크]]></title>
-        <id>https://www.shoeprize.com/raffles/388621</id>
-        <link href="https://www.shoeprize.com/raffles/388621"/>
-        <updated>2023-11-10T04:11:05.703Z</updated>
         <content type="html"><![CDATA[리바이스 코리아]]></content>
     </entry>
 </feed>
