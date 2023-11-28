@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-11-28T07:10:02.689Z</updated>
+    <updated>2023-11-28T08:13:44.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나이키 x 스투시 협업 ‘에어 플라이트 89’ 2종 오피셜 이미지 공개]]></title>
+        <id>https://www.shoeprize.com/culture/5541</id>
+        <link href="https://www.shoeprize.com/culture/5541"/>
+        <updated>2023-11-28T08:13:43.725Z</updated>
+        <content type="html"><![CDATA[스네이크 스킨과 스투시의 로고가 포인트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[업데이트 - 팔라스 x 어그 전체 제품 및 출시 일정 공개]]></title>
         <id>https://www.shoeprize.com/culture/5535</id>
@@ -81,35 +88,5 @@
         <link href="https://www.shoeprize.com/culture/5529"/>
         <updated>2023-11-27T01:52:36.209Z</updated>
         <content type="html"><![CDATA[11월의 마지막 소식은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳤습니까 슈먼? ep68: 11월 28일. 버질아블로 2주기]]></title>
-        <id>https://www.shoeprize.com/culture/5531</id>
-        <link href="https://www.shoeprize.com/culture/5531"/>
-        <updated>2023-11-26T10:09:48.531Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/5531">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-7cf9e482-8c3c-11ee-aa5a-02f902348db8.jpeg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-7cf9e482-8c3c-11ee-aa5a-02f902348db8.jpeg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-7cf9e482-8c3c-11ee-aa5a-02f902348db8.jpeg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep68: 11월 28일. 버질아블로 2주기">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">웹툰</div>
-            <div class="post_title">미쳤습니까 슈먼? ep68: 11월 28일. 버질아블로 2주기</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">1,535</span>
-                  </div>
-                <div class="info date">
-                  2023.11.26
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
