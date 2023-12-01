@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-12-01T09:10:45.422Z</updated>
+    <updated>2023-12-01T10:10:50.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[골프왕 국내 팝업 소식 확인하기]]></title>
+        <id>https://www.shoeprize.com/culture/5564</id>
+        <link href="https://www.shoeprize.com/culture/5564"/>
+        <updated>2023-12-01T10:10:50.161Z</updated>
+        <content type="html"><![CDATA[서울 포함 전 세계 15곳에서 선보일 예정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼렐이 선보인 두 번째 루이비통 패션쇼]]></title>
         <id>https://www.shoeprize.com/culture/5563</id>
@@ -81,12 +88,5 @@
         <link href="https://www.shoeprize.com/culture/5552"/>
         <updated>2023-11-30T08:12:54.965Z</updated>
         <content type="html"><![CDATA[국가대표부터 클럽 팀까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떠그클럽 x 휠라 협업 컬렉션 출시 일정 공개]]></title>
-        <id>https://www.shoeprize.com/culture/5551</id>
-        <link href="https://www.shoeprize.com/culture/5551"/>
-        <updated>2023-11-30T06:13:12.223Z</updated>
-        <content type="html"><![CDATA[용을 형상화한 디자인]]></content>
     </entry>
 </feed>
