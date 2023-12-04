@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-12-04T08:13:55.569Z</updated>
+    <updated>2023-12-04T09:11:22.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[홀리데이 시즌 맞이, 키스마스 2023 살펴보기]]></title>
+        <id>https://www.shoeprize.com/culture/5575</id>
+        <link href="https://www.shoeprize.com/culture/5575"/>
+        <updated>2023-12-04T09:11:22.183Z</updated>
+        <content type="html"><![CDATA[키스, 클락스, 아디다스 삼자협업 포함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카일리 제너 'KHY', 세 번째 드롭을 예고하다]]></title>
         <id>https://www.shoeprize.com/culture/5574</id>
@@ -81,35 +88,5 @@
         <link href="https://www.shoeprize.com/culture/5558"/>
         <updated>2023-12-03T03:10:40.595Z</updated>
         <content type="html"><![CDATA[12월 첫 주요 발매 소식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳤습니까 슈먼? ep69: 예전 스캇, 요즘 스캇]]></title>
-        <id>https://www.shoeprize.com/culture/5566</id>
-        <link href="https://www.shoeprize.com/culture/5566"/>
-        <updated>2023-12-03T04:11:48.333Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/5566">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a8878512-9189-11ee-8b04-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a8878512-9189-11ee-8b04-0a33ed3be6e4.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-a8878512-9189-11ee-8b04-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep69: 예전 스캇, 요즘 스캇">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">웹툰</div>
-            <div class="post_title">미쳤습니까 슈먼? ep69: 예전 스캇, 요즘 스캇</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">3,814</span>
-                  </div>
-                <div class="info date">
-                  2023.12.03
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
