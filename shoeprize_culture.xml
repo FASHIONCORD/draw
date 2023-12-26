@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2023-12-26T12:16:50.422Z</updated>
+    <updated>2023-12-26T13:11:03.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[키코 코스타디노브와 리바이스가 손을 잡는다?]]></title>
+        <id>https://www.shoeprize.com/culture/5677</id>
+        <link href="https://www.shoeprize.com/culture/5677"/>
+        <updated>2023-12-26T13:11:02.921Z</updated>
+        <content type="html"><![CDATA[501 데님에 수놓아질 키코의 철학?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸예 웨스트, 반유대주의 발언에 대한 사과문 게재]]></title>
+        <id>https://www.shoeprize.com/culture/5678</id>
+        <link href="https://www.shoeprize.com/culture/5678"/>
+        <updated>2023-12-26T13:11:02.923Z</updated>
+        <content type="html"><![CDATA[향후 행보는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴먼 메이드, 2024 봄/여름 컬렉션 발매 예고]]></title>
         <id>https://www.shoeprize.com/culture/5674</id>
@@ -41,9 +55,9 @@
         <content type="html"><![CDATA[<a href="/culture/5671">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep72: 메리 크리스마스!를 위한 레드 스니커즈">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-004ba578-a218-11ee-a541-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep72: 메리 크리스마스!를 위한 레드 스니커즈">
           </picture>
         </div>
         <div class="info_area">
@@ -97,19 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5667"/>
         <updated>2023-12-22T06:12:44.472Z</updated>
         <content type="html"><![CDATA[출시일은 아직 미정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 - 키스 x 클락스 x 아디다스 삼바 2종 응모 시작]]></title>
-        <id>https://www.shoeprize.com/culture/5628</id>
-        <link href="https://www.shoeprize.com/culture/5628"/>
-        <updated>2023-12-22T04:12:38.778Z</updated>
-        <content type="html"><![CDATA[키스마스 2023 기념]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년도 봄 출시 예정 조던 모아보기]]></title>
-        <id>https://www.shoeprize.com/culture/5663</id>
-        <link href="https://www.shoeprize.com/culture/5663"/>
-        <updated>2023-12-21T12:17:32.309Z</updated>
-        <content type="html"><![CDATA[에어 조던 4 브레드 리이매진드 포함]]></content>
     </entry>
 </feed>
