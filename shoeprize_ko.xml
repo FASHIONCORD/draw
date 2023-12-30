@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2023-12-30T02:20:07.552Z</updated>
+    <updated>2023-12-30T03:10:48.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[브레이브 스튜디오 베어 클로 뮬 브라운]]></title>
-        <id>https://www.shoeprize.com/raffles/393317</id>
-        <link href="https://www.shoeprize.com/raffles/393317"/>
-        <updated>2023-12-29T15:09:19.327Z</updated>
-        <content type="html"><![CDATA[BRAVEST STUDIOS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[베이프 x 알파 인더스트리 밀리터리 맨헌트 네이비]]></title>
         <id>https://www.shoeprize.com/raffles/393559</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/391259"/>
         <updated>2023-12-29T19:07:48.158Z</updated>
         <content type="html"><![CDATA[ONE BLOCK DOWN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아식스 젤-NYC 미드 그레이 시트 락]]></title>
+        <id>https://www.shoeprize.com/raffles/391260</id>
+        <link href="https://www.shoeprize.com/raffles/391260"/>
+        <updated>2023-12-29T19:07:48.165Z</updated>
+        <content type="html"><![CDATA[SOLEBOX]]></content>
     </entry>
 </feed>
