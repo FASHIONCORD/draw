@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-01-02T07:09:49.201Z</updated>
+    <updated>2024-01-02T08:13:17.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메건 더 스탤리언과 나이키가 협업 컬렉션을 발매한다?]]></title>
+        <id>https://www.shoeprize.com/culture/5690</id>
+        <link href="https://www.shoeprize.com/culture/5690"/>
+        <updated>2024-01-02T08:13:16.511Z</updated>
+        <content type="html"><![CDATA[과감하고 도발적인 스포츠웨어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[업데이트 - 제이 발빈, 에어 조던 3 '리오' 출시 여부를 언급하다?]]></title>
         <id>https://www.shoeprize.com/culture/5000</id>
@@ -46,7 +53,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">2,306</span>
+                    <span class="count">2,318</span>
                   </div>
                 <div class="info date">
                   2023.12.31
@@ -71,9 +78,9 @@
         <content type="html"><![CDATA[<a href="/culture/5675">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png" data-src="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="2023 SHOEPRIZE REPORT">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/5675/thumbnail-154cc16c-a788-11ee-9573-0a1f297d92a6.png" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="2023 SHOEPRIZE REPORT">
           </picture>
         </div>
         <div class="info_area">
@@ -83,7 +90,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">10,304</span>
+                    <span class="count">10,327</span>
                   </div>
                 <div class="info date">
                   2023.12.31
@@ -127,12 +134,5 @@
         <link href="https://www.shoeprize.com/culture/5681"/>
         <updated>2023-12-29T05:10:40.455Z</updated>
         <content type="html"><![CDATA[바로 내일 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 - 조던 1 하이 블랙 토의 귀환]]></title>
-        <id>https://www.shoeprize.com/culture/3557</id>
-        <link href="https://www.shoeprize.com/culture/3557"/>
-        <updated>2023-12-29T04:12:00.574Z</updated>
-        <content type="html"><![CDATA[2024년 기대작 중 하나]]></content>
     </entry>
 </feed>
