@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-01-04T08:12:36.430Z</updated>
+    <updated>2024-01-04T09:10:35.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[손흥민과 모남희의 협업]]></title>
+        <id>https://www.shoeprize.com/culture/5701</id>
+        <link href="https://www.shoeprize.com/culture/5701"/>
+        <updated>2024-01-04T09:10:34.967Z</updated>
+        <content type="html"><![CDATA[귀여운 SON7 디테일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴먼 메이드 27번째 시즌 드롭리스트 공개]]></title>
         <id>https://www.shoeprize.com/culture/5699</id>
@@ -81,12 +88,5 @@
         <link href="https://www.shoeprize.com/culture/5000"/>
         <updated>2024-01-02T07:09:48.606Z</updated>
         <content type="html"><![CDATA[네 번째 만남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLB 서울 시리즈, 티켓팅 소식이 전해지다]]></title>
-        <id>https://www.shoeprize.com/culture/5689</id>
-        <link href="https://www.shoeprize.com/culture/5689"/>
-        <updated>2024-01-02T09:10:30.138Z</updated>
-        <content type="html"><![CDATA[오타니의 데뷔전을 서울에서]]></content>
     </entry>
 </feed>
