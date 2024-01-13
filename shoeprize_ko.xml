@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2024-01-13T01:52:28.547Z</updated>
+    <updated>2024-01-13T02:24:20.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 우먼스 화이트 울프 그레이]]></title>
+        <id>https://www.shoeprize.com/raffles/963</id>
+        <link href="https://www.shoeprize.com/raffles/963"/>
+        <updated>2024-01-13T02:24:04.910Z</updated>
+        <content type="html"><![CDATA[신세계 동대구 나이키]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 SB 덩크 로우 프로 코트 퍼플]]></title>
+        <id>https://www.shoeprize.com/raffles/404</id>
+        <link href="https://www.shoeprize.com/raffles/404"/>
+        <updated>2024-01-13T02:24:04.911Z</updated>
+        <content type="html"><![CDATA[나이키 스타일 홍대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴먼 메이드 HM 로고 삭스 블랙]]></title>
         <id>https://www.shoeprize.com/raffles/394823</id>
@@ -146,6 +160,13 @@
         <content type="html"><![CDATA[HUMAN MADE JP]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[퍼킹 어썸 x 아디다스 오리지널스 스케이트보딩 삼바]]></title>
+        <id>https://www.shoeprize.com/raffles/114488</id>
+        <link href="https://www.shoeprize.com/raffles/114488"/>
+        <updated>2024-01-13T02:24:04.940Z</updated>
+        <content type="html"><![CDATA[카시나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[푸마 모스트로 OG 올리브 오일]]></title>
         <id>https://www.shoeprize.com/raffles/394488</id>
         <link href="https://www.shoeprize.com/raffles/394488"/>
@@ -193,26 +214,5 @@
         <link href="https://www.shoeprize.com/raffles/114452"/>
         <updated>2024-01-13T01:52:13.321Z</updated>
         <content type="html"><![CDATA[END]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 옐로우 오커]]></title>
-        <id>https://www.shoeprize.com/raffles/114192</id>
-        <link href="https://www.shoeprize.com/raffles/114192"/>
-        <updated>2024-01-13T01:52:13.321Z</updated>
-        <content type="html"><![CDATA[END]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 옐로우 오커]]></title>
-        <id>https://www.shoeprize.com/raffles/114192</id>
-        <link href="https://www.shoeprize.com/raffles/114192"/>
-        <updated>2024-01-13T01:52:13.321Z</updated>
-        <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 3 TD 화이트 미드나잇 네이비 시멘트 그레이]]></title>
-        <id>https://www.shoeprize.com/raffles/384772</id>
-        <link href="https://www.shoeprize.com/raffles/384772"/>
-        <updated>2024-01-13T00:42:11.853Z</updated>
-        <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
     </entry>
 </feed>
