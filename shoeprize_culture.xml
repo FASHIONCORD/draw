@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-01-29T09:10:35.248Z</updated>
+    <updated>2024-01-29T10:10:40.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이제는 무시할 수 없는 '러닝 트렌드']]></title>
+        <id>https://www.shoeprize.com/culture/5800</id>
+        <link href="https://www.shoeprize.com/culture/5800"/>
+        <updated>2024-01-29T10:10:40.342Z</updated>
+        <content type="html"><![CDATA[아디제로 아디오스 프로를 주목하라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토이스토리 협업 크록스 2종 오피셜 이미지 공개]]></title>
         <id>https://www.shoeprize.com/culture/5802</id>
@@ -48,9 +55,9 @@
         <content type="html"><![CDATA[<a href="/culture/5799">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep77: 같이 쇼핑하면 개패고싶은 유형">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep77: 같이 쇼핑하면 개패고싶은 유형">
           </picture>
         </div>
         <div class="info_area">
@@ -60,7 +67,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,210</span>
+                    <span class="count">1,213</span>
                   </div>
                 <div class="info date">
                   2024.01.28
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5795"/>
         <updated>2024-01-27T08:11:44.640Z</updated>
         <content type="html"><![CDATA[24SS 제품 한국에서 만나볼 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키스 x 클락스 x 아디다스 삼자 협업 가젤 발매 정보]]></title>
-        <id>https://www.shoeprize.com/culture/5792</id>
-        <link href="https://www.shoeprize.com/culture/5792"/>
-        <updated>2024-01-26T07:09:04.181Z</updated>
-        <content type="html"><![CDATA[구매 방법이 특이하다]]></content>
     </entry>
 </feed>
