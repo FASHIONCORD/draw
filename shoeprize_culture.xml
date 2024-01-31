@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-01-31T04:11:58.345Z</updated>
+    <updated>2024-01-31T05:10:54.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크록스가 포켓몬스터 피카츄와 만난다]]></title>
+        <id>https://www.shoeprize.com/culture/5812</id>
+        <link href="https://www.shoeprize.com/culture/5812"/>
+        <updated>2024-01-31T05:10:53.723Z</updated>
+        <content type="html"><![CDATA[피카츄 지비츠는 못 참지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 X 피어 오브 갓 애슬레틱, 새로운 신발 출시?]]></title>
+        <id>https://www.shoeprize.com/culture/5811</id>
+        <link href="https://www.shoeprize.com/culture/5811"/>
+        <updated>2024-01-31T05:10:53.723Z</updated>
+        <content type="html"><![CDATA[축구화에서 영감을 얻은 농구화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조던, 뮬 타입의 새로운 풋웨어 출시]]></title>
         <id>https://www.shoeprize.com/culture/5809</id>
@@ -74,42 +88,5 @@
         <link href="https://www.shoeprize.com/culture/5803"/>
         <updated>2024-01-29T06:12:52.110Z</updated>
         <content type="html"><![CDATA[해체주의 감성이 깃든 워크웨어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 5주 차 주요 발매 소식]]></title>
-        <id>https://www.shoeprize.com/culture/5794</id>
-        <link href="https://www.shoeprize.com/culture/5794"/>
-        <updated>2024-01-28T11:08:01.982Z</updated>
-        <content type="html"><![CDATA[팔라스 코리아 익스클루시브부터 발렌타인 데이 에디션까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳤습니까 슈먼? ep77: 같이 쇼핑하면 개패고싶은 유형]]></title>
-        <id>https://www.shoeprize.com/culture/5799</id>
-        <link href="https://www.shoeprize.com/culture/5799"/>
-        <updated>2024-01-28T10:09:11.624Z</updated>
-        <content type="html"><![CDATA[<a href="/culture/5799">
-        <div class="img_area">
-          <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg?w=600">
-            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-4524e572-bdc2-11ee-a025-0a33ed3be6e4.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep77: 같이 쇼핑하면 개패고싶은 유형">
-          </picture>
-        </div>
-        <div class="info_area">
-            <div class="category">웹툰</div>
-            <div class="post_title">미쳤습니까 슈먼? ep77: 같이 쇼핑하면 개패고싶은 유형</div>
-            
-                <div class="detail_info">
-                  <div class="info">
-                    <span class="title">읽음</span>
-                    <span class="count">1,293</span>
-                  </div>
-                <div class="info date">
-                  2024.01.28
-                </div>
-
-            </div>
-        </div>
-    </a>]]></content>
     </entry>
 </feed>
