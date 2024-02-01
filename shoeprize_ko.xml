@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2024-02-01T06:12:59.485Z</updated>
+    <updated>2024-02-01T07:10:18.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.shoeprize.com/raffles/396237"/>
         <updated>2024-02-01T03:10:59.137Z</updated>
         <content type="html"><![CDATA[SIZE? *IN APP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 1 로우 GS 아머리 네이비 스포츠 레드]]></title>
+        <id>https://www.shoeprize.com/raffles/390010</id>
+        <link href="https://www.shoeprize.com/raffles/390010"/>
+        <updated>2024-02-01T07:10:02.156Z</updated>
+        <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 줌 프릭 5 쓰루 마이 아이즈 소프트 엘로우 (US/EU)]]></title>
@@ -207,12 +214,5 @@
         <link href="https://www.shoeprize.com/raffles/388984"/>
         <updated>2024-02-01T06:12:44.281Z</updated>
         <content type="html"><![CDATA[ASPHALTGOLD *IN APP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 울트라 부스트 1.0 마룬 코어 블랙 브라이트 레드]]></title>
-        <id>https://www.shoeprize.com/raffles/396240</id>
-        <link href="https://www.shoeprize.com/raffles/396240"/>
-        <updated>2024-02-01T06:12:44.282Z</updated>
-        <content type="html"><![CDATA[ADIDAS US]]></content>
     </entry>
 </feed>
