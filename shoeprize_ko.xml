@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2024-02-02T18:12:42.943Z</updated>
+    <updated>2024-02-02T19:09:44.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 1 하이 OG 우먼스 화이트 골드]]></title>
-        <id>https://www.shoeprize.com/raffles/114457</id>
-        <link href="https://www.shoeprize.com/raffles/114457"/>
-        <updated>2024-02-02T18:12:26.706Z</updated>
-        <content type="html"><![CDATA[NIKE US]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 크레이지 인피니티 차콜 코어 블랙 솔라 레드]]></title>
         <id>https://www.shoeprize.com/raffles/395527</id>
@@ -213,6 +206,13 @@
         <id>https://www.shoeprize.com/raffles/397197</id>
         <link href="https://www.shoeprize.com/raffles/397197"/>
         <updated>2024-02-02T16:10:04.207Z</updated>
+        <content type="html"><![CDATA[HUMAN MADE JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴먼 메이드 드래곤 커피 머그 화이트]]></title>
+        <id>https://www.shoeprize.com/raffles/397193</id>
+        <link href="https://www.shoeprize.com/raffles/397193"/>
+        <updated>2024-02-02T19:09:28.056Z</updated>
         <content type="html"><![CDATA[HUMAN MADE JP]]></content>
     </entry>
 </feed>
