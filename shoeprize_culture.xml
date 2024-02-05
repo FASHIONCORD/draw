@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-02-05T09:10:05.799Z</updated>
+    <updated>2024-02-05T10:11:15.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/culture/5835"/>
         <updated>2024-02-05T06:13:05.463Z</updated>
         <content type="html"><![CDATA[스케이트보드 그 이상의 브랜드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송 포 더 뮤트 x 아디다스 오리지널스 컨트리 3종 발매 정보]]></title>
+        <id>https://www.shoeprize.com/culture/5838</id>
+        <link href="https://www.shoeprize.com/culture/5838"/>
+        <updated>2024-02-05T10:11:15.102Z</updated>
+        <content type="html"><![CDATA[아디다스 컨펌드 앱에서 응모 진행중]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[업데이트 - 24SS 웨일스 보너 x 아디다스 삼바 협업 스니커즈 살펴보기]]></title>
@@ -48,9 +55,9 @@
         <content type="html"><![CDATA[<a href="/culture/5834">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep78: 유행 안타는 기본 스니커즈">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-e6f828c0-c342-11ee-906e-02d51a573a82.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep78: 유행 안타는 기본 스니커즈">
           </picture>
         </div>
         <div class="info_area">
@@ -60,7 +67,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,921</span>
+                    <span class="count">1,933</span>
                   </div>
                 <div class="info date">
                   2024.02.04
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5828"/>
         <updated>2024-02-03T09:10:04.185Z</updated>
         <content type="html"><![CDATA[스터드의 고급스러움]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 - 팔라스 서울 오프라인 출시 방식 공개]]></title>
-        <id>https://www.shoeprize.com/culture/5815</id>
-        <link href="https://www.shoeprize.com/culture/5815"/>
-        <updated>2024-01-31T13:10:57.019Z</updated>
-        <content type="html"><![CDATA[리얼 캠핑]]></content>
     </entry>
 </feed>
