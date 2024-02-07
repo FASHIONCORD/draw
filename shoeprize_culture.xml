@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-02-07T02:15:15.005Z</updated>
+    <updated>2024-02-07T03:11:35.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[식상하지만, 식상하지 않은 발렌타인 데이 컬렉션]]></title>
+        <id>https://www.shoeprize.com/culture/5843</id>
+        <link href="https://www.shoeprize.com/culture/5843"/>
+        <updated>2024-02-07T03:11:35.266Z</updated>
+        <content type="html"><![CDATA[스니커즈에 담긴 시대를 관통하는 ‘사랑’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크록스 협업 포함, 팔라스 봄 컬렉션 2주 차 드롭 리스트 공개]]></title>
         <id>https://www.shoeprize.com/culture/5842</id>
@@ -88,7 +95,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">2,012</span>
+                    <span class="count">2,016</span>
                   </div>
                 <div class="info date">
                   2024.02.04
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/5832"/>
         <updated>2024-02-04T04:11:59.940Z</updated>
         <content type="html"><![CDATA[렌더링 이미지 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르쉐 X 퓨마 협업 소식 공개]]></title>
-        <id>https://www.shoeprize.com/culture/5831</id>
-        <link href="https://www.shoeprize.com/culture/5831"/>
-        <updated>2024-02-03T09:10:04.182Z</updated>
-        <content type="html"><![CDATA[스피드 X 스피드]]></content>
     </entry>
 </feed>
