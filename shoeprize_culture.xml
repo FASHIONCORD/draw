@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-03-05T05:10:08.109Z</updated>
+    <updated>2024-03-05T06:12:39.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[르브론 제임스 & 드레이크, 골프 사업 투자 팀을 결성하다]]></title>
+        <id>https://www.shoeprize.com/culture/6037</id>
+        <link href="https://www.shoeprize.com/culture/6037"/>
+        <updated>2024-03-05T06:12:38.798Z</updated>
+        <content type="html"><![CDATA[??? : 본업은 농구고 취미는 골프에요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스투시 24 봄 컬렉션 두 번째 드롭 리스트 살펴보기]]></title>
         <id>https://www.shoeprize.com/culture/6032</id>
@@ -48,9 +55,9 @@
         <content type="html"><![CDATA[<a href="/culture/6029">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="조던4의 불량품이 이베이에서 약 2300만원에 거래되다">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-f418e242-da08-11ee-8a07-0a1f8d784435.webp" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="조던4의 불량품이 이베이에서 약 2300만원에 거래되다">
           </picture>
         </div>
         <div class="info_area">
@@ -60,7 +67,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">224</span>
+                    <span class="count">279</span>
                   </div>
                 <div class="info date">
                   2024.03.04
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/6024"/>
         <updated>2024-03-04T05:44:08.173Z</updated>
         <content type="html"><![CDATA[디자인과 실용성을 다 잡은 러닝 특화 아이템]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴발란스 2002R ORB 핑크 출시 예정]]></title>
-        <id>https://www.shoeprize.com/culture/6023</id>
-        <link href="https://www.shoeprize.com/culture/6023"/>
-        <updated>2024-03-04T05:44:08.174Z</updated>
-        <content type="html"><![CDATA[봄 시즌에 찰떡]]></content>
     </entry>
 </feed>
