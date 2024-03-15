@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2024-03-15T20:12:03.960Z</updated>
+    <updated>2024-03-15T21:08:31.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 4 우먼스 화이트 앤 골드]]></title>
-        <id>https://www.shoeprize.com/raffles/114453</id>
-        <link href="https://www.shoeprize.com/raffles/114453"/>
-        <updated>2024-03-15T15:10:19.671Z</updated>
-        <content type="html"><![CDATA[OFFSPRING]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 3 GS 그린 글로우]]></title>
-        <id>https://www.shoeprize.com/raffles/397433</id>
-        <link href="https://www.shoeprize.com/raffles/397433"/>
-        <updated>2024-03-15T15:10:19.673Z</updated>
-        <content type="html"><![CDATA[EXTRABUTTER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어 조던 3 그린 글로우]]></title>
-        <id>https://www.shoeprize.com/raffles/118691</id>
-        <link href="https://www.shoeprize.com/raffles/118691"/>
-        <updated>2024-03-15T15:10:19.674Z</updated>
-        <content type="html"><![CDATA[EXTRABUTTER]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[푸마 인도어 OG 프로스티드 아이보리 클럽 레드]]></title>
         <id>https://www.shoeprize.com/raffles/404814</id>
@@ -214,5 +193,26 @@
         <link href="https://www.shoeprize.com/raffles/397434"/>
         <updated>2024-03-15T16:12:42.721Z</updated>
         <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 GS 그린 글로우]]></title>
+        <id>https://www.shoeprize.com/raffles/397433</id>
+        <link href="https://www.shoeprize.com/raffles/397433"/>
+        <updated>2024-03-15T15:10:19.673Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 그린 글로우]]></title>
+        <id>https://www.shoeprize.com/raffles/118691</id>
+        <link href="https://www.shoeprize.com/raffles/118691"/>
+        <updated>2024-03-15T15:10:19.674Z</updated>
+        <content type="html"><![CDATA[NIKE US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 TD 그린 글로우]]></title>
+        <id>https://www.shoeprize.com/raffles/397448</id>
+        <link href="https://www.shoeprize.com/raffles/397448"/>
+        <updated>2024-03-15T16:12:42.720Z</updated>
+        <content type="html"><![CDATA[BODEGA]]></content>
     </entry>
 </feed>
