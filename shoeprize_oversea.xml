@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2024-03-24T13:10:56.360Z</updated>
+    <updated>2024-03-24T14:08:19.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.shoeprize.com/raffles/114564"/>
         <updated>2024-03-23T15:11:40.834Z</updated>
         <content type="html"><![CDATA[ABC마트 GS 강남신세계점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 에어 페가수스 2K5 화이트 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/393911</id>
+        <link href="https://www.shoeprize.com/raffles/393911"/>
+        <updated>2024-03-24T14:08:11.873Z</updated>
+        <content type="html"><![CDATA[SNS US]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 화이트 유니버시티 골드]]></title>
@@ -207,12 +214,5 @@
         <link href="https://www.shoeprize.com/raffles/403703"/>
         <updated>2024-03-24T04:11:52.015Z</updated>
         <content type="html"><![CDATA[푸마 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 오리지널스 삼바 OG 우먼스 클라우드 화이트 실버 그린]]></title>
-        <id>https://www.shoeprize.com/raffles/404332</id>
-        <link href="https://www.shoeprize.com/raffles/404332"/>
-        <updated>2024-03-24T04:11:52.016Z</updated>
-        <content type="html"><![CDATA[SSENSE]]></content>
     </entry>
 </feed>
