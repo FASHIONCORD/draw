@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2024-04-04T22:09:18.790Z</updated>
+    <updated>2024-04-04T23:11:01.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[퓨마 MB 03 스파크]]></title>
-        <id>https://www.shoeprize.com/raffles/406892</id>
-        <link href="https://www.shoeprize.com/raffles/406892"/>
-        <updated>2024-04-04T15:10:18.170Z</updated>
-        <content type="html"><![CDATA[AFEW-STORE]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스 크레이지 인피니티 레이커스]]></title>
         <id>https://www.shoeprize.com/raffles/395256</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/407827"/>
         <updated>2024-04-04T17:08:55.202Z</updated>
         <content type="html"><![CDATA[REEBOK US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키 덩크 로우 팬텀 라이트 본 세일 코코넛 밀크]]></title>
+        <id>https://www.shoeprize.com/raffles/395283</id>
+        <link href="https://www.shoeprize.com/raffles/395283"/>
+        <updated>2024-04-04T23:10:53.840Z</updated>
+        <content type="html"><![CDATA[SNS *IN APP]]></content>
     </entry>
 </feed>
