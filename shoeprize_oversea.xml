@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2024-04-05T15:10:19.881Z</updated>
+    <updated>2024-04-05T16:13:12.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[팔라스 2024 봄 컬렉션 10주 차]]></title>
-        <id>https://www.shoeprize.com/raffles/408369</id>
-        <link href="https://www.shoeprize.com/raffles/408369"/>
-        <updated>2024-04-05T15:10:12.098Z</updated>
-        <content type="html"><![CDATA[PALACE US]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스 AE 1 조지아 레드 클레이]]></title>
-        <id>https://www.shoeprize.com/raffles/393248</id>
-        <link href="https://www.shoeprize.com/raffles/393248"/>
-        <updated>2024-04-05T15:10:12.098Z</updated>
-        <content type="html"><![CDATA[ADIDAS US]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스투시 2024 봄 아이웨어 컬렉션]]></title>
         <id>https://www.shoeprize.com/raffles/408438</id>
@@ -58,14 +44,14 @@
         <title type="html"><![CDATA[푸마 GV 스페셜 화이트 아이보리]]></title>
         <id>https://www.shoeprize.com/raffles/405850</id>
         <link href="https://www.shoeprize.com/raffles/405850"/>
-        <updated>2024-04-05T15:10:12.100Z</updated>
+        <updated>2024-04-05T15:10:12.099Z</updated>
         <content type="html"><![CDATA[BSTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 4 우먼스 비비드 설퍼]]></title>
         <id>https://www.shoeprize.com/raffles/118647</id>
         <link href="https://www.shoeprize.com/raffles/118647"/>
-        <updated>2024-04-05T15:10:12.102Z</updated>
+        <updated>2024-04-05T15:10:12.098Z</updated>
         <content type="html"><![CDATA[NIKE JP]]></content>
     </entry>
     <entry>
@@ -214,5 +200,19 @@
         <link href="https://www.shoeprize.com/raffles/395256"/>
         <updated>2024-04-05T15:10:12.130Z</updated>
         <content type="html"><![CDATA[ADIDAS JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 우먼스 코어 블랙 클리어 핑크]]></title>
+        <id>https://www.shoeprize.com/raffles/389054</id>
+        <link href="https://www.shoeprize.com/raffles/389054"/>
+        <updated>2024-04-05T16:13:04.866Z</updated>
+        <content type="html"><![CDATA[ABC마트 GS 용산아이파크몰점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스 오리지널스 핸드볼 스페지알 우먼스 클리어 핑크]]></title>
+        <id>https://www.shoeprize.com/raffles/116791</id>
+        <link href="https://www.shoeprize.com/raffles/116791"/>
+        <updated>2024-04-05T16:13:04.867Z</updated>
+        <content type="html"><![CDATA[ABC마트 GS 용산아이파크몰점]]></content>
     </entry>
 </feed>
