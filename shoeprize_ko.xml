@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 국내</title>
-    <updated>2024-04-10T21:10:19.847Z</updated>
+    <updated>2024-04-10T22:11:17.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[클랏 x 아디다스 오리지널스 슈퍼스타 블랙 화이트]]></title>
-        <id>https://www.shoeprize.com/raffles/394478</id>
-        <link href="https://www.shoeprize.com/raffles/394478"/>
-        <updated>2024-04-10T15:10:06.926Z</updated>
-        <content type="html"><![CDATA[SVD *IN APP]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나이키 덩크 로우 SP 베니어]]></title>
         <id>https://www.shoeprize.com/raffles/307</id>
@@ -213,6 +206,13 @@
         <id>https://www.shoeprize.com/raffles/407659</id>
         <link href="https://www.shoeprize.com/raffles/407659"/>
         <updated>2024-04-10T15:10:06.968Z</updated>
+        <content type="html"><![CDATA[컨버스 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[던전 & 드래곤 x 컨버스 크리스탈 볼 티셔츠 블랙]]></title>
+        <id>https://www.shoeprize.com/raffles/407633</id>
+        <link href="https://www.shoeprize.com/raffles/407633"/>
+        <updated>2024-04-10T15:10:06.969Z</updated>
         <content type="html"><![CDATA[컨버스 코리아]]></content>
     </entry>
 </feed>
