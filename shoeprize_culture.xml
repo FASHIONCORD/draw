@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-04-10T00:41:27.790Z</updated>
+    <updated>2024-04-10T01:43:39.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.shoeprize.com/culture/6200"/>
         <updated>2024-04-09T23:10:39.550Z</updated>
         <content type="html"><![CDATA[슈프라이즈가 매주 선보이는 뉴스레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업데이트 - 조 프레쉬굿즈 x 뉴발란스 1000 출시 확정]]></title>
+        <id>https://www.shoeprize.com/culture/6031</id>
+        <link href="https://www.shoeprize.com/culture/6031"/>
+        <updated>2024-04-10T01:43:38.753Z</updated>
+        <content type="html"><![CDATA[현재 응모 진행 중]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키코 코스타디노브 아식스 노발리스 젤 테레모아, 발매일정 확정]]></title>
@@ -88,7 +95,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">1,786</span>
+                    <span class="count">1,788</span>
                   </div>
                 <div class="info date">
                   2024.04.07
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/6193"/>
         <updated>2024-04-07T18:11:54.347Z</updated>
         <content type="html"><![CDATA[전설적 모델 1986년형 944 터보를 복각하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to Shoeprize]]></title>
-        <id>https://www.shoeprize.com/culture/6184</id>
-        <link href="https://www.shoeprize.com/culture/6184"/>
-        <updated>2024-04-07T18:11:54.349Z</updated>
-        <content type="html"><![CDATA[슈프라이즈 라플 183회 당첨자]]></content>
     </entry>
 </feed>
