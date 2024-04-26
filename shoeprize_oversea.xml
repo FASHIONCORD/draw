@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:1,%22includeKor%22:0,%22excludeEnd%22:0}</id>
     <title>슈프라이즈 ─ 해외</title>
-    <updated>2024-04-26T17:11:00.932Z</updated>
+    <updated>2024-04-26T18:12:33.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
-    <entry>
-        <title type="html"><![CDATA[리바이스 x 스투시 2024 봄 컬렉션]]></title>
-        <id>https://www.shoeprize.com/raffles/410079</id>
-        <link href="https://www.shoeprize.com/raffles/410079"/>
-        <updated>2024-04-26T15:11:05.789Z</updated>
-        <content type="html"><![CDATA[STUSSY US]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[에어 조던 1 레트로 하이 OG TD 아티저널 레드]]></title>
         <id>https://www.shoeprize.com/raffles/393206</id>
@@ -214,5 +207,12 @@
         <link href="https://www.shoeprize.com/raffles/410059"/>
         <updated>2024-04-26T15:11:05.824Z</updated>
         <content type="html"><![CDATA[SUPREME JP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어 조던 3 우먼스 조지아 피치]]></title>
+        <id>https://www.shoeprize.com/raffles/119391</id>
+        <link href="https://www.shoeprize.com/raffles/119391"/>
+        <updated>2024-04-26T15:11:05.793Z</updated>
+        <content type="html"><![CDATA[SNS *IN APP]]></content>
     </entry>
 </feed>
