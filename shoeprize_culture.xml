@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shoeprize.com/culture/</id>
     <title>슈프라이즈 - 컬처</title>
-    <updated>2024-05-02T00:41:38.026Z</updated>
+    <updated>2024-05-02T01:46:46.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.shoeprize.com/images/icons/appIcon/touch-icon-16x16.1d3df1c84440.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나이키SB/챔피온/아오이 협업 포함, 슈프림 12주 차 드롭 리스트 공개]]></title>
+        <id>https://www.shoeprize.com/culture/6292</id>
+        <link href="https://www.shoeprize.com/culture/6292"/>
+        <updated>2024-05-02T01:46:45.523Z</updated>
+        <content type="html"><![CDATA[드디어 발매되는 나이키 SB 다윈 로우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<범죄도시4>는 패션 브랜드의 데스노트인가]]></title>
         <id>https://www.shoeprize.com/culture/6286</id>
@@ -48,9 +55,9 @@
         <content type="html"><![CDATA[<a href="/culture/6284">
         <div class="img_area">
           <picture>
-            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg?f=webp&amp;w=1204" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg?f=webp&amp;w=1204">
-            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg?w=600" srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg?w=600">
-            <img class="" src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep90: 드디어 나온 스캇 x 점프맨 잭">
+            <source type="image/webp" data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg?f=webp&amp;w=1204">
+            <source data-srcset="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg?w=600">
+            <img class="lazy" src="https://static.shoeprize.com/img/white.jpg" data-src="https://static.shoeprize.com/shoestory/thumbnail/None/thumbnail-2cc72fb0-04b4-11ef-8f9f-0284f565f755.jpg" onerror="this.onerror = null;this.parentNode.children[0].srcset = this.parentNode.children[1].srcset = this.src;" alt="미쳤습니까 슈먼? ep90: 드디어 나온 스캇 x 점프맨 잭">
           </picture>
         </div>
         <div class="info_area">
@@ -60,7 +67,7 @@
                 <div class="detail_info">
                   <div class="info">
                     <span class="title">읽음</span>
-                    <span class="count">4,047</span>
+                    <span class="count">4,056</span>
                   </div>
                 <div class="info date">
                   2024.04.28
@@ -104,12 +111,5 @@
         <link href="https://www.shoeprize.com/culture/4806"/>
         <updated>2024-04-27T07:09:04.004Z</updated>
         <content type="html"><![CDATA[올해 봄 시즌에 만나볼 수 있을 예정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베르디 x 스와치 협업 시계 컬렉션 출시]]></title>
-        <id>https://www.shoeprize.com/culture/6282</id>
-        <link href="https://www.shoeprize.com/culture/6282"/>
-        <updated>2024-04-27T08:12:47.806Z</updated>
-        <content type="html"><![CDATA[베르디 그래픽이 들어간 시계]]></content>
     </entry>
 </feed>
