@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.shoeprize.com/</id>
-    <title>슈프라이즈</title>
-    <updated>2025-03-25T20:14:20.634Z</updated>
+    <id>https://www.shoeprize.com/today/?filter={%22excludeKor%22:0,%22includeKor%22:1,%22excludeEnd%22:0}</id>
+    <title>슈프라이즈 ─ 국내</title>
+    <updated>2025-03-25T21:12:30.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.shoeprize.com/favicon.ico</icon>
+    <icon>https://www.shoeprize.com/today/favicon.ico</icon>
 </feed>
